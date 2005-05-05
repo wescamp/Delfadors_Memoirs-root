@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-05-03 22:14+0200\n"
+"POT-Creation-Date: 2005-05-05 10:32+0200\n"
 "PO-Revision-Date: 2005-05-03 22:14+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -10,38 +10,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-
-#: Delfadors_Memoirs.cfg:15
-msgid "Delfador's Memoirs"
-msgstr ""
-
-#: Delfadors_Memoirs.cfg:19
-msgid "Apprentice"
-msgstr ""
-
-#: Delfadors_Memoirs.cfg:19
-msgid "(easiest)"
-msgstr ""
-
-#: Delfadors_Memoirs.cfg:20
-msgid "Mage"
-msgstr ""
-
-#: Delfadors_Memoirs.cfg:21
-msgid "(hardest)"
-msgstr ""
-
-#: Delfadors_Memoirs.cfg:21
-msgid "Great Mage"
-msgstr ""
-
-#: Delfadors_Memoirs.cfg:24
-msgid ""
-"Wesnoth seems to be slipping inexorably into chaos, as marauding orcs pour "
-"south across the river Abez, and mysterious and deadly creatures roam the "
-"night. Who is the shadowy Ihiah-Malal? Can you defeat him before he destroys "
-"all life in Wesnoth?"
-msgstr ""
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:3
 msgid "Council in Weldyn"
@@ -76,26 +44,6 @@ msgstr ""
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:276
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:107
 msgid "Time runs out"
-msgstr ""
-
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:52
-msgid "Do you serve Ihiah-Malal, living man?"
-msgstr ""
-
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:58
-msgid "Then you will not mind if we kill you! Hahahahah!"
-msgstr ""
-
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:67
-msgid "Then you will die forever!"
-msgstr ""
-
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:98
-msgid "Ihiah-Malal commands your death!"
-msgstr ""
-
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:125
-msgid "Destroy the intruder, my minions!"
 msgstr ""
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:132
@@ -917,4 +865,30 @@ msgstr ""
 
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:35
 msgid "slow"
+msgstr ""
+
+#: Delfadors_Memoirs/utils/deaths.cfg:22
+msgid "No! Without Lionel's help, I am as good as defeated!"
+msgstr ""
+
+#: Delfadors_Memoirs/utils/deaths.cfg:37
+msgid ""
+"Chantal! No - you can't be dead! I have no hope of returning to Wesnoth "
+"now..."
+msgstr ""
+
+#: Delfadors_Memoirs/utils/generators.cfg:21
+msgid "I call upon all that is holy to break the power of this evil stone!"
+msgstr ""
+
+#: Delfadors_Memoirs/utils/generators.cfg:67
+msgid "Evil emanates from this stone, but I have not the power to destroy it."
+msgstr ""
+
+#: Delfadors_Memoirs/utils/generators.cfg:149
+msgid "Evil spirits, begone from this place!"
+msgstr ""
+
+#: Delfadors_Memoirs/utils/generators.cfg:195
+msgid "It would take powerful magic to drive the evil from this place."
 msgstr ""
