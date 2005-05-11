@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-05 10:36+0200\n"
-"PO-Revision-Date: 2005-05-11 01:01+0200\n"
+"PO-Revision-Date: 2005-05-11 13:03+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -1070,88 +1070,50 @@ msgstr "sakta ner"
 
 #: Delfadors_Memoirs/utils/deaths.cfg:22
 msgid "No! Without Lionel's help, I am as good as defeated!"
-msgstr ""
+msgstr "Nej! Utan Lionels hjälp är jag så gott som besegrad!"
 
 #: Delfadors_Memoirs/utils/deaths.cfg:37
 msgid ""
 "Chantal! No - you can't be dead! I have no hope of returning to Wesnoth "
 "now..."
 msgstr ""
+"Chantal! Nej, du får inte vara död! Nu finns det inget hopp om att få "
+"återvända till Wesnoth..."
 
 #: Delfadors_Memoirs/utils/generators.cfg:21
 msgid "I call upon all that is holy to break the power of this evil stone!"
-msgstr ""
+msgstr "Jag åberopar allt heligt för att bryta den här onda stenen makt!"
 
 #: Delfadors_Memoirs/utils/generators.cfg:67
 msgid "Evil emanates from this stone, but I have not the power to destroy it."
-msgstr ""
+msgstr "Stenen utstrålar ondska, men jag har inte kraften att förstöra den."
 
 #: Delfadors_Memoirs/utils/generators.cfg:149
 msgid "Evil spirits, begone from this place!"
-msgstr ""
+msgstr "Onda andar! Vik hädan!"
 
 #: Delfadors_Memoirs/utils/generators.cfg:195
 msgid "It would take powerful magic to drive the evil from this place."
 msgstr ""
+"Det måste till kraftfull magi för att driva bort ondskan från den här "
+"platsen."
 
 #: Delfadors_Memoirs/utils/items.cfg:17
 msgid "Ahh... I can slake my thirst at this well.  Glug, glug glug..."
-msgstr ""
+msgstr "Ahh... Jag kan släcka törsten också. Glugg, glugg, glugg..."
 
 #: Delfadors_Memoirs/utils/items.cfg:47
 msgid ""
 "A wizard's staff of power. This allows the bearer to summon powerful "
 "lightning bolts which strike their enemies, even at close range."
 msgstr ""
+"En trollstav. Den tillåter bäraren att nedkalla blixtar för att slå ned på "
+"fiender, även på nära håll."
 
 #: Delfadors_Memoirs/utils/items.cfg:48
 msgid "Only a powerful mage can wield this."
-msgstr ""
+msgstr "Bara en mäktig magiker kan använda denna."
 
 #: Delfadors_Memoirs/utils/misc.cfg:37
 msgid "A secret passage... I wonder where it leads..."
-msgstr ""
-
-#~ msgid "Delfador's Memoirs"
-#~ msgstr "Delfadors Memoarer"
-
-#~ msgid "Apprentice"
-#~ msgstr "Lärling"
-
-#~ msgid "(easiest)"
-#~ msgstr "(lättast)"
-
-#~ msgid "Mage"
-#~ msgstr "Magiker"
-
-#~ msgid "(hardest)"
-#~ msgstr "(svårast)"
-
-#~ msgid "Great Mage"
-#~ msgstr "Stormagiker"
-
-#~ msgid ""
-#~ "Wesnoth seems to be slipping inexorably into chaos, as marauding orcs "
-#~ "pour south across the river Abez, and mysterious and deadly creatures "
-#~ "roam the night. Who is the shadowy Ihiah-Malal? Can you defeat him before "
-#~ "he destroys all life in Wesnoth?"
-#~ msgstr ""
-#~ "Wesnoth tycks glida allt djupare in i kaos, med härjande orcher som "
-#~ "väller söderut över Abezfloden, och mystiska och dödligt farliga varelser "
-#~ "vandrar omkring i natten. Vem är den skugglike Ihiah-Malal? Kan du "
-#~ "besegra honom innan han förgör allt liv i Wesnoth?"
-
-#~ msgid "Do you serve Ihiah-Malal, living man?"
-#~ msgstr "Tjänar du Ihiah-Malal, du levande?"
-
-#~ msgid "Then you will not mind if we kill you! Hahahahah!"
-#~ msgstr "Då har du väl inte något emot om vi dödar dig! Hahahaha!"
-
-#~ msgid "Then you will die forever!"
-#~ msgstr "Då kommer du att dö för evigt!"
-
-#~ msgid "Ihiah-Malal commands your death!"
-#~ msgstr "Ihiah-Malal befaller din död!"
-
-#~ msgid "Destroy the intruder, my minions!"
-#~ msgstr "Förgör inkräktaren, undersåtar!"
+msgstr "En dold passage... Undrar vart den leder..."
