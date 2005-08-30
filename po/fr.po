@@ -159,8 +159,7 @@ msgid ""
 msgstr ""
 "Mon nom est Roland. Je suis mort il y a bien longtemps, dans une grande "
 "bataille... J'ai presque oublié... Ihiah-Malal est un homme vivant, comme "
-"toi, qui marche parmis les morts. Il promet la vie à tous ceux qui le "
-"suivent."
+"toi, qui marche parmi les morts. Il promet la vie à tous ceux qui le suivent."
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:354
 msgid "I would very much like to meet Ihiah-Malal. Where can I find him?"
@@ -676,8 +675,8 @@ msgid ""
 msgstr ""
 "Au moment où les wesnothiens se retirèrent de l'île, les woses se fondirent "
 "dans les arbres. Delfador commença la méditation qui le placerait en contact "
-"avec le monde des espirits. Mais les woses n'étaient pas les seules "
-"créatures à vivre sur cette île..."
+"avec le monde des esprits. Mais les woses n'étaient pas les seules créatures "
+"à vivre sur cette île..."
 
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:157
 msgid "Ommmmmmm...."
@@ -709,7 +708,7 @@ msgid ""
 "those strange shapes moving among the trees?"
 msgstr ""
 "Nous sommes arrivés. Et voici l'île dont Leollyn a parlé. Mais que sont ces "
-"formes étranges qui bougent parmis les arbres ?"
+"formes étranges qui bougent parmi les arbres ?"
 
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:294
 msgid ""
@@ -717,7 +716,7 @@ msgid ""
 "thought they were gone from Wesnoth forever. They are not evil, it is said, "
 "but yet they may be hostile to us. We had best be careful."
 msgstr ""
-"Je pense que ce sont des woses - guardiens des arbres. J'ai entendu parler "
+"Je pense que ce sont des woses - gardiens des arbres. J'ai entendu parler "
 "d'eux, mais je pensais qu'ils avaient quitté Wesnoth à jamais. Ils ne sont "
 "pas mauvais, dit-on, mais ils pourraient nous être hostiles. Nous devrions "
 "faire attention."
@@ -913,9 +912,9 @@ msgid ""
 "destination. We are under attack even here, by an orcish warband encamped in "
 "the mountains to the southwest."
 msgstr ""
-"Ce ne sera pas aussi facile. L'armée orque se trouve entre ici et votre "
-"destination. Nous sommes attaqués même ici, par une bande orque basée dans "
-"les montagnes au sud-ouest."
+"Ce ne sera pas aussi facile. L'armée orc se trouve entre ici et votre "
+"destination. Nous sommes attaqués même ici, par une bande orc basée dans les "
+"montagnes au sud-ouest."
 
 #: Delfadors_Memoirs/scenarios/wasteland.cfg:204
 msgid ""
@@ -1057,7 +1056,7 @@ msgstr "dague"
 
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:4
 msgid "Wose Shaman"
-msgstr "Chamane wose"
+msgstr "Chaman wose"
 
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:8
 msgid "ambush,regenerates"
