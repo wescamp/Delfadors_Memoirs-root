@@ -2,10 +2,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-05-05 10:36+0200\n"
+"POT-Creation-Date: 2005-09-03 18:59+0200\n"
 "PO-Revision-Date: 2005-05-03 22:14+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"Last-Translator: blurgk <blurgk@gmail.com>\n"
+"Language-Team: Language fr <wesnoth@ml.free.fr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,26 +23,26 @@ msgstr "Terre des morts"
 msgid "Defeat Ihiah-Malal"
 msgstr "Vaincre Ihiah-Malal"
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:109
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:57
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:72
-#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:83
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:215
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:82
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:128
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:264
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:99
+#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:83
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:109
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:128
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:82
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:264
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:72
 msgid "Death of Delfador"
 msgstr "Mort de Delfador"
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:117
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:61
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:80
-#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:87
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:219
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:107
+#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:87
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:117
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:86
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:276
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:107
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:80
 msgid "Time runs out"
 msgstr "Fin des tours atteinte"
 
@@ -190,10 +190,10 @@ msgstr ""
 msgid "Defeat Hagha-Tan"
 msgstr "Vaincre Hagha-Tan"
 
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:103
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:113
 #: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:132
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:268
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:103
 msgid "Death of Leollyn"
 msgstr "Mort de Leollyn"
 
@@ -288,8 +288,8 @@ msgstr ""
 msgid "The Road to Weldyn"
 msgstr "La route vers Weldyn"
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:68
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:79
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:68
 msgid "Defeat enemy leader"
 msgstr "Vaincre le chef ennemi"
 
@@ -968,8 +968,8 @@ msgstr "magique"
 msgid "King of Wesnoth"
 msgstr "Roi de Wesnoth"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:10
 #: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:8
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:10
 msgid "leadership"
 msgstr "commandement"
 
@@ -990,10 +990,10 @@ msgstr ""
 msgid "sword"
 msgstr "épée"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:23
 #: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:21
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:23
 msgid "blade"
-msgstr "sabre"
+msgstr "tranchant"
 
 #: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:37
 msgid "bow"
@@ -1001,7 +1001,7 @@ msgstr "arc"
 
 #: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:38
 msgid "pierce"
-msgstr "percement"
+msgstr "perforant"
 
 #: Delfadors_Memoirs/units/Mage_Commander.cfg:4
 msgid "Mage Commander"
@@ -1030,7 +1030,7 @@ msgstr "bâton"
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:22
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:34
 msgid "impact"
-msgstr "impact"
+msgstr "contondant"
 
 #: Delfadors_Memoirs/units/Mage_Commander.cfg:38
 #: Delfadors_Memoirs/units/Mage_Leader.cfg:43
