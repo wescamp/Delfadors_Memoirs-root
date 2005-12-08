@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-12-08 11:21+0100\n"
+"POT-Creation-Date: 2005-12-08 17:57+0100\n"
 "PO-Revision-Date: 2005-09-02 18:35+0100\n"
 "Last-Translator: RokStar <rokstar123@gmail.com>\n"
 "Language-Team: none\n"
@@ -163,7 +163,7 @@ msgstr "Sconfiggi Ihiah-Malal"
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:84
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:213
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:108
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:128
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:129
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:301
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:100
 msgid "Death of Delfador"
@@ -412,7 +412,7 @@ msgid "Defeat Hagha-Tan"
 msgstr "Sconfiggi Hagha-Tan"
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:111
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:132
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:133
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:305
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:104
 msgid "Death of Leollyn"
@@ -604,15 +604,15 @@ msgstr ""
 msgid "Night in the Swamp"
 msgstr "Notte nella Palude"
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:55
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:56
 msgid "At least, morning is here... And the skeletons are disappearing!"
 msgstr "Finalmente è giorno... E gli scheletri stanno scomparendo!"
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:67
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:68
 msgid "At last, morning is here!"
 msgstr "Finalmente è giorno!"
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:74
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:75
 msgid ""
 "I hope I never see another night like that! Let's leave this evil place as "
 "quickly as possible - I want to get us out of Illuven before dusk."
@@ -621,21 +621,21 @@ msgstr ""
 "posto più in fretta che possiamo - voglio essere lontano da Illuven prima "
 "del tramonto."
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:108
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:109
 msgid ""
 "I think that's all of them! Let's move on - the less time we spend in this "
 "swamp the better."
 msgstr "Muoviamoci - meno tempo passiamo in questa palude e meglio è."
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:124
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:125
 msgid "Survive 12 turns"
 msgstr "Sopravvivi 12 turni"
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:143
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:144
 msgid "These swamps seem to go on forever!"
 msgstr "Queste paludi sembrano estendersi all'infinito!"
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:148
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:149
 msgid ""
 "One more day's travel, I think. We should camp for the night now - we should "
 "be out of it by tomorrow evening."
@@ -643,11 +643,11 @@ msgstr ""
 "Un altro giorno di viaggio credo. Dovremmo accamparci per la notte adesso - "
 "domani pomeriggio saremo lontani da questa palude."
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:157
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:158
 msgid "Those standing stones - they summon evil creatures!"
 msgstr "Queste pietre - evocano creature maligne!"
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:162
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:163
 msgid ""
 "I saw this kind of thing in the north... These abominations are not affected "
 "by swords, but they fear the light of day. We must hold them off as best we "
@@ -657,7 +657,7 @@ msgstr ""
 "dalle spade, ma hanno paura della luce del giorno. Dobbiamo resistere meglio "
 "che possiamo."
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:167
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:168
 msgid ""
 "Hmmm... if I could get nearer to the stones, I could perhaps break their "
 "power..."
@@ -665,7 +665,7 @@ msgstr ""
 "Hmmm.... se potessi avvicinarmi alle pietre forse potrei spezzare il loro "
 "potere..."
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:183
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:184
 msgid "This'll splinter your bones, you vile monstrosity!"
 msgstr "Questo spaccherà le tue ossa, vile mostruosità!"
 

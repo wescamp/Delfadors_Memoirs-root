@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-12-08 11:21+0100\n"
+"POT-Creation-Date: 2005-12-08 17:57+0100\n"
 "PO-Revision-Date: 2005-07-17 23:32+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
@@ -164,7 +164,7 @@ msgstr "Besegra Ihiah-Malal"
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:84
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:213
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:108
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:128
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:129
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:301
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:100
 msgid "Death of Delfador"
@@ -410,7 +410,7 @@ msgid "Defeat Hagha-Tan"
 msgstr "Besegra Hagha-Tan"
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:111
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:132
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:133
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:305
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:104
 msgid "Death of Leollyn"
@@ -600,15 +600,15 @@ msgstr ""
 msgid "Night in the Swamp"
 msgstr "Natt i träsket"
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:55
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:56
 msgid "At least, morning is here... And the skeletons are disappearing!"
 msgstr "Äntligen är det morgon... Och skeletten försvinner!"
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:67
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:68
 msgid "At last, morning is here!"
 msgstr "Äntligen är morgonen här!"
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:74
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:75
 msgid ""
 "I hope I never see another night like that! Let's leave this evil place as "
 "quickly as possible - I want to get us out of Illuven before dusk."
@@ -617,7 +617,7 @@ msgstr ""
 "denna onda plats så fort som möjligt - jag vill att vi lämnar Illuven innan "
 "skymningen faller."
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:108
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:109
 msgid ""
 "I think that's all of them! Let's move on - the less time we spend in this "
 "swamp the better."
@@ -625,15 +625,15 @@ msgstr ""
 "Jag tror det var den siste av dem! Nu fortsätter vi - ju mindre tid vi är i "
 "det här träsket desto bättre."
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:124
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:125
 msgid "Survive 12 turns"
 msgstr "Överlev i 12 drag"
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:143
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:144
 msgid "These swamps seem to go on forever!"
 msgstr "De här träsken tar ju aldrig slut!"
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:148
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:149
 msgid ""
 "One more day's travel, I think. We should camp for the night now - we should "
 "be out of it by tomorrow evening."
@@ -641,11 +641,11 @@ msgstr ""
 "Det är en dags färd ytterligare, tror jag. Vi borde slå läger för natten nu "
 "- i morgon kväll är vi nog ute ur träsket."
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:157
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:158
 msgid "Those standing stones - they summon evil creatures!"
 msgstr "De där stenstoderna - de kallar hit onda varelser!"
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:162
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:163
 msgid ""
 "I saw this kind of thing in the north... These abominations are not affected "
 "by swords, but they fear the light of day. We must hold them off as best we "
@@ -654,7 +654,7 @@ msgstr ""
 "Jag har sett det här norröver... Dessa avskyvärda varelser påverkas inte av "
 "svärd, med de fruktar dagsljus. Vi måste hålla dem på avstånd så gott vi kan."
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:167
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:168
 msgid ""
 "Hmmm... if I could get nearer to the stones, I could perhaps break their "
 "power..."
@@ -662,7 +662,7 @@ msgstr ""
 "Hmmm... Om jag kunde komma närmare stenarna, så kan jag kanske bryta deras "
 "makt..."
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:183
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:184
 msgid "This'll splinter your bones, you vile monstrosity!"
 msgstr "Detta kommer att krossa dina ben, ditt motbjudande monster!"
 
