@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-12-07 17:55+0100\n"
+"POT-Creation-Date: 2005-12-08 11:21+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,7 +34,7 @@ msgstr ""
 msgid "Council in Weldyn"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:29 ./Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:20
+#: ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:22 ./Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:20
 msgid "Delfador"
 msgstr ""
 
@@ -94,55 +94,55 @@ msgstr ""
 msgid "Land of the Dead"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:79
-msgid "So, this is the one my minions told me of... the living man who walks here among the dead. You have come in time to see my greatest achievement - an end to death itself!"
-msgstr ""
-
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:84
-msgid "That's impossible! You must be insane!"
-msgstr ""
-
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:89
-msgid "Have not you yourself travelled between the realms of life and death? Behold!"
-msgstr ""
-
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:138
-msgid "Ihiah-Malal has created a portal to the land of the living! How I long to go through it and see the sun again..."
-msgstr ""
-
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:143
-msgid "Now, my living followers, I summon you! See that death is nothing, and fear not to fight for me!"
-msgstr ""
-
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:182
-msgid "This is a great evil. The dead will not find peace by passing through your gateway, Ihiah-Malal, for you cannot give them life again. You have not brought an end to death, but to life itself!"
-msgstr ""
-
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:187
-msgid "You will see things differently at the point of a sword, my friend. Minions! Kill the unbeliever... he will join us then."
-msgstr ""
-
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:192 ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:111
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:52 ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:104
 msgid "Defeat Ihiah-Malal"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:196 ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:115
+#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:107 ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:56 ./Delfadors_Memoirs/scenarios/wasteland.cfg:72 ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:84 ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:213 ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:108 ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:128 ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:301 ./Delfadors_Memoirs/scenarios/leollyn.cfg:100
 msgid "Death of Delfador"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:200 ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:119
+#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:115 ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:60 ./Delfadors_Memoirs/scenarios/wasteland.cfg:80 ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:88 ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:217 ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:112 ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:313 ./Delfadors_Memoirs/scenarios/leollyn.cfg:108
 msgid "Time runs out"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:217
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:87
+msgid "So, this is the one my minions told me of... the living man who walks here among the dead. You have come in time to see my greatest achievement - an end to death itself!"
+msgstr ""
+
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:92
+msgid "That's impossible! You must be insane!"
+msgstr ""
+
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:97
+msgid "Have not you yourself travelled between the realms of life and death? Behold!"
+msgstr ""
+
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:146
+msgid "Ihiah-Malal has created a portal to the land of the living! How I long to go through it and see the sun again..."
+msgstr ""
+
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:151
+msgid "Now, my living followers, I summon you! See that death is nothing, and fear not to fight for me!"
+msgstr ""
+
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:190
+msgid "This is a great evil. The dead will not find peace by passing through your gateway, Ihiah-Malal, for you cannot give them life again. You have not brought an end to death, but to life itself!"
+msgstr ""
+
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:195
+msgid "You will see things differently at the point of a sword, my friend. Minions! Kill the unbeliever... he will join us then."
+msgstr ""
+
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:210
 msgid "Ihiah-Malal's body lay still for a moment, then stirred!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:222
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:215
 msgid "Follow me if you dare..."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:240
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:233
 msgid "This portal Ihiah-Malal has created is a great and terrible work of magic. I must catch him, and somehow force him to close it!"
 msgstr ""
 
@@ -174,267 +174,307 @@ msgstr ""
 msgid "Destroy the intruder, my minions!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:236
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:132
+msgid "Into the Land of the Dead"
+msgstr ""
+
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:209
+msgid "Move Delfador to the signpost"
+msgstr ""
+
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:245
 msgid "Do not fear me, Delfador. It is my doom to appear as you see me. I was a serf of a cruel lord. He demanded great taxes to fight many wars... then plague came... my family were starving, and we were forced to eat the flesh of those who had died."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:246
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:255
 msgid "Have you encountered the skeletons? Their castle lies north of here. It is difficult to attack, but there is a secret entrance in the valley beyond Sydney's village."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:252
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:261
 msgid "I died a long time ago. I have forgotten my name."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:258
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:267
 msgid "Ihiah-Malal says that he can open a portal to the world of the living. Those who follow him will walk the earth as they did in life."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:262
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:271
 msgid "Why are the dead so restless? This should be a place of rest and peace for you."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:266
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:275
 msgid "Once, I was happy here, but Ihiah-Malal made me see this land as the eyes of the living see it... a place of rock and dust."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:272
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:281
 msgid "I was once a great lord... I commanded armies! Ihiah-Malal promised I would lead again."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:278
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:287
 msgid "Beware the skeletons! They are not the spirits of dead men, but the creations of evil magic."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:282
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:291
 msgid "What else do you know of the skeletons?"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:286
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:295
 msgid "It is said that they guard a powerful magical artifact. Roderick knows more than I do; he lives to the west."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:320
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:329
 msgid "This is surely the land of the dead... and it seems I am still alive. But then, as Leollyn warned, I can never return! I suppose I may as well explore."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:331
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:340
 msgid "A living man... so it is as Ihiah-Malal says..."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:335
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:344
 msgid "Speak again, spirit! Tell me of yourself. Who is this Ihiah-Malal?"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:339
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:348
 msgid "My name is Roland. I died long ago, in a great battle... I have almost forgotten... Ihiah-Malal is a living man, like you, who walks among the dead.  He promises life to all those who follow him."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:343
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:352
 msgid "I would very much like to meet Ihiah-Malal. Where can I find him?"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:347
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:356
 msgid "Follow the dry river, then the road to the signpost in the north. I will guide you. Enter the houses of the dead as you pass, for others here may help you."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:90
+#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:3
+msgid "Leollyn"
+msgstr ""
+
+#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:82
 msgid "Leollyn is slain! This is terrible... I had best give up and return home."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:112
+#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:96
+msgid "Defeat Hagha-Tan"
+msgstr ""
+
+#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:111 ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:132 ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:305 ./Delfadors_Memoirs/scenarios/leollyn.cfg:104
+msgid "Death of Leollyn"
+msgstr ""
+
+#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:128
 msgid "Methor told me that I could find Leollyn in his tower in the Royal Forest outside the city. It should be near here..."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:117
+#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:133
 msgid "Ah, another human is approaching... yes... more meat for my war-band..."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:122
+#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:138
 msgid "Here, my young friend, to the west! Hurry, we are besieged!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:127
+#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:143
 msgid "Don't worry, Leollyn, my friends and I will deal with this barbarian for you. We're getting used to it by now - I did not expect to have so much trouble getting here!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:132
+#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:148
 msgid "Then you have not heard... but there will be time enough for talking. If you can distract those vile creatures, I will try to rustle up a counterattack."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:150
+#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:166
 msgid "Yes... yes... slay them, my assassins!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:155
+#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:171
 msgid "Uh oh... I don't like the look of this..."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:167
+#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:183
 msgid "Well now, you certainly showed up in the nick of time. A fellow mage, too, I see. Now what did you say your name was?"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:178
+#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:194
 msgid "Delfador, sir. Actually, I was looking for you - you see, I am a student of Methor's. He said that you might find me employment in Weldyn."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:183
+#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:199
 msgid "Ah, one of Methor's, eh? Good, good... Well, old Garard certainly needs all the hands he can get right now. Especially those who know their magic!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:190
+#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:206
 msgid "Delfador, sir. But I bring you bad news... Methor, my teacher, is dead."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:195
+#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:211
 msgid "That is grave indeed... these are dark times. I think you had best return with me to Weldyn. Old Garard too, must hear your news."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:202
+#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:218
 msgid "Is that Garard, King of Wesnoth, you refer to?!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:207
+#: ./Delfadors_Memoirs/scenarios/leollyn.cfg:223
 msgid "Of course - do you know any other kings of that name? I am one of his advisors. Though he does not listen to me as closely as he should, perhaps!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:68
+#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:3
+msgid "The Road to Weldyn"
+msgstr ""
+
+#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:61
 msgid "The Great Valley"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:73
+#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:66
 msgid "Fort Brell"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:78
+#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:71
 msgid "Fort Miryen"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:88
+#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:68 ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:80
+msgid "Defeat enemy leader"
+msgstr ""
+
+#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:101
 msgid "Delfador followed Methor's advice, and headed over the hills towards Weldyn. But the roads were more dangerous than he had expected..."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:129
+#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:142
 msgid "Greetings, stranger!  I come to warn you - a party of orcs have moved into the Great Valley to the north, and have been raiding the lands around.  If you press on west, you will have to fight them."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:134
+#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:147
 msgid "I cannot turn back now... If I fight these orcs, will your villagers help me?"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:139
+#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:152
 msgid "Certainly!  You'll be glad of our help too - this region trains the best bowmen in Wesnoth."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:154
+#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:167
 msgid "Take this, you slimy invader!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:170
+#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:183
 msgid "Beware!  Night is falling - that's when the orcs tend to attack!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:186
+#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:199
 msgid "Thank you, Delfador, for helping to rid our land of those nasty orcs. We are in your debt."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:191
+#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:204
 msgid "I just wonder what orcs were doing inside the borders of Wesnoth..."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:196
+#: ./Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:209
 msgid "Perhaps some of us had better go with you as far as Weldyn. These lands are just not safe for a lone traveller, and we may learn what drew the orcs so far south."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:63
+#: ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:3
+msgid "Night in the Swamp"
+msgstr ""
+
+#: ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:55
 msgid "At least, morning is here... And the skeletons are disappearing!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:75
+#: ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:67
 msgid "At last, morning is here!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:82
+#: ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:74
 msgid "I hope I never see another night like that! Let's leave this evil place as quickly as possible - I want to get us out of Illuven before dusk."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:116
+#: ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:108
 msgid "I think that's all of them! Let's move on - the less time we spend in this swamp the better."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:132
+#: ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:124
+msgid "Survive 12 turns"
+msgstr ""
+
+#: ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:143
 msgid "These swamps seem to go on forever!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:137
+#: ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:148
 msgid "One more day's travel, I think. We should camp for the night now - we should be out of it by tomorrow evening."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:146
+#: ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:157
 msgid "Those standing stones - they summon evil creatures!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:151
+#: ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:162
 msgid "I saw this kind of thing in the north... These abominations are not affected by swords, but they fear the light of day. We must hold them off as best we can."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:156
+#: ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:167
 msgid "Hmmm... if I could get nearer to the stones, I could perhaps break their power..."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:172
+#: ./Delfadors_Memoirs/scenarios/swamp_fortress.cfg:183
 msgid "This'll splinter your bones, you vile monstrosity!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:93
+#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:85
 msgid "This chest contains all the money that rogue has taken from unwary travellers!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:113
+#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:103
+msgid "Move Delfador to the signpost in the northeast"
+msgstr ""
+
+#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:130
 msgid "Here the great north road turns west to avoid the swamps of Illuven. Our way lies east across the swamps, and then through the wild lands beyond to the coast."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:118
+#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:135
 msgid "This place looks wild enough for me. Who made those villages in the swamps? Orcs?"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:123
+#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:140
 msgid "No, men of Wesnoth... but those who live here are a lawless lot."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:134
+#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:151
 msgid "Greetings, strangers! This swamp is dangerous... You wanna cross it, you'll need protection - cost you only $fee gold!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:137
+#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:154
 msgid "Thanks very much. Here's the gold..."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:151
+#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:168
 msgid "It's been a pleasure doing business with you... Bye!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:169
+#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:186
 msgid "Where did he go?"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:174
+#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:191
 msgid "Haw haw haw! Suckers!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:179
+#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:196
 msgid "Well, at least we only have to deal with one of them now..."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:190
+#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:207
 msgid "No thanks - we'll manage by ourselves..."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:198
+#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:215
 msgid "You'll regret it!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:203
+#: ./Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:220
 msgid "They certainly will! Haw haw haw!"
 msgstr ""
 
@@ -442,195 +482,211 @@ msgstr ""
 msgid "This Valley Belongs to Me"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:67
+#: ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:60
 msgid "No! Methor... Don't die!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:72
+#: ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:65
 msgid "Heed my last words, Delfador!  Journey northeast to Weldyn, and seek out my friend Leollyn.  He will help you."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:86
+#: ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:79
 msgid "Delfador, your time as my apprentice is now almost over.  You are a fully trained mage, and may choose your own path in life.  I hope however, that you will take my advice, and enroll yourself in the service of King Garard.  I have many contacts at the court and..."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:91
+#: ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:84
 msgid "Listen humans! This valley belongs to me now. I require all your houses and your possessions! Hand them over quietly and I may permit you to live on as my slaves..."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:96
+#: ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:89
 msgid "Arrogant creature! We have little enough, and you cannot take it from us by force."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:101
+#: ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:94
 msgid "That's where you are wrong, puny mage. War is coming, humans... War! Take their villages, and spare no-one!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:134
+#: ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:127
 msgid "Grooar! Burn! Burn! Ahahaha..."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:149
+#: ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:142
 msgid "Well done, Delfador! I see I have trained you well, and you are truly ready to seek your fortune. Journey northeast to Weldyn, and seek out my friend Leollyn. He will help you."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:160
+#: ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:153
 msgid "Poor master Methor... now his school is in ruins. Still, I cannot stay here to rebuild it - I must take his advice and seek out Leollyn."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:80
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:3
+msgid "Ur-thorodor"
+msgstr ""
+
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:71
 msgid "Hruuuarrgh!  The vile human-creatures hew at me..."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:85
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:76
 msgid "Ur-thorodor, you must listen to us! A great evil power threatens all living things in Wesnoth - we must fight against it together, or all life here will perish."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:90
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:81
 msgid "I trust no humans! Drive them out, my children!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:102
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:93
 msgid "I am defeated... My children: hear my last words! Destroy the humans, and never let them set foot on your island again!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:107
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:98
 msgid "This is hopeless! If carrying out my mission means killing these great creatures, then I cannot continue."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:125
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:116
 msgid "Ur-thorodor, listen to me! We are not here to take your island. If you will let just me remain here, then I promise you, on behalf of King Garard, that no Wesnothian will set foot on your island without your permission again. As a token of good faith, I command my army to return to the mainland."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:130
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:121
 msgid "Are you sure that's wise?"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:135
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:126
 msgid "It's the only way! Lionel, lead our soldiers back to the mainland. I will rejoin you when I have carried out my mission, and determined what is amiss in the world of the dead."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:150
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:141
 msgid "I see I had misjudged you, human. You are not like those who came before. I accept your offer!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:156
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:147
 msgid "As the Wesnothians withdrew from the island, the woses melted away into the trees. Delfador began the meditation that would place him in contact with the spirit world. But the woses were not the only creatures living on this island..."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:166
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:157
 msgid "Ommmmmmm...."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:209
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:200
 msgid "A human mage... is it dead?"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:215
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:206
 msgid "Easy to find out... thump it and see if it wakes up!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:220
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:211
 msgid "THUMP!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:270
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:261
 msgid "We have arrived. And there is the island Leollyn spoke of. But what are those strange shapes moving among the trees?"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:275
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:266
 msgid "I believe that they are woses - tree guardians. I have heard of them, but thought they were gone from Wesnoth forever. They are not evil, it is said, but yet they may be hostile to us. We had best be careful."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:280
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:271
 msgid "I am Ur-thorodor, eldest of the forest. Who are you human-creatures? You may not trespass on our island."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:285
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:276
 msgid "Ur-thorodor, please let us pass! We are on a vital mission for King Garard, in the interests of all living things in Wesnoth."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:290
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:281
 msgid "We care nothing for your kings, human-creatures. It is centuries since your kind have been here, and only now are our roots destroying the last of your accursed stonework. Now I will speak no more. Leave us, or suffer our wrath!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:295
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:286
 msgid "This Ur-thorodor should not speak of King Garard that way! 'Suffer our wrath' indeed... I'll show him wrath!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:300
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:291
 msgid "It seems there is no alternative - we must get onto that island! Perhaps if we can get close to Ur-thorodor, and speak with him again, he will understand."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:103
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:297
+msgid "Move Delfador to Ur-thorodor's castle"
+msgstr ""
+
+#: ./Delfadors_Memoirs/scenarios/ur_thorodor.cfg:309
+msgid "Death of Ur-thorodor"
+msgstr ""
+
+#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:76
+msgid "Death of allied leader"
+msgstr ""
+
+#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:116
 msgid "As Delfador followed Ihiah-Malal into the portal, a freezing wind sprung up and the air became thick with ghosts pouring through into the land of the living.  The ground became icy underfoot, and soon Delfador was following the necromancer's footsteps in a thick layer of snow.  Eventually, even these became indistinct."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:108
+#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:121
 msgid "It's hopeless, I've lost all track of Ihiah-Malal... and I shall freeze unless I find shelter soon. Perhaps in that forest to the north..."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:123
+#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:136
 msgid "Hello, stranger! What are you doing in our forests?"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:127
+#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:140
 msgid "It's a long story... but I wonder whether I might first ask for your hospitality? I'm lost, and freezing to death here!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:131
+#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:144
 msgid "Well, I don't see any harm in it... Our border post is to the northeast; you may seek shelter there. But don't tarry! There are deadlier foes than the weather abroad."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:147
+#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:160
 msgid "Welcome, Delfador!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:151
+#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:164
 msgid "Er, hello... you know my name then...?"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:155
+#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:168
 msgid "Yes. I am Chantal, and I know many things. I know you come from the great human state of the south, and are a master of that most human of all arts, magic. You have faced great adversity, and visited a place from where few hope to return, and from where none before have returned unchanged. Fate is heavy upon you, and you deserve our help."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:159
+#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:172
 msgid "Oh... well... very nice of you, but I don't feel very fated. In fact, I've been positively blundering! I was just trying to defend my home against the orcs, and then to find out the source of the undead activity... and I have failed at both."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:163
+#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:176
 msgid "But you have not failed. The southlands have not yet fallen to the orcish army, and have you not learned more about the undead than any man alive? It is he who fears death above all things who deceives the spirits into believing they can live again, and blinds them to the peace and rest of their own domain."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:167
+#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:180
 msgid "You mean Ihiah-Malal?"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:171
+#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:184
 msgid "Yes, that is who I mean."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:175
+#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:188
 msgid "If I might ask, where am I? And what of Lionel, and King Garard? What has befallen them?"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:179
+#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:192
 msgid "You are among the North Elves. Our arts hold back the winter cold within these forests. To the south and west of here lies a wasteland inhabited only by barbarians and orcs. To the south again, the Great River, that you call Abez, and your home. Of your friends, I know nothing."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:183
+#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:196
 msgid "Well, thank you very much for the help, Chantal. I see now what I must do... I have lost Ihiah-Malal, but I must at least try to report back to the King or to Leollyn. I will set out for the south!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:187
+#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:200
 msgid "It will not be that easy. The orcish army lies between here and your destination. We are under attack even here, by an orcish warband encamped in the mountains to the southwest."
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:191
+#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:204
 msgid "Attacked by orcs? Then I might perhaps help you to defeat them, and repay your assistance and kindness!"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:203
+#: ./Delfadors_Memoirs/scenarios/wasteland.cfg:216
 msgid "With your help, Delfador, we have overrun the orcish warlord of this area, and our forests are secure.  Secure enough that I may even join you in your journey south... at least as far as the Great River."
 msgstr ""
 
@@ -716,6 +772,10 @@ msgstr ""
 
 #: ./Delfadors_Memoirs/units/Mage_Leader.cfg:22
 msgid "dagger"
+msgstr ""
+
+#: ./Delfadors_Memoirs/units/Wose_Shaman.cfg:4
+msgid "Wose Shaman"
 msgstr ""
 
 #: ./Delfadors_Memoirs/units/Wose_Shaman.cfg:8

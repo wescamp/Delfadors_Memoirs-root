@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-12-07 17:55+0100\n"
+"POT-Creation-Date: 2005-12-08 11:21+0100\n"
 "PO-Revision-Date: 2005-09-02 18:35+0100\n"
 "Last-Translator: RokStar <rokstar123@gmail.com>\n"
 "Language-Team: none\n"
@@ -41,7 +41,7 @@ msgstr ""
 msgid "Council in Weldyn"
 msgstr "Concilio di Weldyn"
 
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:29
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:22
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:20
 #, fuzzy
 msgid "Delfador"
@@ -152,23 +152,51 @@ msgstr ""
 msgid "Land of the Dead"
 msgstr "Terra dei Morti"
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:79
+#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:52
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:104
+msgid "Defeat Ihiah-Malal"
+msgstr "Sconfiggi Ihiah-Malal"
+
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:107
+#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:56
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:72
+#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:84
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:213
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:108
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:128
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:301
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:100
+msgid "Death of Delfador"
+msgstr "Morte di Delfador"
+
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:115
+#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:60
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:80
+#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:88
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:217
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:112
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:313
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:108
+msgid "Time runs out"
+msgstr "Fine dei turni a disposizione"
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:87
 msgid ""
 "So, this is the one my minions told me of... the living man who walks here "
 "among the dead. You have come in time to see my greatest achievement - an "
 "end to death itself!"
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:84
+#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:92
 msgid "That's impossible! You must be insane!"
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:89
+#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:97
 msgid ""
 "Have not you yourself travelled between the realms of life and death? Behold!"
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:138
+#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:146
 #, fuzzy
 msgid ""
 "Ihiah-Malal has created a portal to the land of the living! How I long to go "
@@ -178,49 +206,34 @@ msgstr ""
 "dei vivi. I suoi seguaci torneranno a muoversi sulla terra così come "
 "facevano quando erano in vita."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:143
+#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:151
 msgid ""
 "Now, my living followers, I summon you! See that death is nothing, and fear "
 "not to fight for me!"
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:182
+#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:190
 msgid ""
 "This is a great evil. The dead will not find peace by passing through your "
 "gateway, Ihiah-Malal, for you cannot give them life again. You have not "
 "brought an end to death, but to life itself!"
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:187
+#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:195
 msgid ""
 "You will see things differently at the point of a sword, my friend. Minions! "
 "Kill the unbeliever... he will join us then."
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:192
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:111
-msgid "Defeat Ihiah-Malal"
-msgstr "Sconfiggi Ihiah-Malal"
-
-#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:196
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:115
-msgid "Death of Delfador"
-msgstr "Morte di Delfador"
-
-#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:200
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:119
-msgid "Time runs out"
-msgstr "Fine dei turni a disposizione"
-
-#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:217
+#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:210
 msgid "Ihiah-Malal's body lay still for a moment, then stirred!"
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:222
+#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:215
 msgid "Follow me if you dare..."
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:240
+#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:233
 msgid ""
 "This portal Ihiah-Malal has created is a great and terrible work of magic. I "
 "must catch him, and somehow force him to close it!"
@@ -254,7 +267,15 @@ msgstr ""
 msgid "Destroy the intruder, my minions!"
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:236
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:132
+msgid "Into the Land of the Dead"
+msgstr "Nella Terra dei Morti"
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:209
+msgid "Move Delfador to the signpost"
+msgstr "Conduci Delfador al cartello"
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:245
 msgid ""
 "Do not fear me, Delfador. It is my doom to appear as you see me. I was a "
 "serf of a cruel lord. He demanded great taxes to fight many wars... then "
@@ -266,7 +287,7 @@ msgstr ""
 "numerose guerre... poi giunse la peste... la mia famiglia venne sterminata e "
 "fui costretto a mangiare la carne degli uomini caduti."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:246
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:255
 msgid ""
 "Have you encountered the skeletons? Their castle lies north of here. It is "
 "difficult to attack, but there is a secret entrance in the valley beyond "
@@ -276,11 +297,11 @@ msgstr ""
 "da attaccare, ma c'è un ingresso segreto nella valle dietro al villaggio di "
 "Sydney."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:252
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:261
 msgid "I died a long time ago. I have forgotten my name."
 msgstr "Sono morto tanto tempo fa. Ho dimenticato il mio nome."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:258
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:267
 msgid ""
 "Ihiah-Malal says that he can open a portal to the world of the living. Those "
 "who follow him will walk the earth as they did in life."
@@ -289,7 +310,7 @@ msgstr ""
 "dei vivi. I suoi seguaci torneranno a muoversi sulla terra così come "
 "facevano quando erano in vita."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:262
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:271
 msgid ""
 "Why are the dead so restless? This should be a place of rest and peace for "
 "you."
@@ -297,7 +318,7 @@ msgstr ""
 "Perché i morti non trovano pace? Questo dovrebbe essere un posto in cui "
 "riposare in pace per voi."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:266
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:275
 msgid ""
 "Once, I was happy here, but Ihiah-Malal made me see this land as the eyes of "
 "the living see it... a place of rock and dust."
@@ -305,7 +326,7 @@ msgstr ""
 "Una volta ero felice qui, ma Ihiah-Malal mi ha fatto vedere questa terra nel "
 "modo in cui i vivi la vedono.... una zona di rocce e polvere."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:272
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:281
 msgid ""
 "I was once a great lord... I commanded armies! Ihiah-Malal promised I would "
 "lead again."
@@ -313,7 +334,7 @@ msgstr ""
 "Una volta ero un grande signore.... ho comandato degli eserciti! Ihiah-Malal "
 "mi ha promesso che guiderò di nuovo eserciti."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:278
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:287
 msgid ""
 "Beware the skeletons! They are not the spirits of dead men, but the "
 "creations of evil magic."
@@ -321,11 +342,11 @@ msgstr ""
 "Fai attenzione agli scheletri! Non sono spiriti dei morti, sono creazioni "
 "derivate dall'uso della magia nera."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:282
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:291
 msgid "What else do you know of the skeletons?"
 msgstr "Cos'altro sai riguardo agli scheletri?"
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:286
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:295
 msgid ""
 "It is said that they guard a powerful magical artifact. Roderick knows more "
 "than I do; he lives to the west."
@@ -333,7 +354,7 @@ msgstr ""
 "Si dice che sono i guardiani di un potente artefatto magico. Roderick ne sa "
 "più di me; vive ad ovest."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:320
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:329
 msgid ""
 "This is surely the land of the dead... and it seems I am still alive. But "
 "then, as Leollyn warned, I can never return! I suppose I may as well explore."
@@ -342,15 +363,15 @@ msgstr ""
 "Ma allora, se quello che mi ha detto Leollyn è vero, non potrò più tornare "
 "indietro! A questo punto posso esplorare un po' la zona."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:331
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:340
 msgid "A living man... so it is as Ihiah-Malal says..."
 msgstr "Un uomo vivo... allora è come aveva detto Ihiah-Malal..."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:335
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:344
 msgid "Speak again, spirit! Tell me of yourself. Who is this Ihiah-Malal?"
 msgstr "Parla ancora, spirito! Parlami di te. Chi è questo Ihiah-Malal?"
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:339
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:348
 msgid ""
 "My name is Roland. I died long ago, in a great battle... I have almost "
 "forgotten... Ihiah-Malal is a living man, like you, who walks among the "
@@ -361,11 +382,11 @@ msgstr ""
 "te, che si muove tra i morti. Ha promesso una nuova vita a tutti coloro che "
 "lo seguiranno."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:343
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:352
 msgid "I would very much like to meet Ihiah-Malal. Where can I find him?"
 msgstr "Mi piacerebbe molto incontrare Ihiah-Malal. Dove posso trovarlo?"
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:347
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:356
 msgid ""
 "Follow the dry river, then the road to the signpost in the north. I will "
 "guide you. Enter the houses of the dead as you pass, for others here may "
@@ -375,14 +396,29 @@ msgstr ""
 "guiderò io. Entra nelle case dei morti quando passi, potresti trovare "
 "qualche altro disposto ad aiutarti."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:90
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:3
+msgid "Leollyn"
+msgstr "Leollyn"
+
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:82
 msgid ""
 "Leollyn is slain! This is terrible... I had best give up and return home."
 msgstr ""
 "Leollyn è stato ucciso! E' terribile... è meglio se mi arrendo e torno a "
 "casa."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:112
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:96
+msgid "Defeat Hagha-Tan"
+msgstr "Sconfiggi Hagha-Tan"
+
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:111
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:132
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:305
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:104
+msgid "Death of Leollyn"
+msgstr "Morte di Leollyn"
+
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:128
 msgid ""
 "Methor told me that I could find Leollyn in his tower in the Royal Forest "
 "outside the city. It should be near here..."
@@ -390,16 +426,16 @@ msgstr ""
 "Methor mi ha detto che avrei potuto trovare Leollyn nella sua torre nella "
 "Foresta Reale, fuori città. Dovrebbe essere qui vicino..."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:117
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:133
 msgid "Ah, another human is approaching... yes... more meat for my war-band..."
 msgstr ""
 "Ah, un altro umano si avvicina... sì... altra carne per la mia banda..."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:122
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:138
 msgid "Here, my young friend, to the west! Hurry, we are besieged!"
 msgstr "Qui mio giovane amico, ad ovest! Sbrigati, siamo assediati!"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:127
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:143
 msgid ""
 "Don't worry, Leollyn, my friends and I will deal with this barbarian for "
 "you. We're getting used to it by now - I did not expect to have so much "
@@ -408,21 +444,21 @@ msgstr ""
 "Non preoccuparti Leollyn, io ed i miei amici ci occuperemo dei barbari. "
 "Siamo arrivati fin qui - non credo che sarà un problema raggiungerti!"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:132
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:148
 msgid ""
 "Then you have not heard... but there will be time enough for talking. If you "
 "can distract those vile creatures, I will try to rustle up a counterattack."
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:150
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:166
 msgid "Yes... yes... slay them, my assassins!"
 msgstr "Sì... sì... uccideteli miei assassini!"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:155
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:171
 msgid "Uh oh... I don't like the look of this..."
 msgstr "Uh oh... non mi piace l'aspetto di questo..."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:167
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:183
 msgid ""
 "Well now, you certainly showed up in the nick of time. A fellow mage, too, I "
 "see. Now what did you say your name was?"
@@ -430,7 +466,7 @@ msgstr ""
 "Dunque, di sicuro capiti a fagiolo. Un collega mago tra l'altro. Come hai "
 "detto che ti chiami?"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:178
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:194
 msgid ""
 "Delfador, sir. Actually, I was looking for you - you see, I am a student of "
 "Methor's. He said that you might find me employment in Weldyn."
@@ -438,7 +474,7 @@ msgstr ""
 "Delfador, signore. Ti stavo cercando - sai, sono uno studente di Methor. Ha "
 "detto che potresti trovarmi un impiego a Weldyn."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:183
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:199
 msgid ""
 "Ah, one of Methor's, eh? Good, good... Well, old Garard certainly needs all "
 "the hands he can get right now. Especially those who know their magic!"
@@ -447,13 +483,13 @@ msgstr ""
 "bisogno di tutto l'aiuto possibile adesso. Specialmente l'aiuto di qualcuno "
 "che sappia usare la magia!"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:190
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:206
 msgid "Delfador, sir. But I bring you bad news... Methor, my teacher, is dead."
 msgstr ""
 "Delfador, signore. Ma ti porto cattive notizie... Methor, il mio maestro, è "
 "morto."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:195
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:211
 msgid ""
 "That is grave indeed... these are dark times. I think you had best return "
 "with me to Weldyn. Old Garard too, must hear your news."
@@ -462,11 +498,11 @@ msgstr ""
 "tornassi a Weldyn insieme a me. Anche il vecchio Garard deve essere messo al "
 "corrente della situazione."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:202
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:218
 msgid "Is that Garard, King of Wesnoth, you refer to?!"
 msgstr "Stai parlando di Garard, il Re di Wesnoth?!"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:207
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:223
 msgid ""
 "Of course - do you know any other kings of that name? I am one of his "
 "advisors. Though he does not listen to me as closely as he should, perhaps!"
@@ -474,20 +510,29 @@ msgstr ""
 "Certo - conosci qualche altro re con quel nome? Sono uno dei suoi "
 "consiglieri anche se non mi ascolta attentamente come dovrebbe!"
 
-#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:68
+#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:3
+msgid "The Road to Weldyn"
+msgstr "La Strada per Weldyn"
+
+#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:61
 #, fuzzy
 msgid "The Great Valley"
 msgstr "Mago Viaggiatore"
 
-#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:73
+#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:66
 msgid "Fort Brell"
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:78
+#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:71
 msgid "Fort Miryen"
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:88
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:68
+#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:80
+msgid "Defeat enemy leader"
+msgstr "Sconfiggi il comandante nemico"
+
+#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:101
 msgid ""
 "Delfador followed Methor's advice, and headed over the hills towards Weldyn. "
 "But the roads were more dangerous than he had expected..."
@@ -496,7 +541,7 @@ msgstr ""
 "in direzione di Weldyn. Ma le strade si rivelarono più pericolose del "
 "previsto..."
 
-#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:129
+#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:142
 msgid ""
 "Greetings, stranger!  I come to warn you - a party of orcs have moved into "
 "the Great Valley to the north, and have been raiding the lands around.  If "
@@ -506,14 +551,14 @@ msgstr ""
 "la Grande Valle a nord e sta distruggendo le terre circostanti. Se andrete "
 "ad ovest li dovrete combattere."
 
-#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:134
+#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:147
 msgid ""
 "I cannot turn back now... If I fight these orcs, will your villagers help me?"
 msgstr ""
 "Non posso tornare indietro adesso... se combatto gli orchi i vostri "
 "compaesani mi aiuteranno?"
 
-#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:139
+#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:152
 msgid ""
 "Certainly!  You'll be glad of our help too - this region trains the best "
 "bowmen in Wesnoth."
@@ -521,17 +566,17 @@ msgstr ""
 "Certamente! Sarai contento del nostro aiuto - questa regione addestra le "
 "migliori arciere di Wesnoth."
 
-#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:154
+#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:167
 msgid "Take this, you slimy invader!"
 msgstr "Prendi questo, brutto invasore!"
 
-#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:170
+#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:183
 msgid "Beware!  Night is falling - that's when the orcs tend to attack!"
 msgstr ""
 "Attenzione! Sta calando la notte - è il periodo in cui gli orchi amano "
 "attaccare!"
 
-#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:186
+#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:199
 msgid ""
 "Thank you, Delfador, for helping to rid our land of those nasty orcs. We are "
 "in your debt."
@@ -539,13 +584,13 @@ msgstr ""
 "Delfador, grazie per aver contribuito a liberare le nostre terre da quegli "
 "orribili orchi.  Siamo in debito nei tuoi confronti."
 
-#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:191
+#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:204
 msgid "I just wonder what orcs were doing inside the borders of Wesnoth..."
 msgstr ""
 "Mi chiedo solo cosa ci facevano degli orchi all'interno dei confini di "
 "Wesnoth..."
 
-#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:196
+#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:209
 msgid ""
 "Perhaps some of us had better go with you as far as Weldyn. These lands are "
 "just not safe for a lone traveller, and we may learn what drew the orcs so "
@@ -555,15 +600,19 @@ msgstr ""
 "non sono sicure per un viaggiatore solitario, e potremmo scoprire cosa ha "
 "spinto gli orchi così a sud."
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:63
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:3
+msgid "Night in the Swamp"
+msgstr "Notte nella Palude"
+
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:55
 msgid "At least, morning is here... And the skeletons are disappearing!"
 msgstr "Finalmente è giorno... E gli scheletri stanno scomparendo!"
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:75
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:67
 msgid "At last, morning is here!"
 msgstr "Finalmente è giorno!"
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:82
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:74
 msgid ""
 "I hope I never see another night like that! Let's leave this evil place as "
 "quickly as possible - I want to get us out of Illuven before dusk."
@@ -572,17 +621,21 @@ msgstr ""
 "posto più in fretta che possiamo - voglio essere lontano da Illuven prima "
 "del tramonto."
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:116
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:108
 msgid ""
 "I think that's all of them! Let's move on - the less time we spend in this "
 "swamp the better."
 msgstr "Muoviamoci - meno tempo passiamo in questa palude e meglio è."
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:132
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:124
+msgid "Survive 12 turns"
+msgstr "Sopravvivi 12 turni"
+
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:143
 msgid "These swamps seem to go on forever!"
 msgstr "Queste paludi sembrano estendersi all'infinito!"
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:137
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:148
 msgid ""
 "One more day's travel, I think. We should camp for the night now - we should "
 "be out of it by tomorrow evening."
@@ -590,11 +643,11 @@ msgstr ""
 "Un altro giorno di viaggio credo. Dovremmo accamparci per la notte adesso - "
 "domani pomeriggio saremo lontani da questa palude."
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:146
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:157
 msgid "Those standing stones - they summon evil creatures!"
 msgstr "Queste pietre - evocano creature maligne!"
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:151
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:162
 msgid ""
 "I saw this kind of thing in the north... These abominations are not affected "
 "by swords, but they fear the light of day. We must hold them off as best we "
@@ -604,7 +657,7 @@ msgstr ""
 "dalle spade, ma hanno paura della luce del giorno. Dobbiamo resistere meglio "
 "che possiamo."
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:156
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:167
 msgid ""
 "Hmmm... if I could get nearer to the stones, I could perhaps break their "
 "power..."
@@ -612,11 +665,11 @@ msgstr ""
 "Hmmm.... se potessi avvicinarmi alle pietre forse potrei spezzare il loro "
 "potere..."
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:172
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:183
 msgid "This'll splinter your bones, you vile monstrosity!"
 msgstr "Questo spaccherà le tue ossa, vile mostruosità!"
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:93
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:85
 msgid ""
 "This chest contains all the money that rogue has taken from unwary "
 "travellers!"
@@ -624,7 +677,11 @@ msgstr ""
 "Questa cesta contiene tutte le monete che i banditi hanno sottratto ai "
 "viaggiatori incauti!"
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:113
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:103
+msgid "Move Delfador to the signpost in the northeast"
+msgstr "Conduci Delfador al cartello a Nord-Est"
+
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:130
 msgid ""
 "Here the great north road turns west to avoid the swamps of Illuven. Our way "
 "lies east across the swamps, and then through the wild lands beyond to the "
@@ -634,7 +691,7 @@ msgstr ""
 "Illuven. Noi dobbiamo dirigerci ad est attraverso le paludi, e poi "
 "attraverso le terre selvagge lungo la costa."
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:118
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:135
 msgid ""
 "This place looks wild enough for me. Who made those villages in the swamps? "
 "Orcs?"
@@ -642,11 +699,11 @@ msgstr ""
 "Questo posto è troppo selvaggio per me. Chi ha costruito quei villaggi nelle "
 "paludi? Gli Orchi?"
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:123
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:140
 msgid "No, men of Wesnoth... but those who live here are a lawless lot."
 msgstr "No, uomini di Wesnoth... ma quelli che vivono qui sono fuorilegge."
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:134
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:151
 msgid ""
 "Greetings, strangers! This swamp is dangerous... You wanna cross it, you'll "
 "need protection - cost you only $fee gold!"
@@ -654,35 +711,35 @@ msgstr ""
 "Salute stranieri. Questa palude è pericolosa... se volete attraversarla "
 "avrete bisogno di protezione - per voi costa solo $fee pezzi d'oro!"
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:137
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:154
 msgid "Thanks very much. Here's the gold..."
 msgstr "Molte grazie. Ecco l'oro..."
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:151
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:168
 msgid "It's been a pleasure doing business with you... Bye!"
 msgstr "E' stato un piacere fare affari con voi... Ciao!"
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:169
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:186
 msgid "Where did he go?"
 msgstr "Dov'è andato?"
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:174
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:191
 msgid "Haw haw haw! Suckers!"
 msgstr "Haw haw haw! Imbecilli!"
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:179
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:196
 msgid "Well, at least we only have to deal with one of them now..."
 msgstr "Beh, almeno dobbiamo confrontarci solo con una fazione adesso..."
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:190
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:207
 msgid "No thanks - we'll manage by ourselves..."
 msgstr "No grazie - ce la caveremo da soli...."
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:198
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:215
 msgid "You'll regret it!"
 msgstr "Ve ne pentirete!"
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:203
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:220
 msgid "They certainly will! Haw haw haw!"
 msgstr "Sarà sicuramente così! Haw haw haw!"
 
@@ -690,11 +747,11 @@ msgstr "Sarà sicuramente così! Haw haw haw!"
 msgid "This Valley Belongs to Me"
 msgstr "La Valle E' Mia"
 
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:67
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:60
 msgid "No! Methor... Don't die!"
 msgstr "No! Methor... Non morire!"
 
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:72
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:65
 msgid ""
 "Heed my last words, Delfador!  Journey northeast to Weldyn, and seek out my "
 "friend Leollyn.  He will help you."
@@ -702,7 +759,7 @@ msgstr ""
 "Ascolta le mie ultime parole, Delfador! Viaggia a nord-est verso Weldyn e "
 "cerca il mio amico Leollyn. Lui ti aiuterà."
 
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:86
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:79
 msgid ""
 "Delfador, your time as my apprentice is now almost over.  You are a fully "
 "trained mage, and may choose your own path in life.  I hope however, that "
@@ -714,7 +771,7 @@ msgstr ""
 "che tu segua il mio consiglio di mettere le tue facoltà al servizio di Re "
 "Garard. Ho molti contatti a corte e..."
 
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:91
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:84
 msgid ""
 "Listen humans! This valley belongs to me now. I require all your houses and "
 "your possessions! Hand them over quietly and I may permit you to live on as "
@@ -724,7 +781,7 @@ msgstr ""
 "ed i vostri averi! Fornitemi queste cose senza fare storie e potrei "
 "permettervi di vivere come miei schiavi..."
 
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:96
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:89
 msgid ""
 "Arrogant creature! We have little enough, and you cannot take it from us by "
 "force."
@@ -732,7 +789,7 @@ msgstr ""
 "Creatura arrogante! Quel poco che abbiamo non te lo cederemo senza "
 "combattere."
 
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:101
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:94
 msgid ""
 "That's where you are wrong, puny mage. War is coming, humans... War! Take "
 "their villages, and spare no-one!"
@@ -740,11 +797,11 @@ msgstr ""
 "E' qui che ti sbagli maghetto. La guerra è alla porte umani... Guerra! "
 "Prendete i loro villaggi e non rispiarmate nessuno!"
 
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:134
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:127
 msgid "Grooar! Burn! Burn! Ahahaha..."
 msgstr "Grooar! Brucia! Brucia! Ahahahah..."
 
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:149
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:142
 msgid ""
 "Well done, Delfador! I see I have trained you well, and you are truly ready "
 "to seek your fortune. Journey northeast to Weldyn, and seek out my friend "
@@ -754,7 +811,7 @@ msgstr ""
 "seguire la tua strada. Viaggia a nord-est verso Weldyn e cerca il mio amico "
 "Leollyn. Lui ti aiuterà."
 
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:160
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:153
 msgid ""
 "Poor master Methor... now his school is in ruins. Still, I cannot stay here "
 "to rebuild it - I must take his advice and seek out Leollyn."
@@ -763,11 +820,15 @@ msgstr ""
 "posso restare qui a ricostruirla - devo seguire il suo consiglio e cercare "
 "Leollyn."
 
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:80
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:3
+msgid "Ur-thorodor"
+msgstr "Ur-Thotodor"
+
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:71
 msgid "Hruuuarrgh!  The vile human-creatures hew at me..."
 msgstr "Hruuuuuarghh! I vili umani mi hanno tagliato...."
 
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:85
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:76
 msgid ""
 "Ur-thorodor, you must listen to us! A great evil power threatens all living "
 "things in Wesnoth - we must fight against it together, or all life here will "
@@ -777,11 +838,11 @@ msgstr ""
 "tutti gli esseri viventi di Wesnoth - dobbiamo combatterlo assieme o tutte "
 "le forme di vita moriranno."
 
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:90
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:81
 msgid "I trust no humans! Drive them out, my children!"
 msgstr "Non mi fido degli umani! Addosso figli miei!"
 
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:102
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:93
 msgid ""
 "I am defeated... My children: hear my last words! Destroy the humans, and "
 "never let them set foot on your island again!"
@@ -789,7 +850,7 @@ msgstr ""
 "Sono finito... Figlio mio: ascolta le mie ultime parole! Distruggi gli umani "
 "e non lasciargli mettere mai più piede nella tua isola!"
 
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:107
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:98
 msgid ""
 "This is hopeless! If carrying out my mission means killing these great "
 "creatures, then I cannot continue."
@@ -797,7 +858,7 @@ msgstr ""
 "Non c'è speranza! Proseguire la missione vuol dire uccidere queste forti "
 "creature, non posso continuare."
 
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:125
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:116
 msgid ""
 "Ur-thorodor, listen to me! We are not here to take your island. If you will "
 "let just me remain here, then I promise you, on behalf of King Garard, that "
@@ -809,11 +870,11 @@ msgstr ""
 "Wesnoth metterà piede sulla tua isola senza il tuo permesso. Come prova "
 "della mia onestà ordino al mio esercito di tornare sul continente."
 
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:130
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:121
 msgid "Are you sure that's wise?"
 msgstr "Sei sicuro che sia saggio?"
 
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:135
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:126
 msgid ""
 "It's the only way! Lionel, lead our soldiers back to the mainland. I will "
 "rejoin you when I have carried out my mission, and determined what is amiss "
@@ -823,7 +884,7 @@ msgstr ""
 "voi quando avrò terminato la mia missione ed avrò determinato cosa succede "
 "nel mondo dei morti."
 
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:150
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:141
 msgid ""
 "I see I had misjudged you, human. You are not like those who came before. I "
 "accept your offer!"
@@ -831,7 +892,7 @@ msgstr ""
 "Ti ho giudicato male, umano. Non sei come quelli venuti fin'ora. Accetto la "
 "tua offerta!"
 
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:156
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:147
 msgid ""
 "As the Wesnothians withdrew from the island, the woses melted away into the "
 "trees. Delfador began the meditation that would place him in contact with "
@@ -843,23 +904,23 @@ msgstr ""
 "il mondo degli spiriti. Ma i wose non erano le uniche creature a vivere "
 "sull'isola..."
 
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:166
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:157
 msgid "Ommmmmmm...."
 msgstr "Ommmmmmm...."
 
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:209
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:200
 msgid "A human mage... is it dead?"
 msgstr "Un mago umano... è morto?"
 
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:215
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:206
 msgid "Easy to find out... thump it and see if it wakes up!"
 msgstr "Sarà facile scoprirlo... colpiscilo e guarda se si sveglia!"
 
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:220
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:211
 msgid "THUMP!"
 msgstr "THUMP!"
 
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:270
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:261
 msgid ""
 "We have arrived. And there is the island Leollyn spoke of. But what are "
 "those strange shapes moving among the trees?"
@@ -867,7 +928,7 @@ msgstr ""
 "Siamo arrivati. Ecco l'isola di cui parlava Leollyn. Ma cosa sono quelle "
 "strane ombre che si muovono tra gli alberi?"
 
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:275
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:266
 msgid ""
 "I believe that they are woses - tree guardians. I have heard of them, but "
 "thought they were gone from Wesnoth forever. They are not evil, it is said, "
@@ -877,7 +938,7 @@ msgstr ""
 "ma pensavo che si fossero estinti. Non sono malvagi, dicono, ma potrebbero "
 "comunque esserci ostili. Sarà meglio fare attenzione."
 
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:280
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:271
 msgid ""
 "I am Ur-thorodor, eldest of the forest. Who are you human-creatures? You may "
 "not trespass on our island."
@@ -885,7 +946,7 @@ msgstr ""
 "Sono Ur-thorodor, l'anziano della foresta. Chi siete voi umani? Non potete "
 "stare sulla nostra isola."
 
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:285
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:276
 msgid ""
 "Ur-thorodor, please let us pass! We are on a vital mission for King Garard, "
 "in the interests of all living things in Wesnoth."
@@ -894,7 +955,7 @@ msgstr ""
 "importanza per Re Garard, una missione di interesse per tutte le creature "
 "viventi di Wesnoth."
 
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:290
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:281
 msgid ""
 "We care nothing for your kings, human-creatures. It is centuries since your "
 "kind have been here, and only now are our roots destroying the last of your "
@@ -905,7 +966,7 @@ msgstr ""
 "l'ultimo dei vostri maledetti edifici in pietra. Adesso basta parlare. "
 "Andatevene o assaggerete la nostra ira!"
 
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:295
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:286
 msgid ""
 "This Ur-thorodor should not speak of King Garard that way! 'Suffer our "
 "wrath' indeed... I'll show him wrath!"
@@ -913,7 +974,7 @@ msgstr ""
 "Questo Ur-thorodor non dovrebbe parlare in questo modo di Re Garard! "
 "'Soffrirete la nostra ira' infatti... gli farò vedere le stelle!"
 
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:300
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:291
 msgid ""
 "It seems there is no alternative - we must get onto that island! Perhaps if "
 "we can get close to Ur-thorodor, and speak with him again, he will "
@@ -923,7 +984,19 @@ msgstr ""
 "se potessimo avvicinarci ad Ur-thorodor e parlare nuovamente con lui "
 "capirebbe."
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:103
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:297
+msgid "Move Delfador to Ur-thorodor's castle"
+msgstr "Conduci Delfador al castello di Ur-thorodor"
+
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:309
+msgid "Death of Ur-thorodor"
+msgstr "Morte di Ur-thorodor"
+
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:76
+msgid "Death of allied leader"
+msgstr "Morte di un comandante alleato"
+
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:116
 msgid ""
 "As Delfador followed Ihiah-Malal into the portal, a freezing wind sprung up "
 "and the air became thick with ghosts pouring through into the land of the "
@@ -937,7 +1010,7 @@ msgstr ""
 "Delfador dovette seguire le impronte del necromante in una spessa coltre di "
 "neve. Nemmeno le tracce sulla neve non erano nitide."
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:108
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:121
 msgid ""
 "It's hopeless, I've lost all track of Ihiah-Malal... and I shall freeze "
 "unless I find shelter soon. Perhaps in that forest to the north..."
@@ -946,11 +1019,11 @@ msgstr ""
 "ghiacciolo a meno che non trovi riparo al più presto. Forse in quella "
 "foresta a nord..."
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:123
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:136
 msgid "Hello, stranger! What are you doing in our forests?"
 msgstr "Ciao straniero! Cosa ci fai nella nostra foresta?"
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:127
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:140
 msgid ""
 "It's a long story... but I wonder whether I might first ask for your "
 "hospitality? I'm lost, and freezing to death here!"
@@ -958,7 +1031,7 @@ msgstr ""
 "E' una lunga storia... ma mi chiedo se prima non sia il caso di chiedere la "
 "vostra ospitalità. Mi sono perso e fa un freddo cane qui!"
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:131
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:144
 msgid ""
 "Well, I don't see any harm in it... Our border post is to the northeast; you "
 "may seek shelter there. But don't tarry! There are deadlier foes than the "
@@ -968,15 +1041,15 @@ msgstr ""
 "confine si trova a nord est; puoi cercare riparo là. Ma fai in fretta! Ci "
 "sono nemici ben più mortali del clima lungo la strada."
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:147
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:160
 msgid "Welcome, Delfador!"
 msgstr "Benvenuto Delfador!"
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:151
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:164
 msgid "Er, hello... you know my name then...?"
 msgstr "Er, salve... conosci il mio nome...?"
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:155
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:168
 msgid ""
 "Yes. I am Chantal, and I know many things. I know you come from the great "
 "human state of the south, and are a master of that most human of all arts, "
@@ -990,7 +1063,7 @@ msgstr ""
 "fatto ritorno e i pochi che sono tornati erano cambiati mostruosamente. Il "
 "tuo destino è pesante ed hai bisogno del nostro aiuto."
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:159
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:172
 msgid ""
 "Oh... well... very nice of you, but I don't feel very fated. In fact, I've "
 "been positively blundering! I was just trying to defend my home against the "
@@ -1002,7 +1075,7 @@ msgstr ""
 "orchi e successivamente volevo trovare la fonte del potere dei non-morti... "
 "in entrambi i casi ho fallito."
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:163
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:176
 msgid ""
 "But you have not failed. The southlands have not yet fallen to the orcish "
 "army, and have you not learned more about the undead than any man alive? It "
@@ -1016,15 +1089,15 @@ msgstr ""
 "spirito alla ricerca della vita eterna e ciò impedisce loro di condurre "
 "un'esistenza pacifica su questo mondo."
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:167
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:180
 msgid "You mean Ihiah-Malal?"
 msgstr "Parli di Ihiah-Malal?"
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:171
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:184
 msgid "Yes, that is who I mean."
 msgstr "Sì, proprio così."
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:175
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:188
 msgid ""
 "If I might ask, where am I? And what of Lionel, and King Garard? What has "
 "befallen them?"
@@ -1032,7 +1105,7 @@ msgstr ""
 "Posso chiederti dove sono? E cos'è successo a Lionel e Re Garard? Cos'è "
 "successo loro?"
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:179
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:192
 msgid ""
 "You are among the North Elves. Our arts hold back the winter cold within "
 "these forests. To the south and west of here lies a wasteland inhabited only "
@@ -1045,7 +1118,7 @@ msgstr ""
 "Fiume, quello che chiami Abez, e poi c'è la tua casa. Dei tuoi amici non so "
 "niente."
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:183
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:196
 msgid ""
 "Well, thank you very much for the help, Chantal. I see now what I must do... "
 "I have lost Ihiah-Malal, but I must at least try to report back to the King "
@@ -1055,7 +1128,7 @@ msgstr ""
 "Malal ma devo almeno provare ad informare il Re o Leollyn. Mi dirigo verso "
 "sud!"
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:187
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:200
 msgid ""
 "It will not be that easy. The orcish army lies between here and your "
 "destination. We are under attack even here, by an orcish warband encamped in "
@@ -1065,7 +1138,7 @@ msgstr ""
 "e la tua destinazione. Siamo sempre sotto attacco qui. C'è una banda di "
 "orchi accampata nelle montagne a sud ovest."
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:191
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:204
 msgid ""
 "Attacked by orcs? Then I might perhaps help you to defeat them, and repay "
 "your assistance and kindness!"
@@ -1073,7 +1146,7 @@ msgstr ""
 "Siete attaccati dagli orchi? Forse allora portei aiutarvi a sconfiggerli e "
 "ripagarvi della vostra assistenza e cortesia!"
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:203
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:216
 msgid ""
 "With your help, Delfador, we have overrun the orcish warlord of this area, "
 "and our forests are secure.  Secure enough that I may even join you in your "
@@ -1202,6 +1275,10 @@ msgstr ""
 msgid "dagger"
 msgstr "pugnale"
 
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:4
+msgid "Wose Shaman"
+msgstr "Shamano Wose"
+
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:8
 msgid "ambush,regenerates"
 msgstr "imboscata, rigenerazione"
@@ -1278,56 +1355,11 @@ msgstr "Solo un potente mago può impugnarla."
 msgid "A secret passage... I wonder where it leads..."
 msgstr "Un passaggio segreto, chissà dove conduce..."
 
-#~ msgid "Into the Land of the Dead"
-#~ msgstr "Nella Terra dei Morti"
-
-#~ msgid "Move Delfador to the signpost"
-#~ msgstr "Conduci Delfador al cartello"
-
-#~ msgid "Leollyn"
-#~ msgstr "Leollyn"
-
-#~ msgid "Defeat Hagha-Tan"
-#~ msgstr "Sconfiggi Hagha-Tan"
-
-#~ msgid "Death of Leollyn"
-#~ msgstr "Morte di Leollyn"
-
-#~ msgid "The Road to Weldyn"
-#~ msgstr "La Strada per Weldyn"
-
-#~ msgid "Defeat enemy leader"
-#~ msgstr "Sconfiggi il comandante nemico"
-
-#~ msgid "Night in the Swamp"
-#~ msgstr "Notte nella Palude"
-
-#~ msgid "Survive 12 turns"
-#~ msgstr "Sopravvivi 12 turni"
-
 #~ msgid "The Swamp of Illuven"
 #~ msgstr "La Palude di Illuven"
-
-#~ msgid "Move Delfador to the signpost in the northeast"
-#~ msgstr "Conduci Delfador al cartello a Nord-Est"
 
 #~ msgid "Defeat Grogor Tuk"
 #~ msgstr "Sconfiggi Grogor Tuk"
 
-#~ msgid "Ur-thorodor"
-#~ msgstr "Ur-Thotodor"
-
-#~ msgid "Move Delfador to Ur-thorodor's castle"
-#~ msgstr "Conduci Delfador al castello di Ur-thorodor"
-
-#~ msgid "Death of Ur-thorodor"
-#~ msgstr "Morte di Ur-thorodor"
-
 #~ msgid "Wasteland"
 #~ msgstr "Landa Desolata"
-
-#~ msgid "Death of allied leader"
-#~ msgstr "Morte di un comandante alleato"
-
-#~ msgid "Wose Shaman"
-#~ msgstr "Shamano Wose"
