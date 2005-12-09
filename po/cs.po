@@ -37,10 +37,10 @@ msgid ""
 "night. Who is the shadowy Ihiah-Malal? Can you defeat him before he destroys "
 "all life in Wesnoth?"
 msgstr ""
-"Wesnoth nezadržitelně upadá do chaosu, když drancující bandy skřetů "
-"pronikají stále hlouběji na jih od řeky Abez, a když ve stejný čas "
-"procházejí nocí záhadné vraždící stvůry. Kdo je záhadný Ihiah-Malal? Dokážeš "
-"jej zastavit dřív, než zničí vše živé ve Wesnothu?"
+"Wesnoth nezadržitelně upadá do chaosu. Bandy skřetů drancují Wesnoth. "
+"Pronikají stále hlouběji a hlouběji na jih od řeky Abez. Záhadné vraždící "
+"stvůry se procházejí nocí. Kdo je záhadný Ihiah-Malal? "
+"Dokážeš jej zastavit dřív, než zničí vše živé ve Wesnothu?"
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:3
 msgid "Council in Weldyn"
@@ -70,7 +70,7 @@ msgstr ""
 msgid ""
 "Ah, now the last of my council is here. Lionel, what tidings from the north?"
 msgstr ""
-"tak, konečně je má rada kompletní. Mluv, Lioneli, jaká poselství přinášíš ze "
+"Tak, konečně je má rada kompletní. Mluv, Lioneli, jaká poselství přinášíš ze "
 "Severu?"
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:103
@@ -82,6 +82,12 @@ msgid ""
 "into anarchy. We were attacked more than once by thugs and bandits, and by "
 "evil creatures that roamed the night in the shapes of men."
 msgstr ""
+"Špatné zprávy, Vaše Blahorodí. Ohromné množství skřetů táboří na severním "
+"břehu řeky Abez. Byli jsme odříznutí od trpaslíků z Knalgy. Šíří se zvěsti, "
+"že skřeti mají jasný plán - vyhladit je a poté obrátit pozornost k Wesnothu. "
+"Dobří lidé ze severu prchají, a tak tamní provincie upadají do anarchie. "
+"Byli jsme několirát napadeni bandity, a co horšího, dokonce i démony, kteří "
+"chodí nocí oděni do lidské podoby."
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:108
 msgid ""
@@ -100,6 +106,12 @@ msgid ""
 "backed by force of arms. Gurcyn, you have been to the west - will the elves "
 "lend their archers to help us?"
 msgstr ""
+"Tedy nesmíme ztratit ani minutu! Pojedu k řece Abez v čele své armády. Když "
+"se seveřané drze odvážili v tichosti překročit naše hranice doufajíc, že "
+"nenarazí na odpor, narazí tvrdě! Vždy byli zbabělí a zmatení, když stanuli "
+"tváří v tvář kurážnějšímu nepříteli. Je načase jim připomenout, že náš "
+"prastarý mír stojí na ramenou našich zbraní! Gurcyne, tys byl na západě. "
+"Pošlou nám Elfové ku pomoci své lučištníky?"
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:118
 msgid ""
@@ -107,6 +119,10 @@ msgid ""
 "greed and foolishness. I have never seen them so unfriendly. There is "
 "something they know of and fear, but they would not tell me what it is."
 msgstr ""
+"Elfové nebudou bojovat; sice nenávidí skřety, ale hovořili o lidské "
+"hamižnosti a hlouposti. Nikdy jsem je neviděl tak nepřátelsky naladěné. "
+"Udělalo to na mne dojem, že buď něco vědí, nebo se nečeho neznámeho bojí. "
+"Leč nic z toho mi ani nenaznačili."
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:123
 msgid ""
@@ -125,6 +141,10 @@ msgid ""
 "assist him in governing Weldyn while I am gone. Heed his orders as if they "
 "were my own!"
 msgstr ""
+"Á, mladý Delfador... mluvíš dobře, a navíc mi Leollyn vypověděl o Tvé odvaze. "
+"S radostí přijímám nabídku tvých služeb, ale toto je úkol pro válečníky, "
+"nikoli pro čarotvůrce. Zůstaň raději zde a buď Leollynovi k ruce při "
+"spravování Weldynu, dokud se nevrátím. Řiď se jeho příkazy jako by byly mými."
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:160
 msgid ""
@@ -137,12 +157,21 @@ msgid ""
 "mission myself... but now I must remain in Weldyn... perhaps you could go in "
 "my place?"
 msgstr ""
+"Delfarode, mám pro tebe úkol. Lionelova řeč o zlých démonech noci mne "
+"znepokojuje. Podobné zprávy už ke mně dorazili již dříve. Je nemnoho "
+"míst, kde je sprituální svět tak blízko světu, který známe my, a kde "
+"zkušený mág dokáže pomocí meditace komunikovat s dušemi mrtvých. Nejbližší "
+"leží na severozápad, na jednom ostrově v deltě řeky Abez. Pokud jsou mrtví "
+"neklidní, mohli by nám říci proč. Chtěl jsem podniknout tuto cestu osobně, "
+"ale musím zůstat zde ve Weldynu. Mohl bys jít místo mne?"
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:165
 msgid ""
 "I'm honoured that you would entrust me with such a task... but I too stay in "
 "Weldyn, by the king's order!"
 msgstr ""
+"Jsem postěn, že bys mi svěřil takový úkol, ale... musím na rozkaz Krále také "
+"zůstat ve Weldynu."
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:170
 msgid ""
@@ -152,6 +181,12 @@ msgid ""
 "mages. Allow only your mind to enter the land of the dead - should your body "
 "follow, there is no return! Do you still wish to go?"
 msgstr ""
+"Myslím, že nemusíš. Garard mi tě dal k ruce a já ti mohu přikázat cestovat "
+"na sever, pokud budeš chtít. Ale musíš si být opravdu jist, že jsi připraven "
+"na tak závažný úkol. Kontakty se spirituálním světem jsou velice nebezpečné "
+"i pro nejmoncější mágy. Pouze tvá mysl smí vstoupit do Země Mrtvých, jelikož "
+"mysli je povoleno se vrátit, kdežto tělu nikoli a nebylo by tedy pro Tebe "
+"cesty zpět."
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:175
 msgid "Absolutely!"
@@ -162,6 +197,8 @@ msgid ""
 "Then you shall! Lionel and his men will accompany you, for you will need "
 "more than magic for protection on the road."
 msgstr ""
+"Jdi tedy! Lionel a jeho muži Tě budou doprovázet, protože cestou budeš "
+"potřebovat ke své ochraně víc než jen magii."
 
 #: Delfadors_Memoirs/utils/schedules.cfg:5
 #: Delfadors_Memoirs/utils/schedules.cfg:13
@@ -203,15 +240,18 @@ msgid ""
 "among the dead. You have come in time to see my greatest achievement - an "
 "end to death itself!"
 msgstr ""
+"To je ten, o kterém mi říkali mí poddaní... živý muž kráčející mezi mrtvými. "
+"Přišel jsi právě včas, abys uviděl můj největší čin- konec smrti samotné! "
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:92
 msgid "That's impossible! You must be insane!"
-msgstr "To není možné! Ty jsi zešílel!"
+msgstr "Co je to za blud? Ty jsi zešílel!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:97
 msgid ""
 "Have not you yourself travelled between the realms of life and death? Behold!"
 msgstr ""
+"Cožpak tys sám necestoval mezi oběma světy, světem živých a mrtvých? Zři!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:146
 msgid ""
@@ -235,54 +275,61 @@ msgid ""
 "gateway, Ihiah-Malal, for you cannot give them life again. You have not "
 "brought an end to death, but to life itself!"
 msgstr ""
+"To je ale velké zlo. Mrtví nenaleznou klid, když projdou tvou branou, "
+"Ihiah Malale, protože ty jim nejsi schopen znovu vrátit život! Tím "
+"nepřivodíš konec smrti jako takové, ale zahubíš život!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:195
 msgid ""
 "You will see things differently at the point of a sword, my friend. Minions! "
 "Kill the unbeliever... he will join us then."
 msgstr ""
+"Myslím, že při pohledu na meč uvidíš věci jinak, příteli. Mí věrní! Zabte "
+"toho nevěřícího... aby se k nám mohl přidat!" 
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:210
 msgid "Ihiah-Malal's body lay still for a moment, then stirred!"
-msgstr ""
+msgstr "Tělo Ihiah-Malala leželo jen malý okamžik, pak zmizelo!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:215
 msgid "Follow me if you dare..."
-msgstr ""
+msgstr "Následuj mne, troufáš-li si..."
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:233
 msgid ""
 "This portal Ihiah-Malal has created is a great and terrible work of magic. I "
 "must catch him, and somehow force him to close it!"
 msgstr ""
+"Portál, který Ihiah-Malal vytvořil, je velkým a hrůzným činem magie. Musím "
+"jít, polapit jej a nějak přinutit, aby jej zavřel."
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:53
 msgid "Do you serve Ihiah-Malal, living man?"
-msgstr ""
+msgstr "Sloužíš Ihiah-Malalovi, smrtelníče?"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:55
 msgid "Yes, I serve him."
-msgstr ""
+msgstr "Ano, sloužím."
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:59
 msgid "Then you will not mind if we kill you! Hahahahah!"
-msgstr ""
+msgstr "Poté Ti nebude vadit, když Te zabiji! Hahahahaha!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:64
 msgid "No, I do not."
-msgstr ""
+msgstr "Ne, nesloužím."
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:68
 msgid "Then you will die forever!"
-msgstr ""
+msgstr "Tak zemřeš jednou provždy!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:99
 msgid "Ihiah-Malal commands your death!"
-msgstr ""
+msgstr "Ihiah-Malal nařídil tvou smrt!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:126
 msgid "Destroy the intruder, my minions!"
-msgstr ""
+msgstr "Zničte narušitele, mí věrní!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:132
 msgid "Into the Land of the Dead"
@@ -462,6 +509,8 @@ msgid ""
 "Then you have not heard... but there will be time enough for talking. If you "
 "can distract those vile creatures, I will try to rustle up a counterattack."
 msgstr ""
+"Tak ty jsi neslyšel... ale není čas na dlouhé povídání. Pokud dokážeš "
+"odlákat ty stvůry, připravím protiútok."
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:166
 msgid "Yes... yes... slay them, my assassins!"
@@ -469,7 +518,7 @@ msgstr "Áno.. výborně... mučte je, zabte je, vy moji vrahouškové, drahouš
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:171
 msgid "Uh oh... I don't like the look of this..."
-msgstr "Tfuj... to bude hnus, na to se radši nebudu dívat.."
+msgstr "Tfuj... to je hnus, jeho pohled se mi vůbec nelíbí..."
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:183
 msgid ""
@@ -685,7 +734,7 @@ msgstr ""
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:103
 msgid "Move Delfador to the signpost in the northeast"
-msgstr "Dojdi s Delfadorem ke směrovníku na neverovýchodě"
+msgstr "Dojdi s Delfadorem ke směrovníku na severovýchodě"
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:130
 msgid ""
