@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-12-16 22:53+0100\n"
-"PO-Revision-Date: 2005-07-17 23:32+0200\n"
-"Last-Translator: tephlon\n"
+"PO-Revision-Date: 2005-12-13 21:21+0100\n"
+"Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.10.1\n"
+"X-Generator: KBabel 1.10.2\n"
 
 #: Delfadors_Memoirs.cfg:14
 msgid "Delfador's Memoirs"
@@ -21,14 +21,12 @@ msgid "Apprentice=(easiest)"
 msgstr ""
 
 #: Delfadors_Memoirs.cfg:19
-#, fuzzy
 msgid "Mage"
-msgstr "dolk"
+msgstr "Magiker"
 
 #: Delfadors_Memoirs.cfg:20
-#, fuzzy
 msgid "Great Mage=(hardest)"
-msgstr "Magikergesäll"
+msgstr ""
 
 #: Delfadors_Memoirs.cfg:23
 msgid ""
@@ -44,9 +42,8 @@ msgstr "Rådslag i Weldyn"
 
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:22
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:20
-#, fuzzy
 msgid "Delfador"
-msgstr "Delfador dör"
+msgstr "Delfador"
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:74
 msgid ""
@@ -198,13 +195,12 @@ msgid ""
 msgstr ""
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:146
-#, fuzzy
 msgid ""
 "Ihiah-Malal has created a portal to the land of the living! How I long to go "
 "through it and see the sun again..."
 msgstr ""
-"Ihiah-Malal hävdar att han kan öppna en portal till de levandes värld. De "
-"som följer honom, kommer att vandra på jorden så som de gjorde i livet."
+"Ihiah-Malal öppnade en portal till de levandes värld! Vad jag längtar efter "
+"att se solen igen..."
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:151
 msgid ""
@@ -530,9 +526,8 @@ msgid "The Road to Weldyn"
 msgstr "Vägen till Weldyn"
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:61
-#, fuzzy
 msgid "The Great Valley"
-msgstr "Magikergesäll"
+msgstr ""
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:66
 msgid "Fort Brell"
@@ -682,9 +677,8 @@ msgid "This'll splinter your bones, you vile monstrosity!"
 msgstr "Detta kommer att krossa dina ben, ditt motbjudande monster!"
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:3
-#, fuzzy
 msgid "The Swamps of Illuven"
-msgstr "Träsket vid Illuven"
+msgstr ""
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:85
 msgid ""
@@ -1369,9 +1363,3 @@ msgstr "Bara en mäktig magiker kan använda denna."
 #: Delfadors_Memoirs/utils/misc.cfg:37
 msgid "A secret passage... I wonder where it leads..."
 msgstr "En dold passage... Undrar vart den leder..."
-
-#~ msgid "Defeat Grogor Tuk"
-#~ msgstr "Besegra Grogor Tuk"
-
-#~ msgid "Wasteland"
-#~ msgstr "Ödemark"
