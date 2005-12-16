@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-12-08 17:57+0100\n"
+"POT-Creation-Date: 2005-12-16 22:53+0100\n"
 "PO-Revision-Date: 2005-06-11 11:02+0100\n"
 "Last-Translator: David Philippi <david@torangan.de>\n"
 "Language-Team: de\n"
@@ -169,7 +169,7 @@ msgstr "Besiegt Ihiah-Malal"
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:108
 #: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:129
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:301
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:100
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:99
 msgid "Death of Delfador"
 msgstr "Delfador fällt in der Schlacht"
 
@@ -180,7 +180,7 @@ msgstr "Delfador fällt in der Schlacht"
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:217
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:112
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:313
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:108
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:107
 msgid "Time runs out"
 msgstr "Rundenlimit überschritten"
 
@@ -413,18 +413,17 @@ msgstr ""
 "Leollyn ist gefallen! Das ist schrecklich... Besser ich hätte aufgegeben und "
 "wäre nach Hause zurückgekehrt."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:96
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:95
 msgid "Defeat Hagha-Tan"
 msgstr "Besiegt Hagha-Tan"
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:111
 #: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:133
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:305
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:104
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:103
 msgid "Death of Leollyn"
 msgstr "Leollyn fällt in der Schlacht"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:128
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:127
 msgid ""
 "Methor told me that I could find Leollyn in his tower in the Royal Forest "
 "outside the city. It should be near here..."
@@ -432,16 +431,16 @@ msgstr ""
 "Methor sagte mir das ich Leollyn in seinem Turm im königlichen Wald "
 "außerhalb der Stadt finden kann. Das muss ganz in der Nähe sein... "
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:133
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:131
 msgid "Ah, another human is approaching... yes... more meat for my war-band..."
 msgstr ""
 "Ah, noch ein Mensch nähert sich... Ja... Mehr Fleisch für meine Krieger... "
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:138
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:135
 msgid "Here, my young friend, to the west! Hurry, we are besieged!"
 msgstr "Hier, mein junger Freund im Westen! Schnell, wir werden belagert!"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:143
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:139
 msgid ""
 "Don't worry, Leollyn, my friends and I will deal with this barbarian for "
 "you. We're getting used to it by now - I did not expect to have so much "
@@ -451,21 +450,37 @@ msgstr ""
 "Barbaren kümmern. Wir haben langsam Übung darin - ich denke nicht das sie "
 "uns große Schwierigkeiten bereiten werden."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:148
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:143
 msgid ""
 "Then you have not heard... but there will be time enough for talking. If you "
 "can distract those vile creatures, I will try to rustle up a counterattack."
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:166
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:160
 msgid "Yes... yes... slay them, my assassins!"
 msgstr "Ja... Ja... Erschlagt sie, meine Orkmeuchler!"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:171
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:164
 msgid "Uh oh... I don't like the look of this..."
 msgstr "Uh oh... Dieser Anblick gefällt mir gar nicht..."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:183
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:178
+msgid "I've told you, I can't see any reason why not to get them!"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:182
+msgid "Great... You are brave men, young friend."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:196
+msgid "I've told you, all of you have to be extra carefull!"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:200
+msgid "Kill them all! For our murdered friend."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:213
 msgid ""
 "Well now, you certainly showed up in the nick of time. A fellow mage, too, I "
 "see. Now what did you say your name was?"
@@ -473,7 +488,7 @@ msgstr ""
 "Ausgezeichnet, ihr habt es rechtzeitig geschafft. Wie ich sehe seid Ihr auch "
 "ein Zauberer. Wie war doch gleich Euer Name?"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:194
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:223
 msgid ""
 "Delfador, sir. Actually, I was looking for you - you see, I am a student of "
 "Methor's. He said that you might find me employment in Weldyn."
@@ -482,7 +497,7 @@ msgstr ""
 "ihr seht bin ich Methors Schüler. Er sagte Ihr könnt mir eine Anstellung in "
 "Weldyn verschaffen."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:199
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:227
 msgid ""
 "Ah, one of Methor's, eh? Good, good... Well, old Garard certainly needs all "
 "the hands he can get right now. Especially those who know their magic!"
@@ -490,13 +505,13 @@ msgstr ""
 "Ah einer von Methors, was? Gut, Gut... Der alte Garard kann im Moment gewiss "
 "jede helfende Hand gebrauchen. Besonders die die Magie beherrschen!"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:206
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:233
 msgid "Delfador, sir. But I bring you bad news... Methor, my teacher, is dead."
 msgstr ""
 "Delfador, mein Herr. Ich bringe schlechte Neuigkeiten... Methor, mein "
 "Lehrer, ist tot."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:211
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:237
 msgid ""
 "That is grave indeed... these are dark times. I think you had best return "
 "with me to Weldyn. Old Garard too, must hear your news."
@@ -505,11 +520,11 @@ msgstr ""
 "das Beste wenn Ihr mit mir nach Weldyn zurückkehrt. Der alte Garard denkt "
 "sicher auch so, er muss Eure Neuigkeiten erfahren."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:218
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:243
 msgid "Is that Garard, King of Wesnoth, you refer to?!"
 msgstr "Sprecht Ihr von Garad, dem König von Wesnoth?!"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:223
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:247
 msgid ""
 "Of course - do you know any other kings of that name? I am one of his "
 "advisors. Though he does not listen to me as closely as he should, perhaps!"
@@ -675,6 +690,11 @@ msgstr ""
 msgid "This'll splinter your bones, you vile monstrosity!"
 msgstr "Das wird deine Knochen splittern lassen du gemeines Monster!"
 
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:3
+#, fuzzy
+msgid "The Swamps of Illuven"
+msgstr "Der Sumpf von Illuven"
+
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:85
 msgid ""
 "This chest contains all the money that rogue has taken from unwary "
@@ -686,6 +706,11 @@ msgstr ""
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:103
 msgid "Move Delfador to the signpost in the northeast"
 msgstr "Bringt Delfador zu dem Wegweiser im Nordosten"
+
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:111
+#, fuzzy
+msgid "Death of Lionel"
+msgstr "Leollyn fällt in der Schlacht"
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:130
 msgid ""
@@ -1368,9 +1393,6 @@ msgstr "Ein geheimer Durchgang... Ich frage mich wo der hinführt..."
 
 #~ msgid "(hardest)"
 #~ msgstr "schwierig"
-
-#~ msgid "The Swamp of Illuven"
-#~ msgstr "Der Sumpf von Illuven"
 
 #~ msgid "Defeat Grogor Tuk"
 #~ msgstr "Besiegt Grogor Tuk"

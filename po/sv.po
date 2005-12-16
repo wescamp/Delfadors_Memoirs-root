@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-12-08 17:57+0100\n"
+"POT-Creation-Date: 2005-12-16 22:53+0100\n"
 "PO-Revision-Date: 2005-07-17 23:32+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
@@ -166,7 +166,7 @@ msgstr "Besegra Ihiah-Malal"
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:108
 #: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:129
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:301
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:100
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:99
 msgid "Death of Delfador"
 msgstr "Delfador dör"
 
@@ -177,7 +177,7 @@ msgstr "Delfador dör"
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:217
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:112
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:313
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:108
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:107
 msgid "Time runs out"
 msgstr "Dragen tar slut"
 
@@ -405,18 +405,17 @@ msgstr ""
 "Leollyn har fallit! Detta är förfärligt... Det är bäst jag ger upp och "
 "återvänder hem."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:96
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:95
 msgid "Defeat Hagha-Tan"
 msgstr "Besegra Hagha-Tan"
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:111
 #: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:133
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:305
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:104
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:103
 msgid "Death of Leollyn"
 msgstr "Leollyn dör"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:128
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:127
 msgid ""
 "Methor told me that I could find Leollyn in his tower in the Royal Forest "
 "outside the city. It should be near here..."
@@ -424,16 +423,16 @@ msgstr ""
 "Methor berättade för mig att jag kan hitta Leollyn i hans torn i den "
 "kungliga skogen utanför staden. Det skulle vara här någonstans..."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:133
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:131
 msgid "Ah, another human is approaching... yes... more meat for my war-band..."
 msgstr ""
 "Ah, det kommer en människa till... Ja... Ännu mer kött till mina mannar..."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:138
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:135
 msgid "Here, my young friend, to the west! Hurry, we are besieged!"
 msgstr "Här, min unge vän, västerut! Skynda dig, vi är belägrade!"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:143
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:139
 msgid ""
 "Don't worry, Leollyn, my friends and I will deal with this barbarian for "
 "you. We're getting used to it by now - I did not expect to have so much "
@@ -443,21 +442,37 @@ msgstr ""
 "dig. Vi börjar bli vana nu - inte hade jag trott att det skulle vara så "
 "besvärligt att ta sig hit!"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:148
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:143
 msgid ""
 "Then you have not heard... but there will be time enough for talking. If you "
 "can distract those vile creatures, I will try to rustle up a counterattack."
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:166
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:160
 msgid "Yes... yes... slay them, my assassins!"
 msgstr "Ja... Ja... Döda dem, mina lönnmördare!"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:171
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:164
 msgid "Uh oh... I don't like the look of this..."
 msgstr "Hoppsan... Jag tycker inte om det här..."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:183
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:178
+msgid "I've told you, I can't see any reason why not to get them!"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:182
+msgid "Great... You are brave men, young friend."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:196
+msgid "I've told you, all of you have to be extra carefull!"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:200
+msgid "Kill them all! For our murdered friend."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:213
 msgid ""
 "Well now, you certainly showed up in the nick of time. A fellow mage, too, I "
 "see. Now what did you say your name was?"
@@ -465,7 +480,7 @@ msgstr ""
 "Nå, det var verkligen i rättan tid som du kom. Och en magiker, precis som "
 "jag, ser jag. Nå, vad sa du att du hette?"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:194
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:223
 msgid ""
 "Delfador, sir. Actually, I was looking for you - you see, I am a student of "
 "Methor's. He said that you might find me employment in Weldyn."
@@ -474,7 +489,7 @@ msgstr ""
 "så att jag är Methors elev. Han sa att ni kanske kan ordna en tjänst till "
 "mig i Weldyn."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:199
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:227
 msgid ""
 "Ah, one of Methor's, eh? Good, good... Well, old Garard certainly needs all "
 "the hands he can get right now. Especially those who know their magic!"
@@ -482,13 +497,13 @@ msgstr ""
 "Så, en av Methors? Bra, bra... Nå, gamle Garard behöver ju verkligen alla "
 "händer han kan få tag i just nu. I synnerhet sådana som kan sin magi!"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:206
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:233
 msgid "Delfador, sir. But I bring you bad news... Methor, my teacher, is dead."
 msgstr ""
 "Delfador, ers nåd. Men jag kommer med dåliga nyheter... Methor, min lärare, "
 "är död."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:211
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:237
 msgid ""
 "That is grave indeed... these are dark times. I think you had best return "
 "with me to Weldyn. Old Garard too, must hear your news."
@@ -497,11 +512,11 @@ msgstr ""
 "är bäst att du återvänder till Weldyn med mig. Gamle Garard måste också få "
 "höra dina nyheter."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:218
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:243
 msgid "Is that Garard, King of Wesnoth, you refer to?!"
 msgstr "Talar du om Garard, kung av Wesnoth?"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:223
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:247
 msgid ""
 "Of course - do you know any other kings of that name? I am one of his "
 "advisors. Though he does not listen to me as closely as he should, perhaps!"
@@ -666,6 +681,11 @@ msgstr ""
 msgid "This'll splinter your bones, you vile monstrosity!"
 msgstr "Detta kommer att krossa dina ben, ditt motbjudande monster!"
 
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:3
+#, fuzzy
+msgid "The Swamps of Illuven"
+msgstr "Träsket vid Illuven"
+
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:85
 msgid ""
 "This chest contains all the money that rogue has taken from unwary "
@@ -677,6 +697,11 @@ msgstr ""
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:103
 msgid "Move Delfador to the signpost in the northeast"
 msgstr "För Delfador till vägskylten i nordöst"
+
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:111
+#, fuzzy
+msgid "Death of Lionel"
+msgstr "Leollyn dör"
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:130
 msgid ""
@@ -1344,9 +1369,6 @@ msgstr "Bara en mäktig magiker kan använda denna."
 #: Delfadors_Memoirs/utils/misc.cfg:37
 msgid "A secret passage... I wonder where it leads..."
 msgstr "En dold passage... Undrar vart den leder..."
-
-#~ msgid "The Swamp of Illuven"
-#~ msgstr "Träsket vid Illuven"
 
 #~ msgid "Defeat Grogor Tuk"
 #~ msgstr "Besegra Grogor Tuk"

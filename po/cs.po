@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-12-08 17:57+0100\n"
+"POT-Creation-Date: 2005-12-16 22:53+0100\n"
 "PO-Revision-Date: 2005-12-08 13:39+0100\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@buchtovi.cz>\n"
@@ -39,8 +39,8 @@ msgid ""
 msgstr ""
 "Wesnoth nezadržitelně upadá do chaosu. Bandy skřetů drancují Wesnoth. "
 "Pronikají stále hlouběji a hlouběji na jih od řeky Abez. Záhadné vraždící "
-"stvůry se procházejí nocí. Kdo je záhadný Ihiah-Malal? "
-"Dokážeš jej zastavit dřív, než zničí vše živé ve Wesnothu?"
+"stvůry se procházejí nocí. Kdo je záhadný Ihiah-Malal? Dokážeš jej zastavit "
+"dřív, než zničí vše živé ve Wesnothu?"
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:3
 msgid "Council in Weldyn"
@@ -141,10 +141,11 @@ msgid ""
 "assist him in governing Weldyn while I am gone. Heed his orders as if they "
 "were my own!"
 msgstr ""
-"Á, mladý Delfador... mluvíš dobře, a navíc mi Leollyn vypověděl o Tvé odvaze. "
-"S radostí přijímám nabídku tvých služeb, ale toto je úkol pro válečníky, "
-"nikoli pro čarotvůrce. Zůstaň raději zde a buď Leollynovi k ruce při "
-"spravování Weldynu, dokud se nevrátím. Řiď se jeho příkazy jako by byly mými."
+"Á, mladý Delfador... mluvíš dobře, a navíc mi Leollyn vypověděl o Tvé "
+"odvaze. S radostí přijímám nabídku tvých služeb, ale toto je úkol pro "
+"válečníky, nikoli pro čarotvůrce. Zůstaň raději zde a buď Leollynovi k ruce "
+"při spravování Weldynu, dokud se nevrátím. Řiď se jeho příkazy jako by byly "
+"mými."
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:160
 msgid ""
@@ -158,12 +159,12 @@ msgid ""
 "my place?"
 msgstr ""
 "Delfarode, mám pro tebe úkol. Lionelova řeč o zlých démonech noci mne "
-"znepokojuje. Podobné zprávy už ke mně dorazili již dříve. Je nemnoho "
-"míst, kde je sprituální svět tak blízko světu, který známe my, a kde "
-"zkušený mág dokáže pomocí meditace komunikovat s dušemi mrtvých. Nejbližší "
-"leží na severozápad, na jednom ostrově v deltě řeky Abez. Pokud jsou mrtví "
-"neklidní, mohli by nám říci proč. Chtěl jsem podniknout tuto cestu osobně, "
-"ale musím zůstat zde ve Weldynu. Mohl bys jít místo mne?"
+"znepokojuje. Podobné zprávy už ke mně dorazili již dříve. Je nemnoho míst, "
+"kde je sprituální svět tak blízko světu, který známe my, a kde zkušený mág "
+"dokáže pomocí meditace komunikovat s dušemi mrtvých. Nejbližší leží na "
+"severozápad, na jednom ostrově v deltě řeky Abez. Pokud jsou mrtví neklidní, "
+"mohli by nám říci proč. Chtěl jsem podniknout tuto cestu osobně, ale musím "
+"zůstat zde ve Weldynu. Mohl bys jít místo mne?"
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:165
 msgid ""
@@ -219,7 +220,7 @@ msgstr "Poraz Ihiah-Malala"
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:108
 #: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:129
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:301
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:100
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:99
 msgid "Death of Delfador"
 msgstr "Smrt Delfadora"
 
@@ -230,7 +231,7 @@ msgstr "Smrt Delfadora"
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:217
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:112
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:313
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:108
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:107
 msgid "Time runs out"
 msgstr "Čas vyprší"
 
@@ -275,9 +276,9 @@ msgid ""
 "gateway, Ihiah-Malal, for you cannot give them life again. You have not "
 "brought an end to death, but to life itself!"
 msgstr ""
-"To je ale velké zlo. Mrtví nenaleznou klid, když projdou tvou branou, "
-"Ihiah Malale, protože ty jim nejsi schopen znovu vrátit život! Tím "
-"nepřivodíš konec smrti jako takové, ale zahubíš život!"
+"To je ale velké zlo. Mrtví nenaleznou klid, když projdou tvou branou, Ihiah "
+"Malale, protože ty jim nejsi schopen znovu vrátit život! Tím nepřivodíš "
+"konec smrti jako takové, ale zahubíš život!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:195
 msgid ""
@@ -285,7 +286,7 @@ msgid ""
 "Kill the unbeliever... he will join us then."
 msgstr ""
 "Myslím, že při pohledu na meč uvidíš věci jinak, příteli. Mí věrní! Zabte "
-"toho nevěřícího... aby se k nám mohl přidat!" 
+"toho nevěřícího... aby se k nám mohl přidat!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:210
 msgid "Ihiah-Malal's body lay still for a moment, then stirred!"
@@ -468,18 +469,17 @@ msgid ""
 msgstr ""
 "Leollyn byl zavražděn! To je strašné... Nejlepší bude, když se vrátím domů."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:96
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:95
 msgid "Defeat Hagha-Tan"
 msgstr "Poraz Hagha-Tana"
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:111
 #: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:133
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:305
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:104
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:103
 msgid "Death of Leollyn"
 msgstr "Smrt Leollyna"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:128
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:127
 msgid ""
 "Methor told me that I could find Leollyn in his tower in the Royal Forest "
 "outside the city. It should be near here..."
@@ -487,15 +487,15 @@ msgstr ""
 "Methor mi říkal, že bych měl najít Leollyna v jeho věži, v Královském Lese "
 "poblíž města. Tady někde by to mělo být..."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:133
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:131
 msgid "Ah, another human is approaching... yes... more meat for my war-band..."
 msgstr "Hele, další lidský červ se objevil... paráda, další maso pro tlupu."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:138
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:135
 msgid "Here, my young friend, to the west! Hurry, we are besieged!"
 msgstr "Tudy, můj mladý příteli, na západ! Pospěšme si, jsme obklíčeni!"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:143
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:139
 msgid ""
 "Don't worry, Leollyn, my friends and I will deal with this barbarian for "
 "you. We're getting used to it by now - I did not expect to have so much "
@@ -504,7 +504,7 @@ msgstr ""
 "Neboj se, Leollyne, mí přátelé a já se postaráme o ty barbary. Jsou to naši "
 "staří známí, nečekám nějaké velké potíže."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:148
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:143
 msgid ""
 "Then you have not heard... but there will be time enough for talking. If you "
 "can distract those vile creatures, I will try to rustle up a counterattack."
@@ -512,15 +512,31 @@ msgstr ""
 "Tak ty jsi neslyšel... ale není čas na dlouhé povídání. Pokud dokážeš "
 "odlákat ty stvůry, připravím protiútok."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:166
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:160
 msgid "Yes... yes... slay them, my assassins!"
 msgstr "Áno.. výborně... mučte je, zabte je, vy moji vrahouškové, drahouškové."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:171
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:164
 msgid "Uh oh... I don't like the look of this..."
 msgstr "Tfuj... to je hnus, jeho pohled se mi vůbec nelíbí..."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:183
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:178
+msgid "I've told you, I can't see any reason why not to get them!"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:182
+msgid "Great... You are brave men, young friend."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:196
+msgid "I've told you, all of you have to be extra carefull!"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:200
+msgid "Kill them all! For our murdered friend."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:213
 msgid ""
 "Well now, you certainly showed up in the nick of time. A fellow mage, too, I "
 "see. Now what did you say your name was?"
@@ -528,7 +544,7 @@ msgstr ""
 "Dobře, tak, objevili ses v pravý čas. A kolega mág, též. Promiň, ale jak že "
 "jsi říkal, že se jmenuješ?"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:194
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:223
 msgid ""
 "Delfador, sir. Actually, I was looking for you - you see, I am a student of "
 "Methor's. He said that you might find me employment in Weldyn."
@@ -536,7 +552,7 @@ msgstr ""
 "Delfador, pane. Víte, hledal jsem vás. Jsem Methorův student. Řekl mi, že "
 "bych si měl najít nějaké uplatnění ve Weldynu."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:199
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:227
 msgid ""
 "Ah, one of Methor's, eh? Good, good... Well, old Garard certainly needs all "
 "the hands he can get right now. Especially those who know their magic!"
@@ -545,11 +561,11 @@ msgstr ""
 "Garard potřebuje každé ruce, které jsou k mání. A hlavně ty, které ovládají "
 "magii!"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:206
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:233
 msgid "Delfador, sir. But I bring you bad news... Methor, my teacher, is dead."
 msgstr "Delfador, pane. Ale nesu zlé zprávy... Methor, můj učitel, je mrtev."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:211
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:237
 msgid ""
 "That is grave indeed... these are dark times. I think you had best return "
 "with me to Weldyn. Old Garard too, must hear your news."
@@ -558,11 +574,11 @@ msgstr ""
 "se se mnou vrátíš do Weldynu. Také starý Garard si musí vyslechnout tuto "
 "temnou novinu."
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:218
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:243
 msgid "Is that Garard, King of Wesnoth, you refer to?!"
 msgstr "Myslíš Gararda, Krále Wesnothu?"
 
-#: Delfadors_Memoirs/scenarios/leollyn.cfg:223
+#: Delfadors_Memoirs/scenarios/leollyn.cfg:247
 msgid ""
 "Of course - do you know any other kings of that name? I am one of his "
 "advisors. Though he does not listen to me as closely as he should, perhaps!"
@@ -724,6 +740,11 @@ msgstr ""
 msgid "This'll splinter your bones, you vile monstrosity!"
 msgstr "Toto ti rozláme kosti, ty ohavné stvoření!"
 
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:3
+#, fuzzy
+msgid "The Swamps of Illuven"
+msgstr "Bažiny Illuvenu"
+
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:85
 msgid ""
 "This chest contains all the money that rogue has taken from unwary "
@@ -735,6 +756,11 @@ msgstr ""
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:103
 msgid "Move Delfador to the signpost in the northeast"
 msgstr "Dojdi s Delfadorem ke směrovníku na severovýchodě"
+
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:111
+#, fuzzy
+msgid "Death of Lionel"
+msgstr "Smrt Leollyna"
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:130
 msgid ""
@@ -1394,9 +1420,6 @@ msgstr "Pouze mocný mág ji může nosit."
 #: Delfadors_Memoirs/utils/misc.cfg:37
 msgid "A secret passage... I wonder where it leads..."
 msgstr "Tajná stezka... Zajímalo by mne, kam vede."
-
-#~ msgid "The Swamp of Illuven"
-#~ msgstr "Bažiny Illuvenu"
 
 #~ msgid "Defeat Grogor Tuk"
 #~ msgstr "Poraz Grogor Tuka"
