@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-12-16 22:53+0100\n"
-"PO-Revision-Date: 2005-12-08 13:39+0100\n"
+"PO-Revision-Date: 2005-12-16 23:09+0100\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
@@ -67,8 +67,7 @@ msgstr ""
 "přišly ze severních krajů Wesnothu."
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:99
-msgid ""
-"Ah, now the last of my council is here. Lionel, what tidings from the north?"
+msgid "Ah, now the last of my council is here. Lionel, what tidings from the north?"
 msgstr ""
 "Tak, konečně je má rada kompletní. Mluv, Lioneli, jaká poselství přinášíš ze "
 "Severu?"
@@ -171,7 +170,7 @@ msgid ""
 "I'm honoured that you would entrust me with such a task... but I too stay in "
 "Weldyn, by the king's order!"
 msgstr ""
-"Jsem postěn, že bys mi svěřil takový úkol, ale... musím na rozkaz Krále také "
+"Jsem podstěn, že bys mi svěřil takový úkol, ale... musím na rozkaz Krále také "
 "zůstat ve Weldynu."
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:170
@@ -184,7 +183,7 @@ msgid ""
 msgstr ""
 "Myslím, že nemusíš. Garard mi tě dal k ruce a já ti mohu přikázat cestovat "
 "na sever, pokud budeš chtít. Ale musíš si být opravdu jist, že jsi připraven "
-"na tak závažný úkol. Kontakty se spirituálním světem jsou velice nebezpečné "
+"na tak těžký úkol. Kontakty se spirituálním světem jsou velice nebezpečné "
 "i pro nejmoncější mágy. Pouze tvá mysl smí vstoupit do Země Mrtvých, jelikož "
 "mysli je povoleno se vrátit, kdežto tělu nikoli a nebylo by tedy pro Tebe "
 "cesty zpět."
@@ -222,7 +221,7 @@ msgstr "Poraz Ihiah-Malala"
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:301
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:99
 msgid "Death of Delfador"
-msgstr "Smrt Delfadora"
+msgstr "Delfador zemře"
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:115
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:60
@@ -249,10 +248,8 @@ msgid "That's impossible! You must be insane!"
 msgstr "Co je to za blud? Ty jsi zešílel!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:97
-msgid ""
-"Have not you yourself travelled between the realms of life and death? Behold!"
-msgstr ""
-"Cožpak tys sám necestoval mezi oběma světy, světem živých a mrtvých? Zři!"
+msgid "Have not you yourself travelled between the realms of life and death? Behold!"
+msgstr "Cožpak tys sám necestoval mezi oběma světy, světem živých a mrtvých? Zři!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:146
 msgid ""
@@ -433,8 +430,7 @@ msgstr "Živý muž... tak jak Ihiah-Malal předpovídal..."
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:344
 msgid "Speak again, spirit! Tell me of yourself. Who is this Ihiah-Malal?"
-msgstr ""
-"Duchu, promluv ještě jednou! Řekni mi něco o sbě. A kdo je ten Ihiah Malal?"
+msgstr "Duchu, promluv ještě jednou! Řekni mi něco o sbě. A kdo je ten Ihiah Malal?"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:348
 msgid ""
@@ -464,10 +460,8 @@ msgid "Leollyn"
 msgstr "Leollyn"
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:82
-msgid ""
-"Leollyn is slain! This is terrible... I had best give up and return home."
-msgstr ""
-"Leollyn byl zavražděn! To je strašné... Nejlepší bude, když se vrátím domů."
+msgid "Leollyn is slain! This is terrible... I had best give up and return home."
+msgstr "Leollyn byl zavražděn! To je strašné... Nejlepší bude, když se vrátím domů."
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:95
 msgid "Defeat Hagha-Tan"
@@ -477,7 +471,7 @@ msgstr "Poraz Hagha-Tana"
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:305
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:103
 msgid "Death of Leollyn"
-msgstr "Smrt Leollyna"
+msgstr "Leollyn zemře"
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:127
 msgid ""
@@ -522,19 +516,19 @@ msgstr "Tfuj... to je hnus, jeho pohled se mi vůbec nelíbí..."
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:178
 msgid "I've told you, I can't see any reason why not to get them!"
-msgstr ""
+msgstr "Říkal jsem ti, že nevidím žádný problém v tom je porazit!"
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:182
 msgid "Great... You are brave men, young friend."
-msgstr ""
+msgstr "Skvělé... Jste opravdu udatní, mladý příteli."
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:196
 msgid "I've told you, all of you have to be extra carefull!"
-msgstr ""
+msgstr "Upozorňoval jsem vás, abyste byli velmi opatrní!"
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:200
 msgid "Kill them all! For our murdered friend."
-msgstr ""
+msgstr "Pobijte je všechny! Za našeho zavražděného přítele!"
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:213
 msgid ""
@@ -626,10 +620,8 @@ msgstr ""
 "s nimi utkat."
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:147
-msgid ""
-"I cannot turn back now... If I fight these orcs, will your villagers help me?"
-msgstr ""
-"Nyní se nemohu vrátit. Pokud budu s nimi bojovat, pomohou mi vaši místní?"
+msgid "I cannot turn back now... If I fight these orcs, will your villagers help me?"
+msgstr "Nyní se nemohu vrátit. Pokud budu s nimi bojovat, pomohou mi vaši místní?"
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:152
 msgid ""
@@ -741,7 +733,6 @@ msgid "This'll splinter your bones, you vile monstrosity!"
 msgstr "Toto ti rozláme kosti, ty ohavné stvoření!"
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:3
-#, fuzzy
 msgid "The Swamps of Illuven"
 msgstr "Bažiny Illuvenu"
 
@@ -758,9 +749,8 @@ msgid "Move Delfador to the signpost in the northeast"
 msgstr "Dojdi s Delfadorem ke směrovníku na severovýchodě"
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:111
-#, fuzzy
 msgid "Death of Lionel"
-msgstr "Smrt Leollyna"
+msgstr "Lionel zemře"
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:130
 msgid ""
@@ -776,13 +766,11 @@ msgstr ""
 msgid ""
 "This place looks wild enough for me. Who made those villages in the swamps? "
 "Orcs?"
-msgstr ""
-"Toto místo mi připadá divoce až až. Kdo si postavil osady v bažinách? Skřeti?"
+msgstr "Toto místo mi připadá divoce až až. Kdo si postavil osady v bažinách? Skřeti?"
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:140
 msgid "No, men of Wesnoth... but those who live here are a lawless lot."
-msgstr ""
-"Nikoli. Lidé z Wesnothu... ale ponejvíce běženci, kteří utekli před zákonem."
+msgstr "Nikoli. Lidé z Wesnothu... ale ponejvíce běženci, kteří utekli před zákonem."
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:151
 msgid ""
@@ -992,8 +980,7 @@ msgstr "Člověk... mág... je to mrtvé?"
 
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:206
 msgid "Easy to find out... thump it and see if it wakes up!"
-msgstr ""
-"To se dá jednoduše zjistit... prašti to a uvidíme, jestli se to zvedne!"
+msgstr "To se dá jednoduše zjistit... prašti to a uvidíme, jestli se to zvedne!"
 
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:211
 msgid "THUMP!"
@@ -1067,7 +1054,7 @@ msgstr "Dojdi s Delfadorem do hradu Ur-thorodora."
 
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:309
 msgid "Death of Ur-thorodor"
-msgstr "Smrt Ur-thorodora"
+msgstr "Ur-thorodor zemře"
 
 #: Delfadors_Memoirs/scenarios/wasteland.cfg:76
 msgid "Death of allied leader"
@@ -1380,8 +1367,7 @@ msgstr "Ne! Bez Lionelovy pomoci jsem mrtev."
 msgid ""
 "Chantal! No - you can't be dead! I have no hope of returning to Wesnoth "
 "now..."
-msgstr ""
-"Chantal, ne! Ty nemůžeš zemřít! ... Ztratil jsem naději vrátit se zpět domů."
+msgstr "Chantal, ne! Ty nemůžeš zemřít! ... Ztratil jsem naději vrátit se zpět domů."
 
 #: Delfadors_Memoirs/utils/generators.cfg:21
 msgid "I call upon all that is holy to break the power of this evil stone!"
@@ -1426,3 +1412,4 @@ msgstr "Tajná stezka... Zajímalo by mne, kam vede."
 
 #~ msgid "Wasteland"
 #~ msgstr "Pustina"
+
