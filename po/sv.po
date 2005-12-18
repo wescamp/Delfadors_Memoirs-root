@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-12-16 22:53+0100\n"
+"POT-Creation-Date: 2005-12-18 23:16+0100\n"
 "PO-Revision-Date: 2005-12-13 21:21+0100\n"
 "Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
@@ -159,7 +159,7 @@ msgstr "Besegra Ihiah-Malal"
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:56
 #: Delfadors_Memoirs/scenarios/wasteland.cfg:72
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:84
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:213
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:222
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:108
 #: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:129
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:301
@@ -171,7 +171,7 @@ msgstr "Delfador dör"
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:60
 #: Delfadors_Memoirs/scenarios/wasteland.cfg:80
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:88
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:217
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:226
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:112
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:313
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:107
@@ -267,11 +267,26 @@ msgstr ""
 msgid "Into the Land of the Dead"
 msgstr "Till de dödas land"
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:209
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:204
+msgid ""
+"It was one of the moments changing the destiny of the world. The Orc Warior "
+"has many possibilities what to do. He could simply pierce him or cut down "
+"Delfador's head. In these ways the Orcs would sure take the whole Wesnoth "
+"and they would rule it for ages. But he only got down his wolf and he "
+"thumped him."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:207
+msgid ""
+"By the thump the Delfador interrupted his concentration on meditation. He "
+"started falling down, but he didn't land the ground. He simply disappeared!"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:218
 msgid "Move Delfador to the signpost"
 msgstr "För Delfador till vägskylten"
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:245
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:254
 msgid ""
 "Do not fear me, Delfador. It is my doom to appear as you see me. I was a "
 "serf of a cruel lord. He demanded great taxes to fight many wars... then "
@@ -283,7 +298,7 @@ msgstr ""
 "krig... Min familj svalt, och vi var tvungna att äta köttet av de som hade "
 "dött."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:255
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:264
 msgid ""
 "Have you encountered the skeletons? Their castle lies north of here. It is "
 "difficult to attack, but there is a secret entrance in the valley beyond "
@@ -292,11 +307,11 @@ msgstr ""
 "Har du stött på skeletten? Deras borg ligger norrut. Den är svår att "
 "anfalla, men det finns en hemlig ingång i dalen bortom Sydneys by."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:261
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:270
 msgid "I died a long time ago. I have forgotten my name."
 msgstr "Jag dog för länge sedan. Jag har glömt mitt namn."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:267
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:276
 msgid ""
 "Ihiah-Malal says that he can open a portal to the world of the living. Those "
 "who follow him will walk the earth as they did in life."
@@ -304,7 +319,7 @@ msgstr ""
 "Ihiah-Malal hävdar att han kan öppna en portal till de levandes värld. De "
 "som följer honom, kommer att vandra på jorden så som de gjorde i livet."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:271
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:280
 msgid ""
 "Why are the dead so restless? This should be a place of rest and peace for "
 "you."
@@ -312,7 +327,7 @@ msgstr ""
 "Varför är de döda så rastlösa? Detta borde ju vara ett vilsamt och fridfullt "
 "ställe för er."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:275
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:284
 msgid ""
 "Once, I was happy here, but Ihiah-Malal made me see this land as the eyes of "
 "the living see it... a place of rock and dust."
@@ -320,7 +335,7 @@ msgstr ""
 "En gång var jag lycklig här, men Ihiah-Malal fick mig att se detta land så "
 "som de levandes ögon ser det... En plats av sten och damm."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:281
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:290
 msgid ""
 "I was once a great lord... I commanded armies! Ihiah-Malal promised I would "
 "lead again."
@@ -328,18 +343,18 @@ msgstr ""
 "En gång var jag en stor furste... Jag hade befälet över arméer! Ihiah-Malal "
 "lovade att jag än en gång skulle få ta befälet."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:287
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:296
 msgid ""
 "Beware the skeletons! They are not the spirits of dead men, but the "
 "creations of evil magic."
 msgstr ""
 "Se upp för skeletten! De är inte de dödas andar, utan skapelser av ond magi."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:291
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:300
 msgid "What else do you know of the skeletons?"
 msgstr "Vad vet du mer om skeletten?"
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:295
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:304
 msgid ""
 "It is said that they guard a powerful magical artifact. Roderick knows more "
 "than I do; he lives to the west."
@@ -347,7 +362,7 @@ msgstr ""
 "Det sägs att de vaktar en mäktig magisk artefakt. Roderick vet mer om det än "
 "jag gör. Han bor västerut."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:329
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:338
 msgid ""
 "This is surely the land of the dead... and it seems I am still alive. But "
 "then, as Leollyn warned, I can never return! I suppose I may as well explore."
@@ -356,16 +371,16 @@ msgstr ""
 "lever. Men, som Leollyn varnade mig, jag kan aldrig återvända! Jag antar att "
 "jag lika väl kan utforska den här platsen."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:340
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:349
 msgid "A living man... so it is as Ihiah-Malal says..."
 msgstr "En levande... Så det är som Ihiah-Malal säger..."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:344
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:353
 msgid "Speak again, spirit! Tell me of yourself. Who is this Ihiah-Malal?"
 msgstr ""
 "Tala till mig igen, ande! Berätta om dig själv. Vem är den här Ihiah-Malal?"
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:348
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:357
 msgid ""
 "My name is Roland. I died long ago, in a great battle... I have almost "
 "forgotten... Ihiah-Malal is a living man, like you, who walks among the "
@@ -375,12 +390,12 @@ msgstr ""
 "nästan inte ihåg längre... Ihiah-Malal är en av de levande, precis som du, "
 "som vandrar bland de döda och utlovar liv till envar som följer honom."
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:352
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:361
 msgid "I would very much like to meet Ihiah-Malal. Where can I find him?"
 msgstr ""
 "Jag skulle väldigt gärna vilja träffa Ihiah-Malal. Var kan jag hitta honom?"
 
-#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:356
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:365
 msgid ""
 "Follow the dry river, then the road to the signpost in the north. I will "
 "guide you. Enter the houses of the dead as you pass, for others here may "
