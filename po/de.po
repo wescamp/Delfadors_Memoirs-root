@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-12-18 23:16+0100\n"
-"PO-Revision-Date: 2005-12-21 15:55+0100\n"
+"PO-Revision-Date: 2005-12-22 11:44+0100\n"
 "Last-Translator: David Philippi <david@torangan.de>\n"
 "Language-Team: de\n"
 "MIME-Version: 1.0\n"
@@ -347,12 +347,20 @@ msgid ""
 "and they would rule it for ages. But he only got down his wolf and he "
 "thumped him."
 msgstr ""
+"Es war einer dieser Momente die über das Schicksal der ganzen Welt "
+"bestimmen. Der Orkkrieger hatte viele Möglichkeiten, er hätte ihn einfach "
+"erstechen oder seinen Kopf abschlagen können. Dann hätten die Orks sicher "
+"ganz Wesnoth eingenommen und hätten lange Zeit darüber herschen könnnen. "
+"Aber er stieg nur von seinem Wolf und stupste ihn."
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:207
 msgid ""
 "By the thump the Delfador interrupted his concentration on meditation. He "
 "started falling down, but he didn't land the ground. He simply disappeared!"
 msgstr ""
+"Von dem Schlag getroffen unterbrach Delfador seine Konzentration auf die "
+"Medation. Er begann herunterzufallen, aber er landete nicht auf dem Boden. "
+"Er wurde einfach unsichtbar!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:218
 msgid "Move Delfador to the signpost"
@@ -549,18 +557,19 @@ msgstr "Uh oh... Dieser Anblick gefällt mir gar nicht..."
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:178
 msgid "I've told you, I can't see any reason why not to get them!"
 msgstr ""
+"Ich hab es euch gesagt, Ich kann keinen Grund erkennen sie nicht zu nehmen!"
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:182
 msgid "Great... You are brave men, young friend."
-msgstr ""
+msgstr "Großartig... Ihr seid ein tapferer Kämpfer, junger Freund."
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:196
 msgid "I've told you, all of you have to be extra carefull!"
-msgstr ""
+msgstr "Ich habe es euch gesagt, ihr müsst sehr vorsichtig sein!"
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:200
 msgid "Kill them all! For our murdered friend."
-msgstr ""
+msgstr "Tötet sie alle! Für unseren ermordeten Freund."
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:213
 msgid ""
@@ -772,7 +781,6 @@ msgid "This'll splinter your bones, you vile monstrosity!"
 msgstr "Das wird deine Knochen splittern lassen du gemeines Monster!"
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:3
-#, fuzzy
 msgid "The Swamps of Illuven"
 msgstr "Der Sumpf von Illuven"
 
@@ -789,7 +797,6 @@ msgid "Move Delfador to the signpost in the northeast"
 msgstr "Bringt Delfador zu dem Wegweiser im Nordosten"
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:111
-#, fuzzy
 msgid "Death of Lionel"
 msgstr "Leollyn fällt in der Schlacht"
 
