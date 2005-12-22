@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-12-18 23:16+0100\n"
+"POT-Creation-Date: 2005-12-22 17:52+0100\n"
 "PO-Revision-Date: 2005-12-13 21:21+0100\n"
 "Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
@@ -157,7 +157,7 @@ msgstr "Besegra Ihiah-Malal"
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:107
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:56
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:72
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:73
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:84
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:222
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:108
@@ -169,7 +169,7 @@ msgstr "Delfador dör"
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:115
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:60
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:80
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:81
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:88
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:226
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:112
@@ -552,7 +552,7 @@ msgstr ""
 msgid "Fort Miryen"
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:68
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:69
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:80
 msgid "Defeat enemy leader"
 msgstr "Besegra fiendeledaren"
@@ -1024,11 +1024,15 @@ msgstr "För Delfador till Ur-thorodors borg"
 msgid "Death of Ur-thorodor"
 msgstr "Ur-thorodor dör"
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:76
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:3
+msgid "Wasteland"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:77
 msgid "Death of allied leader"
 msgstr "En allierad ledare dör"
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:116
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:117
 msgid ""
 "As Delfador followed Ihiah-Malal into the portal, a freezing wind sprung up "
 "and the air became thick with ghosts pouring through into the land of the "
@@ -1042,7 +1046,7 @@ msgstr ""
 "nekromantikerns fotspår genom ett tjockt lager av snö. Efter en stund "
 "suddades även de ut."
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:121
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:122
 msgid ""
 "It's hopeless, I've lost all track of Ihiah-Malal... and I shall freeze "
 "unless I find shelter soon. Perhaps in that forest to the north..."
@@ -1051,11 +1055,11 @@ msgstr ""
 "inte hittar skydd någonstans så fryser jag ihjäl. Kanske i den där skogen "
 "där i norr..."
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:136
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:137
 msgid "Hello, stranger! What are you doing in our forests?"
 msgstr "Hallå där, främling! Vad gör du här i våra skogar?"
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:140
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:141
 msgid ""
 "It's a long story... but I wonder whether I might first ask for your "
 "hospitality? I'm lost, and freezing to death here!"
@@ -1063,7 +1067,7 @@ msgstr ""
 "Det är en lång historia... Och jag skulle vara tacksam för lite av er "
 "gästfrihet? Jag har gått vilse, och fryser till döds här!"
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:144
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:145
 msgid ""
 "Well, I don't see any harm in it... Our border post is to the northeast; you "
 "may seek shelter there. But don't tarry! There are deadlier foes than the "
@@ -1073,15 +1077,15 @@ msgstr ""
 "söka skydd. Men dröj dig inte kvar ute i skogen! Du kan stöta på farligare "
 "fiender än vädret här."
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:160
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:161
 msgid "Welcome, Delfador!"
 msgstr "Välkommen, Delfador!"
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:164
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:165
 msgid "Er, hello... you know my name then...?"
 msgstr "Ähm, hej... Du vet vad jag heter...?"
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:168
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:169
 msgid ""
 "Yes. I am Chantal, and I know many things. I know you come from the great "
 "human state of the south, and are a master of that most human of all arts, "
@@ -1096,7 +1100,7 @@ msgstr ""
 "och som förändrar alla. Ödet vilar tungt på dina axlar, och du förtjänar vår "
 "hjälp."
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:172
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:173
 msgid ""
 "Oh... well... very nice of you, but I don't feel very fated. In fact, I've "
 "been positively blundering! I was just trying to defend my home against the "
@@ -1108,7 +1112,7 @@ msgstr ""
 "mot orcherna, och sedan så ville jag ta reda på varför det var så mycket "
 "vandöda i rörelse... Och jag har misslyckats med bådadera."
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:176
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:177
 msgid ""
 "But you have not failed. The southlands have not yet fallen to the orcish "
 "army, and have you not learned more about the undead than any man alive? It "
@@ -1122,22 +1126,22 @@ msgstr ""
 "i andarna att de kan leva igen, och som får dem att inte se den frid som "
 "deras egna boningar kan skänka."
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:180
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:181
 msgid "You mean Ihiah-Malal?"
 msgstr "Menar du Ihiah-Malal?"
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:184
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:185
 msgid "Yes, that is who I mean."
 msgstr "Ja, jag menar honom."
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:188
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:189
 msgid ""
 "If I might ask, where am I? And what of Lionel, and King Garard? What has "
 "befallen them?"
 msgstr ""
 "Var är jag, om jag får fråga? Och vad har hänt med Lionel och kung Garard?"
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:192
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:193
 msgid ""
 "You are among the North Elves. Our arts hold back the winter cold within "
 "these forests. To the south and west of here lies a wasteland inhabited only "
@@ -1149,7 +1153,7 @@ msgstr ""
 "barbarer och orcher. Längre söderut finns den Stora floden som ni kallar "
 "Abez, och också ditt hem. Jag har inte några nyheter om dina vänner."
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:196
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:197
 msgid ""
 "Well, thank you very much for the help, Chantal. I see now what I must do... "
 "I have lost Ihiah-Malal, but I must at least try to report back to the King "
@@ -1159,7 +1163,7 @@ msgstr ""
 "göra... Jag har tappat bort Ihiah-Malal, men jag måste åtminstone rapportera "
 "till kungen eller till Leollyn. Jag ger mig av söderut."
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:200
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:201
 msgid ""
 "It will not be that easy. The orcish army lies between here and your "
 "destination. We are under attack even here, by an orcish warband encamped in "
@@ -1169,7 +1173,7 @@ msgstr ""
 "Vi blir till och med attackerade här, ett orchfölje har slagit läger i "
 "bergen i sydväst."
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:204
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:205
 msgid ""
 "Attacked by orcs? Then I might perhaps help you to defeat them, and repay "
 "your assistance and kindness!"
@@ -1177,7 +1181,7 @@ msgstr ""
 "Är ni anfallna av orcher? Kanske kan jag hjälpa er att besegra dem, och på "
 "så sätt återbetala er vänlighet något litet?"
 
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:216
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:217
 msgid ""
 "With your help, Delfador, we have overrun the orcish warlord of this area, "
 "and our forests are secure.  Secure enough that I may even join you in your "
@@ -1186,6 +1190,58 @@ msgstr ""
 "Vi besegrade orchernas krigsherre med din hjälp, Delfador, och våra skogar "
 "är nu säkra. Så säkra att jag kan följa med dig på din resa söderut... "
 "Åtminstone så långt som till den Stora floden."
+
+#: Delfadors_Memoirs/scenarios/zatim_konec.cfg:3
+msgid "Epiloque"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/zatim_konec.cfg:10
+msgid " This is the end of the story also known as Legend of Young Delfador."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/zatim_konec.cfg:24
+msgid ""
+"\n"
+"The 'Delfador's Memoirs' campaign was brought to you by:\n"
+"\n"
+"Josh Parsons : creator of earlier versions (up to 0.5.2) of the campaign "
+"containg first 10 scenarios \n"
+"\n"
+"Oto 'tapik' Buchta : new maintainer (from 0.6.0), internationalization, "
+"improvements, bugfixing\n"
+" \n"
+"Arkadiusz D. Danilecki : many things have been stolen from his 'A New "
+"Order'\n"
+"\n"
+"Many thanks to Torangan for patience and explaining how wescamp works; all "
+"others from wesnoth forum.\n"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/zatim_konec.cfg:31
+msgid ""
+"\n"
+"TRANSLATIONS:\n"
+"\n"
+"Oto 'tapik' Buchta: Czech translation\n"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/zatim_konec.cfg:35
+msgid ""
+" If you liked the campaign, please post your feedback at wesnoth forum "
+"(http://www\n"
+".wesnoth.org/forum/). Authors invested a lot of time into this campaign, "
+"just as translators and others did; in return we would love to hear some "
+"opinions about it from people who played it."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/zatim_konec.cfg:39
+msgid ""
+" CAMPAIGN MAINTAINER: The campaign is not finalized yet. Delfador should "
+"come to Abez with Chantal, kill the prince Eldred and many others. The "
+"author of the initial scenarios had some ideas and in the future they will "
+"be fulfilled. If you would like to help me with the finalization, you could. "
+"Please contact me at the Wesnoth forum. Tapik"
+msgstr ""
 
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:4
 msgid "Journeyman Mage"
@@ -1329,11 +1385,15 @@ msgstr "snärja"
 msgid "slow"
 msgstr "sakta ner"
 
-#: Delfadors_Memoirs/utils/deaths.cfg:22
+#: Delfadors_Memoirs/utils/deaths.cfg:12
+msgid "No! So young..."
+msgstr ""
+
+#: Delfadors_Memoirs/utils/deaths.cfg:26
 msgid "No! Without Lionel's help, I am as good as defeated!"
 msgstr "Nej! Utan Lionels hjälp är jag så gott som besegrad!"
 
-#: Delfadors_Memoirs/utils/deaths.cfg:36
+#: Delfadors_Memoirs/utils/deaths.cfg:39
 msgid ""
 "Chantal! No - you can't be dead! I have no hope of returning to Wesnoth "
 "now..."
