@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-12-22 17:52+0100\n"
+"POT-Creation-Date: 2005-12-23 00:53+0100\n"
 "PO-Revision-Date: 2005-12-22 11:44+0100\n"
 "Last-Translator: David Philippi <david@torangan.de>\n"
 "Language-Team: de\n"
@@ -1312,24 +1312,27 @@ msgid ""
 "others from wesnoth forum.\n"
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/zatim_konec.cfg:31
+#: Delfadors_Memoirs/scenarios/zatim_konec.cfg:35
 msgid ""
 "\n"
 "TRANSLATIONS:\n"
-"\n"
 "Oto 'tapik' Buchta: Czech translation\n"
+"blurgk: French translation\n"
+"David Philippi (torangan): German translation\n"
+"RokStar: Italian translation\n"
+"nikita: Russian translation\n"
+"Stefan Bergström (tephlon): Swedish translation\n"
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/zatim_konec.cfg:35
+#: Delfadors_Memoirs/scenarios/zatim_konec.cfg:38
 msgid ""
 " If you liked the campaign, please post your feedback at wesnoth forum "
-"(http://www\n"
-".wesnoth.org/forum/). Authors invested a lot of time into this campaign, "
-"just as translators and others did; in return we would love to hear some "
-"opinions about it from people who played it."
+"(http://www.wesnoth.org/forum/). Authors invested a lot of time into this "
+"campaign, just as translators and others did; in return we would love to "
+"hear some opinions about it from people who played it."
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/zatim_konec.cfg:39
+#: Delfadors_Memoirs/scenarios/zatim_konec.cfg:42
 msgid ""
 " CAMPAIGN MAINTAINER: The campaign is not finalized yet. Delfador should "
 "come to Abez with Chantal, kill the prince Eldred and many others. The "

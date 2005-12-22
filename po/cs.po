@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-12-22 17:52+0100\n"
+"POT-Creation-Date: 2005-12-23 00:53+0100\n"
 "PO-Revision-Date: 2005-12-22 18:15+0100\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@buchtovi.cz>\n"
@@ -73,7 +73,8 @@ msgstr ""
 "přišly ze severních krajů Wesnothu."
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:99
-msgid "Ah, now the last of my council is here. Lionel, what tidings from the north?"
+msgid ""
+"Ah, now the last of my council is here. Lionel, what tidings from the north?"
 msgstr ""
 "Tak, konečně je má rada kompletní. Mluv, Lioneli, jaká poselství přinášíš ze "
 "Severu?"
@@ -254,8 +255,10 @@ msgid "That's impossible! You must be insane!"
 msgstr "Co je to za blud? Ty jsi zešílel!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:97
-msgid "Have not you yourself travelled between the realms of life and death? Behold!"
-msgstr "Cožpak tys sám necestoval mezi oběma světy, světem živých a mrtvých? Zři!"
+msgid ""
+"Have not you yourself travelled between the realms of life and death? Behold!"
+msgstr ""
+"Cožpak tys sám necestoval mezi oběma světy, světem živých a mrtvých? Zři!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:146
 msgid ""
@@ -458,7 +461,8 @@ msgstr "Živý muž... tak jak Ihiah-Malal předpovídal..."
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:353
 msgid "Speak again, spirit! Tell me of yourself. Who is this Ihiah-Malal?"
-msgstr "Duchu, promluv ještě jednou! Řekni mi něco o sobě. A kdo je ten Ihiah Malal?"
+msgstr ""
+"Duchu, promluv ještě jednou! Řekni mi něco o sobě. A kdo je ten Ihiah Malal?"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:357
 msgid ""
@@ -488,8 +492,10 @@ msgid "Leollyn"
 msgstr "Leollyn"
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:82
-msgid "Leollyn is slain! This is terrible... I had best give up and return home."
-msgstr "Leollyn byl zavražděn! To je strašné... Nejlepší bude, když se vrátím domů."
+msgid ""
+"Leollyn is slain! This is terrible... I had best give up and return home."
+msgstr ""
+"Leollyn byl zavražděn! To je strašné... Nejlepší bude, když se vrátím domů."
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:95
 msgid "Defeat Hagha-Tan"
@@ -648,8 +654,10 @@ msgstr ""
 "s nimi utkat."
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:147
-msgid "I cannot turn back now... If I fight these orcs, will your villagers help me?"
-msgstr "Nyní se nemohu vrátit. Pokud budu s nimi bojovat, pomohou mi vaši místní?"
+msgid ""
+"I cannot turn back now... If I fight these orcs, will your villagers help me?"
+msgstr ""
+"Nyní se nemohu vrátit. Pokud budu s nimi bojovat, pomohou mi vaši místní?"
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:152
 msgid ""
@@ -794,11 +802,13 @@ msgstr ""
 msgid ""
 "This place looks wild enough for me. Who made those villages in the swamps? "
 "Orcs?"
-msgstr "Toto místo mi připadá divoce až až. Kdo si postavil osady v bažinách? Skřeti?"
+msgstr ""
+"Toto místo mi připadá divoce až až. Kdo si postavil osady v bažinách? Skřeti?"
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:140
 msgid "No, men of Wesnoth... but those who live here are a lawless lot."
-msgstr "Nikoli. Lidé z Wesnothu... ale ponejvíce běženci, kteří utekli před zákonem."
+msgstr ""
+"Nikoli. Lidé z Wesnothu... ale ponejvíce běženci, kteří utekli před zákonem."
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:151
 msgid ""
@@ -1008,7 +1018,8 @@ msgstr "Člověk... mág... je to mrtvé?"
 
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:206
 msgid "Easy to find out... thump it and see if it wakes up!"
-msgstr "To se dá jednoduše zjistit... prašti to a uvidíme, jestli se to zvedne!"
+msgstr ""
+"To se dá jednoduše zjistit... prašti to a uvidíme, jestli se to zvedne!"
 
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:211
 msgid "THUMP!"
@@ -1274,11 +1285,11 @@ msgstr ""
 "\n"
 "Tažení 'Delfadorovy Paměti' vám přináší:\n"
 "\n"
-"Josh Parsons : tvůrce raných stadíí (do verze 0.5.2) tažení obsahující prvních "
-"10 scénářů \n"
+"Josh Parsons : tvůrce raných stadíí (do verze 0.5.2) tažení obsahující "
+"prvních 10 scénářů \n"
 "\n"
-"Oto 'tapik' Buchta : nový správce (od 0.6.0), internacionalizace, "
-"vylepšení, opravy chyb\n"
+"Oto 'tapik' Buchta : nový správce (od 0.6.0), internacionalizace, vylepšení, "
+"opravy chyb\n"
 " \n"
 "Arkadiusz D. Danilecki : mnoho věcí bylo ukradeno z jeho tažení 'Nový "
 "Pořádek' (v originále 'A New Order')\n"
@@ -1286,28 +1297,27 @@ msgstr ""
 "Mnohý dík patří Toranganovi za jeho trpělivost a za vysvětlení, jak wescamp "
 "pracuje; také všem ostatním z diskusního fóra na wesnoth.org.\n"
 
-#: Delfadors_Memoirs/scenarios/zatim_konec.cfg:31
+#: Delfadors_Memoirs/scenarios/zatim_konec.cfg:35
 msgid ""
 "\n"
 "TRANSLATIONS:\n"
-"\n"
 "Oto 'tapik' Buchta: Czech translation\n"
+"blurgk: French translation\n"
+"David Philippi (torangan): German translation\n"
+"RokStar: Italian translation\n"
+"nikita: Russian translation\n"
+"Stefan Bergström (tephlon): Swedish translation\n"
 msgstr ""
-"\n"
-"PŘEKLAD:\n"
-"\n"
-"Oto 'tapik' Buchta: překlad do češtiny\n"
 
-#: Delfadors_Memoirs/scenarios/zatim_konec.cfg:35
+#: Delfadors_Memoirs/scenarios/zatim_konec.cfg:38
 msgid ""
 " If you liked the campaign, please post your feedback at wesnoth forum "
-"(http://www\n"
-".wesnoth.org/forum/). Authors invested a lot of time into this campaign, "
-"just as translators and others did; in return we would love to hear some "
-"opinions about it from people who played it."
+"(http://www.wesnoth.org/forum/). Authors invested a lot of time into this "
+"campaign, just as translators and others did; in return we would love to "
+"hear some opinions about it from people who played it."
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/zatim_konec.cfg:39
+#: Delfadors_Memoirs/scenarios/zatim_konec.cfg:42
 msgid ""
 " CAMPAIGN MAINTAINER: The campaign is not finalized yet. Delfador should "
 "come to Abez with Chantal, kill the prince Eldred and many others. The "
@@ -1315,9 +1325,10 @@ msgid ""
 "be fulfilled. If you would like to help me with the finalization, you could. "
 "Please contact me at the Wesnoth forum. Tapik"
 msgstr ""
-"SPRÁVCE TAŽENÍ: Tažení není hotové. Delfador by měl přijít s Chantal k Abezu, "
-"zabít prince Eldreda a mnoho dalších. Autor původního tažení měl mnoho nápadů "
-"a v budoucnu budou použity. Pokud mi chcete pomoci s dokončením tažení, ozvěte se mi na Wesnotím fóru. Tapik"
+"SPRÁVCE TAŽENÍ: Tažení není hotové. Delfador by měl přijít s Chantal k "
+"Abezu, zabít prince Eldreda a mnoho dalších. Autor původního tažení měl "
+"mnoho nápadů a v budoucnu budou použity. Pokud mi chcete pomoci s dokončením "
+"tažení, ozvěte se mi na Wesnotím fóru. Tapik"
 
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:4
 msgid "Journeyman Mage"
@@ -1476,7 +1487,8 @@ msgstr "Ne! Bez Lionelovy pomoci jsem mrtev."
 msgid ""
 "Chantal! No - you can't be dead! I have no hope of returning to Wesnoth "
 "now..."
-msgstr "Chantal, ne! Ty nemůžeš zemřít! ... Ztratil jsem naději vrátit se zpět domů."
+msgstr ""
+"Chantal, ne! Ty nemůžeš zemřít! ... Ztratil jsem naději vrátit se zpět domů."
 
 #: Delfadors_Memoirs/utils/generators.cfg:21
 msgid "I call upon all that is holy to break the power of this evil stone!"
@@ -1516,6 +1528,16 @@ msgstr "Pouze mocný mág ji může nosit."
 msgid "A secret passage... I wonder where it leads..."
 msgstr "Tajná stezka... Zajímalo by mne, kam vede."
 
+#~ msgid ""
+#~ "\n"
+#~ "TRANSLATIONS:\n"
+#~ "\n"
+#~ "Oto 'tapik' Buchta: Czech translation\n"
+#~ msgstr ""
+#~ "\n"
+#~ "PŘEKLAD:\n"
+#~ "\n"
+#~ "Oto 'tapik' Buchta: překlad do češtiny\n"
+
 #~ msgid "Defeat Grogor Tuk"
 #~ msgstr "Poraz Grogor Tuka"
-
