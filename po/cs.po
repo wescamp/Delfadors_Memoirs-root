@@ -214,7 +214,6 @@ msgid "Land of the Dead"
 msgstr "Země Mrtvých"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:52
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:104
 msgid "Defeat Ihiah-Malal"
 msgstr "Poraz Ihiah-Malala"
 
@@ -1308,6 +1307,14 @@ msgid ""
 "nikita: Russian translation\n"
 "Stefan Bergström (tephlon): Swedish translation\n"
 msgstr ""
+"\n"
+"PŘEKLAD:\n"
+"Oto 'tapik' Buchta: překlad do češtiny\n"
+"blurgk: překlad do francouštiny\n"
+"David Philippi (torangan): překlad do němčiny\n"
+"RokStar: překlad do itelštiny\n"
+"nikita: překlad do ruštiny\n"
+"Stefan Bergström (tephlon): překlad do švédštiny\n"
 
 #: Delfadors_Memoirs/scenarios/zatim_konec.cfg:38
 msgid ""
@@ -1316,6 +1323,9 @@ msgid ""
 "campaign, just as translators and others did; in return we would love to "
 "hear some opinions about it from people who played it."
 msgstr ""
+" Pokud se ti tažení líbilo, pošli svůj názor do fóra na http://www.wesnoth.org/forum/. "
+"Autoři, stejně tak i překladatelé, investovali do tažení spousty času "
+"a na oplátku bychom tuze rádi znali názor lidí, kteří tažení dohráli do konce."
 
 #: Delfadors_Memoirs/scenarios/zatim_konec.cfg:42
 msgid ""
@@ -1528,16 +1538,6 @@ msgstr "Pouze mocný mág ji může nosit."
 msgid "A secret passage... I wonder where it leads..."
 msgstr "Tajná stezka... Zajímalo by mne, kam vede."
 
-#~ msgid ""
-#~ "\n"
-#~ "TRANSLATIONS:\n"
-#~ "\n"
-#~ "Oto 'tapik' Buchta: Czech translation\n"
-#~ msgstr ""
-#~ "\n"
-#~ "PŘEKLAD:\n"
-#~ "\n"
-#~ "Oto 'tapik' Buchta: překlad do češtiny\n"
-
-#~ msgid "Defeat Grogor Tuk"
-#~ msgstr "Poraz Grogor Tuka"
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:104
+msgid "Defeat Grogor Tuk"
+msgstr "Poraz Grogor Tuka"
