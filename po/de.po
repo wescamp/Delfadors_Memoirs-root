@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-12-23 00:53+0100\n"
-"PO-Revision-Date: 2005-12-22 11:44+0100\n"
+"POT-Creation-Date: 2005-12-23 12:36+0100\n"
+"PO-Revision-Date: 2005-12-23 11:20+0100\n"
 "Last-Translator: David Philippi <david@torangan.de>\n"
 "Language-Team: de\n"
 "MIME-Version: 1.0\n"
@@ -207,7 +207,6 @@ msgid "Land of the Dead"
 msgstr "Das Land der Toten"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:52
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:104
 msgid "Defeat Ihiah-Malal"
 msgstr "Besiegt Ihiah-Malal"
 
@@ -921,6 +920,10 @@ msgstr ""
 "Es wird Krieg geben, Menschen... Krieg! Plündert ihre Dörfer und verschont "
 "niemanden!"
 
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:104
+msgid "Defeat Grogor Tuk"
+msgstr "Besiegt Grogor Tuk"
+
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:127
 msgid "Grooar! Burn! Burn! Ahahaha..."
 msgstr "Grooar! Brenne! Brenne! Ahahaha..."
@@ -1118,7 +1121,7 @@ msgstr "Ur-Thorodor fällt in der Schlacht"
 
 #: Delfadors_Memoirs/scenarios/wasteland.cfg:3
 msgid "Wasteland"
-msgstr ""
+msgstr "Ödland"
 
 #: Delfadors_Memoirs/scenarios/wasteland.cfg:77
 msgid "Death of allied leader"
@@ -1288,11 +1291,13 @@ msgstr ""
 
 #: Delfadors_Memoirs/scenarios/zatim_konec.cfg:3
 msgid "Epiloque"
-msgstr ""
+msgstr "Epilog"
 
 #: Delfadors_Memoirs/scenarios/zatim_konec.cfg:10
 msgid " This is the end of the story also known as Legend of Young Delfador."
 msgstr ""
+"Das ist das Ende der Geschichte, auch bekannt als Legende des jungen "
+"Delfador."
 
 #: Delfadors_Memoirs/scenarios/zatim_konec.cfg:24
 msgid ""
@@ -1311,8 +1316,23 @@ msgid ""
 "Many thanks to Torangan for patience and explaining how wescamp works; all "
 "others from wesnoth forum.\n"
 msgstr ""
+"\n"
+"Die 'Delfador's Memoirs' Kampagne wurde entwickelt von:\\n\n"
+"\n"
+"Josh Parsons: Erstellte die früheren Versionen (bis 0.5.2) der Kampagne\n"
+"die 10 Szenarios beinhaltete.\n"
+"\n"
+"Oto 'tapik' Buchta: Neuer Maintainer (ab 0.6.0), Internationalisierung,\n"
+"Verbesserungen, Bugfixes\n"
+"\n"
+"\"Arkadiusz D. Danilecki: Viele Sachen wurden von seiner 'A New Order' "
+"Kampagne 'gestohlen'\n"
+"\n"
+"Vielen Dank an Torangan für seine Geduld und für die Einführung in die "
+"Arbeitsweise von Wescamp, und an alle anderen aus dem Wesnoth Forum.\n"
 
 #: Delfadors_Memoirs/scenarios/zatim_konec.cfg:35
+#, fuzzy
 msgid ""
 "\n"
 "TRANSLATIONS:\n"
@@ -1323,6 +1343,15 @@ msgid ""
 "nikita: Russian translation\n"
 "Stefan Bergström (tephlon): Swedish translation\n"
 msgstr ""
+"\n"
+"Übersetzer:\n"
+"\n"
+"Oto 'tapik' Buchta: Tschechische Übersetzung\n"
+"blurgk: Französische Übersetzung\n"
+"Andre Schmidt (schmidta): Deutsche Übersetzung\n"
+"RokStar: Italienische Übersetzung\n"
+"nikita: Russische Übersetzung\n"
+"Stefan Bergström (tephlon): Swedische Übersetzung"
 
 #: Delfadors_Memoirs/scenarios/zatim_konec.cfg:38
 msgid ""
@@ -1331,6 +1360,13 @@ msgid ""
 "campaign, just as translators and others did; in return we would love to "
 "hear some opinions about it from people who played it."
 msgstr ""
+"Wenn dir die Kampagne gefallen hat, dann schreibe dein Feedback ins Wesnoth "
+"Forum \n"
+"(http://www.wesnoth.org/forum/). Die Autoren, die übersetzer und andere "
+"haben viel \n"
+"Zeit in die Kampagne gesteckt - es wäre schön dafür einige Meinungen von "
+"Spielern\n"
+"der Kampagne zu hören."
 
 #: Delfadors_Memoirs/scenarios/zatim_konec.cfg:42
 msgid ""
@@ -1340,6 +1376,13 @@ msgid ""
 "be fulfilled. If you would like to help me with the finalization, you could. "
 "Please contact me at the Wesnoth forum. Tapik"
 msgstr ""
+"KAMPAGNEN MAINTAINER: Die Kampagne ist noch nicht abgeschlossen. Delfador "
+"sollte\n"
+"mit Chantal nach Abez kommen, Prinz Eldred und viele andere töten. Der Autor "
+"der\n"
+"ersten Szenarios hatte einige Ideen und diese werden in Zukunft eingebaut. "
+"Wenn\n"
+"du dabei helfen willst, kannst du mich im Wesnoth Forum Kontaktieren. Tapik"
 
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:4
 msgid "Journeyman Mage"
@@ -1487,7 +1530,7 @@ msgstr "Verlangsamen"
 
 #: Delfadors_Memoirs/utils/deaths.cfg:12
 msgid "No! So young..."
-msgstr ""
+msgstr "Nein! So jung..."
 
 #: Delfadors_Memoirs/utils/deaths.cfg:26
 msgid "No! Without Lionel's help, I am as good as defeated!"
@@ -1545,6 +1588,3 @@ msgstr "Ein geheimer Durchgang... Ich frage mich wo der hinführt..."
 
 #~ msgid "(hardest)"
 #~ msgstr "schwierig"
-
-#~ msgid "Defeat Grogor Tuk"
-#~ msgstr "Besiegt Grogor Tuk"
