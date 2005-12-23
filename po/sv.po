@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-12-23 00:53+0100\n"
-"PO-Revision-Date: 2005-12-13 21:21+0100\n"
+"PO-Revision-Date: 2005-12-22 23:05+0100\n"
 "Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -14,11 +14,11 @@ msgstr ""
 
 #: Delfadors_Memoirs.cfg:14
 msgid "Delfador's Memoirs"
-msgstr ""
+msgstr "Delfadors Memoarer"
 
 #: Delfadors_Memoirs.cfg:18
 msgid "Apprentice=(easiest)"
-msgstr ""
+msgstr "Lärling (lättast)"
 
 #: Delfadors_Memoirs.cfg:19
 msgid "Mage"
@@ -26,7 +26,7 @@ msgstr "Magiker"
 
 #: Delfadors_Memoirs.cfg:20
 msgid "Great Mage=(hardest)"
-msgstr ""
+msgstr "Stormagiker (svårast)"
 
 #: Delfadors_Memoirs.cfg:23
 msgid ""
@@ -184,15 +184,18 @@ msgid ""
 "among the dead. You have come in time to see my greatest achievement - an "
 "end to death itself!"
 msgstr ""
+"Så, detta är den som mina undersåtar talade om... Den levande som går bland "
+"de döda. Du har kommit i tid för att beskåda mitt största värv - ett slut på "
+"döden själv!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:92
 msgid "That's impossible! You must be insane!"
-msgstr ""
+msgstr "Det är omöjligt! Du måste vara galen!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:97
 msgid ""
 "Have not you yourself travelled between the realms of life and death? Behold!"
-msgstr ""
+msgstr "Har inte du själv färdats mellan livets och dödens riken? Skåda!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:146
 msgid ""
@@ -207,6 +210,8 @@ msgid ""
 "Now, my living followers, I summon you! See that death is nothing, and fear "
 "not to fight for me!"
 msgstr ""
+"Nu, mina levande följeslagare, jag kallar er! Se att döden är ingenting, och "
+"frukta icke att slåss för mig!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:190
 msgid ""
@@ -224,10 +229,11 @@ msgstr ""
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:210
 msgid "Ihiah-Malal's body lay still for a moment, then stirred!"
 msgstr ""
+"Ihiah-Malals kropp låg still för ett ögonblick, och sedan rörde den sig!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:215
 msgid "Follow me if you dare..."
-msgstr ""
+msgstr "Följ mig om du vågar..."
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:233
 msgid ""
@@ -237,31 +243,31 @@ msgstr ""
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:53
 msgid "Do you serve Ihiah-Malal, living man?"
-msgstr ""
+msgstr "Tjänar du Ihiah-Malal, du levande?"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:55
 msgid "Yes, I serve him."
-msgstr ""
+msgstr "Ja, jag tjänar honom."
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:59
 msgid "Then you will not mind if we kill you! Hahahahah!"
-msgstr ""
+msgstr "Då misstycker du inte om vi dödar dig! Hahahahah!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:64
 msgid "No, I do not."
-msgstr ""
+msgstr "Nej, det gör jag inte."
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:68
 msgid "Then you will die forever!"
-msgstr ""
+msgstr "Då skall du dö, för evigt!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:99
 msgid "Ihiah-Malal commands your death!"
-msgstr ""
+msgstr "Ihiah-Malal beordrar din död!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:126
 msgid "Destroy the intruder, my minions!"
-msgstr ""
+msgstr "Förgör inkräktaren, mina undersåtar!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:132
 msgid "Into the Land of the Dead"
@@ -473,15 +479,15 @@ msgstr ""
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:182
 msgid "Great... You are brave men, young friend."
-msgstr ""
+msgstr "Toppen... Ni är modiga, unge vän."
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:196
 msgid "I've told you, all of you have to be extra carefull!"
-msgstr ""
+msgstr "Jag har ju sagt till er att ni måste vara extra försiktiga!"
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:200
 msgid "Kill them all! For our murdered friend."
-msgstr ""
+msgstr "Döda dem allihop! För vår mördade vän."
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:213
 msgid ""
@@ -542,15 +548,15 @@ msgstr "Vägen till Weldyn"
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:61
 msgid "The Great Valley"
-msgstr ""
+msgstr "Den stora dalen"
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:66
 msgid "Fort Brell"
-msgstr ""
+msgstr "Fort Brell"
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:71
 msgid "Fort Miryen"
-msgstr ""
+msgstr "Fort Miryen"
 
 #: Delfadors_Memoirs/scenarios/wasteland.cfg:69
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:80
@@ -693,7 +699,7 @@ msgstr "Detta kommer att krossa dina ben, ditt motbjudande monster!"
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:3
 msgid "The Swamps of Illuven"
-msgstr ""
+msgstr "Illuvens träsk"
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:85
 msgid ""
@@ -708,9 +714,8 @@ msgid "Move Delfador to the signpost in the northeast"
 msgstr "För Delfador till vägskylten i nordöst"
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:111
-#, fuzzy
 msgid "Death of Lionel"
-msgstr "Leollyn dör"
+msgstr "Lionel dör"
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:130
 msgid ""
@@ -1026,7 +1031,7 @@ msgstr "Ur-thorodor dör"
 
 #: Delfadors_Memoirs/scenarios/wasteland.cfg:3
 msgid "Wasteland"
-msgstr ""
+msgstr "Ödemark"
 
 #: Delfadors_Memoirs/scenarios/wasteland.cfg:77
 msgid "Death of allied leader"
@@ -1193,7 +1198,7 @@ msgstr ""
 
 #: Delfadors_Memoirs/scenarios/zatim_konec.cfg:3
 msgid "Epiloque"
-msgstr ""
+msgstr "Epilog"
 
 #: Delfadors_Memoirs/scenarios/zatim_konec.cfg:10
 msgid " This is the end of the story also known as Legend of Young Delfador."
