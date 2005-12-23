@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-12-23 00:53+0100\n"
+"POT-Creation-Date: 2005-12-23 12:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -94,7 +94,7 @@ msgstr ""
 msgid "Land of the Dead"
 msgstr ""
 
-#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:52 ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:104
+#: ./Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:52
 msgid "Defeat Ihiah-Malal"
 msgstr ""
 
@@ -536,6 +536,10 @@ msgstr ""
 
 #: ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:94
 msgid "That's where you are wrong, puny mage. War is coming, humans... War! Take their villages, and spare no-one!"
+msgstr ""
+
+#: ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:104
+msgid "Defeat Grogor Tuk"
 msgstr ""
 
 #: ./Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:127

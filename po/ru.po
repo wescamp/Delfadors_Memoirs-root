@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-12-23 00:53+0100\n"
+"POT-Creation-Date: 2005-12-23 12:36+0100\n"
 "PO-Revision-Date: 2005-06-01 20:17-0800\n"
 "Last-Translator: nikita <dmcadmin@gmail.com>\n"
 "Language-Team: none\n"
@@ -154,7 +154,6 @@ msgid "Land of the Dead"
 msgstr "Страна Мёртвых"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:52
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:104
 msgid "Defeat Ihiah-Malal"
 msgstr "Убить Ихиа-Малала"
 
@@ -827,6 +826,10 @@ msgstr ""
 "Это  где Вы неправы, недостойный маг. Война прибывает, люди... Война! "
 "Возьмите их деревни, и не пощадите никого!"
 
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:104
+msgid "Defeat Grogor Tuk"
+msgstr "Убить Грогора Така"
+
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:127
 msgid "Grooar! Burn! Burn! Ahahaha..."
 msgstr "Грооар! Горите! Горите! Ахахаха..."
@@ -1435,6 +1438,3 @@ msgstr "Только мощный волшебник может владеть �
 #: Delfadors_Memoirs/utils/misc.cfg:37
 msgid "A secret passage... I wonder where it leads..."
 msgstr "Секретный ход... Интересно, куда он ведет..."
-
-#~ msgid "Defeat Grogor Tuk"
-#~ msgstr "Убить Грогора Така"

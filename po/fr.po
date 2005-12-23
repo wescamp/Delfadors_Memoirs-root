@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-12-23 00:53+0100\n"
+"POT-Creation-Date: 2005-12-23 12:36+0100\n"
 "PO-Revision-Date: 2005-05-03 22:14+0200\n"
 "Last-Translator: blurgk <blurgk@gmail.com>\n"
 "Language-Team: Language fr <wesnoth@ml.free.fr>\n"
@@ -153,7 +153,6 @@ msgid "Land of the Dead"
 msgstr "Terre des morts"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:52
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:104
 msgid "Defeat Ihiah-Malal"
 msgstr "Vaincre Ihiah-Malal"
 
@@ -841,6 +840,10 @@ msgstr ""
 "C'est là que vous vous trompez, faible mage. La guerre arrive, humains... La "
 "guerre ! Prenez leurs villages, et n'épargnez personne !"
 
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:104
+msgid "Defeat Grogor Tuk"
+msgstr "Vaincre Grogor Tuk"
+
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:127
 msgid "Grooar! Burn! Burn! Ahahaha..."
 msgstr "Grrrrr ! Brûle ! Brûle ! Ha ha ha ha..."
@@ -1463,6 +1466,3 @@ msgstr "Seul un puissant mage peut en manier un."
 #: Delfadors_Memoirs/utils/misc.cfg:37
 msgid "A secret passage... I wonder where it leads..."
 msgstr "Un passage secret... Je me demande où il mène..."
-
-#~ msgid "Defeat Grogor Tuk"
-#~ msgstr "Vaincre Grogor Tuk"

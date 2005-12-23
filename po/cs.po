@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-12-23 00:53+0100\n"
+"POT-Creation-Date: 2005-12-23 12:36+0100\n"
 "PO-Revision-Date: 2005-12-22 18:15+0100\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@buchtovi.cz>\n"
@@ -902,6 +902,10 @@ msgstr ""
 "To ti venca písk, starý brachu! Válka se valí, lidský červe... Válka! Zničí "
 "všechny vesnice a neušetří žádného!"
 
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:104
+msgid "Defeat Grogor Tuk"
+msgstr "Poraz Grogor Tuka"
+
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:127
 msgid "Grooar! Burn! Burn! Ahahaha..."
 msgstr "Grooar! Pálit! Pálit! Ahahaha..."
@@ -1323,9 +1327,10 @@ msgid ""
 "campaign, just as translators and others did; in return we would love to "
 "hear some opinions about it from people who played it."
 msgstr ""
-" Pokud se ti tažení líbilo, pošli svůj názor do fóra na http://www.wesnoth.org/forum/. "
-"Autoři, stejně tak i překladatelé, investovali do tažení spousty času "
-"a na oplátku bychom tuze rádi znali názor lidí, kteří tažení dohráli do konce."
+" Pokud se ti tažení líbilo, pošli svůj názor do fóra na http://www.wesnoth."
+"org/forum/. Autoři, stejně tak i překladatelé, investovali do tažení spousty "
+"času a na oplátku bychom tuze rádi znali názor lidí, kteří tažení dohráli do "
+"konce."
 
 #: Delfadors_Memoirs/scenarios/zatim_konec.cfg:42
 msgid ""
@@ -1537,7 +1542,3 @@ msgstr "Pouze mocný mág ji může nosit."
 #: Delfadors_Memoirs/utils/misc.cfg:37
 msgid "A secret passage... I wonder where it leads..."
 msgstr "Tajná stezka... Zajímalo by mne, kam vede."
-
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:104
-msgid "Defeat Grogor Tuk"
-msgstr "Poraz Grogor Tuka"

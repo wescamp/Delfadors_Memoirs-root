@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-12-23 00:53+0100\n"
+"POT-Creation-Date: 2005-12-23 12:36+0100\n"
 "PO-Revision-Date: 2005-12-22 23:05+0100\n"
 "Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
@@ -151,7 +151,6 @@ msgid "Land of the Dead"
 msgstr "De dödas land"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:52
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:104
 msgid "Defeat Ihiah-Malal"
 msgstr "Besegra Ihiah-Malal"
 
@@ -832,6 +831,10 @@ msgid ""
 msgstr ""
 "Du misstar dig, din ynklige magiker. Kriget är på väg, människor... Krig! Ta "
 "deras byar och låt inte någon komma undan!"
+
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:104
+msgid "Defeat Grogor Tuk"
+msgstr ""
 
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:127
 msgid "Grooar! Burn! Burn! Ahahaha..."
