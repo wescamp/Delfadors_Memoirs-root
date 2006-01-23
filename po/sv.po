@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-12-23 12:36+0100\n"
-"PO-Revision-Date: 2005-12-22 23:05+0100\n"
+"PO-Revision-Date: 2006-01-23 20:30+0100\n"
 "Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -35,6 +35,10 @@ msgid ""
 "night. Who is the shadowy Ihiah-Malal? Can you defeat him before he destroys "
 "all life in Wesnoth?"
 msgstr ""
+"Wesnoth verkar obevekligen förfalla till kaos allteftersom plundrande orcher "
+"väller söderut över floden Abez och mystiska, dödsbringande varelser härjar "
+"i natten. Vem är den mystiske Ihial-Mahal? Kan du besegra honom innan han "
+"förgör allt liv i Wesnoth?"
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:3
 msgid "Council in Weldyn"
@@ -53,11 +57,16 @@ msgid ""
 "meeting with the king himself. Garard, it seemed, was anxious to hear news "
 "from the northern part of Wesnoth."
 msgstr ""
+"Delfador och Leollyn mötte inget mer motstånd på återresan till Weldyn. När "
+"de kom in i staden förundrades Delfador över dess storlek, dess mäktiga "
+"murar och dess imponerande palats. Efter en natts vila inbjöds han av "
+"Leollyn till att närvara vid ett möte med kungen själv. Det verkade som om "
+"Garard var ivrig att få höra nyheter från Wesnoths norra delar."
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:99
 msgid ""
 "Ah, now the last of my council is here. Lionel, what tidings from the north?"
-msgstr ""
+msgstr "Ah, nu är de av mitt råd här. Lionel, vad nytt från norr?"
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:103
 msgid ""
@@ -68,12 +77,20 @@ msgid ""
 "into anarchy. We were attacked more than once by thugs and bandits, and by "
 "evil creatures that roamed the night in the shapes of men."
 msgstr ""
+"Dåliga nyheter, ers majestät. Orcherna samlas i stort antal vid floden Abez "
+"norra strand. Vi har blivit avskurna från Knalgas dvärgar - ryktet säger att "
+"orcherna planerar att invadera dem, för att sedan vända sin uppmärksamhet "
+"mot Wesnoth. De goda folken i våra norra provinser, och landet där förfaller "
+"i anarki. Vi anfölls mer än en gång av rövare och banditer, och av "
+"ondskefulla varelser som härjade i natten i människors skepnad."
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:108
 msgid ""
 "Worse news, the orcs are already here, Garard. I myself was set upon within "
 "the royal forest. Were it not for this young fellow here..."
 msgstr ""
+"Vad värre är, orcherna är redan här, Garard. Jag själv blev överfallen i den "
+"kungliga skogen. Om det inte hade varit för den unge mannen här..."
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:113
 msgid ""
@@ -84,6 +101,12 @@ msgid ""
 "backed by force of arms. Gurcyn, you have been to the west - will the elves "
 "lend their archers to help us?"
 msgstr ""
+"Då finns det ingen tid att förlora! Jag rider till Abez med en armé. "
+"Nordborna må vara djärva nog att korsa våra gränser i hemlighet och anfalla "
+"försvarslösa, men de är oorganiserade och är alltid ynkryggar när de står "
+"mot en värdig fiende. De behöver helt enkelt påminnas om att det finns "
+"vapenmakt bakom vårt urgamla förbund. Gurcyn, du har varit i väster - kommer "
+"alverna låta sina bågskyttar hjälpa oss?"
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:118
 msgid ""
@@ -91,12 +114,19 @@ msgid ""
 "greed and foolishness. I have never seen them so unfriendly. There is "
 "something they know of and fear, but they would not tell me what it is."
 msgstr ""
+"Alverna kommer inte att slåss; de hatar orcherna, men talade mörkt om "
+"människors girighet och dårskap. Jag har aldrig sett dem så ovänliga. Det "
+"finns någonting de känner till och fruktar, men de ville inte berätta för "
+"mig vad."
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:123
 msgid ""
 "Your majesty... may I join your army? I mean, I came to Weldyn to seek your "
 "employ. And if it's archers you need, might not a mage be of help?"
 msgstr ""
+"Ers majestät... Kan jag få ansluta mig till er armé? Jag menar, jag kom till "
+"Weldyn för att söka mig tjänst hos er. Och om det är bågskyttar ni behöver, "
+"kan inte en magiker vara till hjälp?"
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:128
 msgid ""
@@ -106,6 +136,11 @@ msgid ""
 "assist him in governing Weldyn while I am gone. Heed his orders as if they "
 "were my own!"
 msgstr ""
+"Ah, unge Delfador... Du talar väl, och Leollyn har redan förtäljt mig om "
+"ditt mod. Jag antar dig till min tjänst med tacksamhet, men detta är ett "
+"uppdrag för krigare, inte trollkonstnärer. Du skall stanna här med Leollyn "
+"och assistera honom med att styra Weldyn medan jag är borta. Lyd hans order "
+"som om de hade varit mina egna!"
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:160
 msgid ""
@@ -118,12 +153,22 @@ msgid ""
 "mission myself... but now I must remain in Weldyn... perhaps you could go in "
 "my place?"
 msgstr ""
+"Delfador, jag kan ha en uppgift till dig... Lionels prat om ondskefulla "
+"nattvarelser bekymrar mig. Sådana berättelser har nått mig förut. Vi vet att "
+"det finns ett fåtal platser där andarna kommer denna vår värld, och där "
+"skulle en tränad magiker kunna kommunicera med de dödas andar genom "
+"meditation. Den närmaste ligger i nordväst, en ö i Abez mynning. Om de döda "
+"är oroliga, kan de kanske säga oss varför. Jag hade tänkt mig att ta mig an "
+"ett sådant uppdrag själv... Men nu måste jag stanna i Weldyn... Kanske du "
+"skulle kunna gå i mitt ställe?"
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:165
 msgid ""
 "I'm honoured that you would entrust me with such a task... but I too stay in "
 "Weldyn, by the king's order!"
 msgstr ""
+"Jag är hedrad av att du skulle anförtro mig en sådan uppgift... Men även jag "
+"stannar i Weldyn, enligt kungens order!"
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:170
 msgid ""
@@ -133,16 +178,24 @@ msgid ""
 "mages. Allow only your mind to enter the land of the dead - should your body "
 "follow, there is no return! Do you still wish to go?"
 msgstr ""
+"Hmmm... Garard ställde dig under mitt befäl, och jag kan beordra dig att "
+"resa norrut, om du så önskar. Men du måste vara säker på att du är redo för "
+"ett så farligt uppdrag. Att ha att göra med andevärlden är farligt även för "
+"den mest mäktiga magiker. Tillåt bara ditt sinne att träda in i de dödas "
+"rike - skulle din kropp följa med finns det ingen återvändo! Vill du "
+"fortfarande gå?"
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:175
 msgid "Absolutely!"
-msgstr ""
+msgstr "Absolut!"
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:180
 msgid ""
 "Then you shall! Lionel and his men will accompany you, for you will need "
 "more than magic for protection on the road."
 msgstr ""
+"Då skall du det! Lionel och hans mannar kommer att följa med dig, för du "
+"kommer att behöva mer än magi som skydd på vägen."
 
 #: Delfadors_Memoirs/utils/schedules.cfg:5
 #: Delfadors_Memoirs/utils/schedules.cfg:13
@@ -218,12 +271,17 @@ msgid ""
 "gateway, Ihiah-Malal, for you cannot give them life again. You have not "
 "brought an end to death, but to life itself!"
 msgstr ""
+"Detta är en stor ondska. De döda kommer inte att finna frid genom att "
+"passera genom din portal, Ihiah-Malal, för du kan inte ge dem liv igen. Du "
+"har inte bringat ett slut på döden, utan på livet självt!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:195
 msgid ""
 "You will see things differently at the point of a sword, my friend. Minions! "
 "Kill the unbeliever... he will join us then."
 msgstr ""
+"Du kommer att se annorlunda på saken när du sitter spetsad på mitt svärd. "
+"Undersåtar! Döda den otroende... Han kommer att följa oss då."
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:210
 msgid "Ihiah-Malal's body lay still for a moment, then stirred!"
@@ -239,6 +297,8 @@ msgid ""
 "This portal Ihiah-Malal has created is a great and terrible work of magic. I "
 "must catch him, and somehow force him to close it!"
 msgstr ""
+"Portalen som Iliah-Malal har skapat är ett mäktigt och fruktansvärt magins "
+"verk. Jag måste fånga honom, och försöka få honom att stänga den!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:53
 msgid "Do you serve Ihiah-Malal, living man?"
@@ -280,12 +340,19 @@ msgid ""
 "and they would rule it for ages. But he only got down his wolf and he "
 "thumped him."
 msgstr ""
+"Detta var en av de stunder som kan förändra världens öde. Orchkrigaren har "
+"många olika valmöjligheter. Han kunde helt enkelt ha spetsat honom eller "
+"huggit av Delfadors huvud. Om så hade skett hade orcherna säkert tagit över "
+"hela Wesnoth och härskat över det i århundraden framåt. Men han hoppade bara "
+"ned från sin varg och slog till honom."
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:207
 msgid ""
 "By the thump the Delfador interrupted his concentration on meditation. He "
 "started falling down, but he didn't land the ground. He simply disappeared!"
 msgstr ""
+"När slaget träffade Delfador stördes hans koncentration på meditationen. Han "
+"började falla, men han landade inte på marken. Han helt enkelt försvann!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:218
 msgid "Move Delfador to the signpost"
@@ -463,6 +530,9 @@ msgid ""
 "Then you have not heard... but there will be time enough for talking. If you "
 "can distract those vile creatures, I will try to rustle up a counterattack."
 msgstr ""
+"Då har du alltså inte hört... Men det kommer att bli nog tid för prat "
+"senare. Om du kan distrahera de här usla varelserna så ska jag försöka rusta "
+"till en motattack."
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:160
 msgid "Yes... yes... slay them, my assassins!"
@@ -474,7 +544,7 @@ msgstr "Hoppsan... Jag tycker inte om det här..."
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:178
 msgid "I've told you, I can't see any reason why not to get them!"
-msgstr ""
+msgstr "Jag sade ju det, jag kan inte se någon anledning till att inte ta dem!"
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:182
 msgid "Great... You are brave men, young friend."
@@ -834,7 +904,7 @@ msgstr ""
 
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:104
 msgid "Defeat Grogor Tuk"
-msgstr ""
+msgstr "Besegra Grogor Tuk"
 
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:127
 msgid "Grooar! Burn! Burn! Ahahaha..."
@@ -1206,7 +1276,11 @@ msgstr "Epilog"
 #: Delfadors_Memoirs/scenarios/zatim_konec.cfg:10
 msgid " This is the end of the story also known as Legend of Young Delfador."
 msgstr ""
+"Detta är slutet på den historia som också är känd som Legenden om den unge "
+"Delfador."
 
+# Heter det "scenaiona"?
+# Hur översätts "maintainer"?
 #: Delfadors_Memoirs/scenarios/zatim_konec.cfg:24
 msgid ""
 "\n"
@@ -1224,7 +1298,22 @@ msgid ""
 "Many thanks to Torangan for patience and explaining how wescamp works; all "
 "others from wesnoth forum.\n"
 msgstr ""
+"\n"
+"Kampanjen 'Delfadors Memoarer' skrevs av:\n"
+"\n"
+"Josh Parsons: skapare av de tidigare versionerna (upp till 0.5.2) av "
+"kampanjen som innehöll de första 10 scenarierna \n"
+"\n"
+"Oto 'tapik' Buchta: ny kampanjansvarig (från 0.6.0), översättning, "
+"förbättringar, buggfixning\n"
+" \n"
+"Arkadiusz D. Danilecki: många saker har stulits från hans 'En Ny Ordning' (A "
+"New Order)\n"
+"\n"
+"Stort tack till Torangan för hans tålamod och för att han förklarade hur "
+"Wescamp fungerar; alla andra från Wesnoths forum.\n"
 
+# Ska jag verkligen stå med?
 #: Delfadors_Memoirs/scenarios/zatim_konec.cfg:35
 msgid ""
 "\n"
@@ -1236,6 +1325,15 @@ msgid ""
 "nikita: Russian translation\n"
 "Stefan Bergström (tephlon): Swedish translation\n"
 msgstr ""
+"\n"
+"ÖVERSÄTTNINGAR:\n"
+"Oto 'tapik' Buchta: tjeckisk översättning\n"
+"blurgk: fransk översättning\n"
+"David Philippi (torangan): tysk översättning\n"
+"RokStar: italiensk översättning\n"
+"nikita: rysk översättning\n"
+"Stefan Bergström (tephlon) och Leo Danielson (Lugo Moll): svensk "
+"översättning\n"
 
 #: Delfadors_Memoirs/scenarios/zatim_konec.cfg:38
 msgid ""
@@ -1244,6 +1342,10 @@ msgid ""
 "campaign, just as translators and others did; in return we would love to "
 "hear some opinions about it from people who played it."
 msgstr ""
+"Om du tyckte om kampanjen, posta då gärna kommentarer på Wesnoths forum "
+"(http://www.wesnoth.org/forum/). Författarna lade ner mycket tid på den här "
+"kampanjen, vilket översättare med flera också gjorde; som gentjänst vill vi "
+"gärna höra lite åsikter om den från folk som har spelat den."
 
 #: Delfadors_Memoirs/scenarios/zatim_konec.cfg:42
 msgid ""
@@ -1253,6 +1355,12 @@ msgid ""
 "be fulfilled. If you would like to help me with the finalization, you could. "
 "Please contact me at the Wesnoth forum. Tapik"
 msgstr ""
+"KAMPANJANSVARIG: Kampanjen är inte helt färdigställd ännu. Delfador ska "
+"komma till Abez med Chantal, döda prins Eldred och många andra. Författaren "
+"till de ursprungliga scenarierna hade en del idéer och i framtiden kommer "
+"många att bli verklighet. Om du skulle vilja hjälpa mig med slutförandet, så "
+"får du gärna göra det. Var i så fall snäll och kontakta mig på Wesnoths "
+"forum. Tapik"
 
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:4
 msgid "Journeyman Mage"
@@ -1398,7 +1506,7 @@ msgstr "sakta ner"
 
 #: Delfadors_Memoirs/utils/deaths.cfg:12
 msgid "No! So young..."
-msgstr ""
+msgstr "Nej! Så ung..."
 
 #: Delfadors_Memoirs/utils/deaths.cfg:26
 msgid "No! Without Lionel's help, I am as good as defeated!"
