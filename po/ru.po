@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-12-23 12:36+0100\n"
+"POT-Creation-Date: 2006-03-13 13:45+0100\n"
 "PO-Revision-Date: 2005-06-01 20:17-0800\n"
 "Last-Translator: nikita <dmcadmin@gmail.com>\n"
 "Language-Team: none\n"
@@ -42,8 +42,8 @@ msgstr ""
 msgid "Council in Weldyn"
 msgstr "Совет в Велдин"
 
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:22
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:20
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:22
 #, fuzzy
 msgid "Delfador"
 msgstr "Смерть Делфадора"
@@ -147,9 +147,9 @@ msgid ""
 "more than magic for protection on the road."
 msgstr ""
 
+#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:3
 #: Delfadors_Memoirs/utils/schedules.cfg:5
 #: Delfadors_Memoirs/utils/schedules.cfg:13
-#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:3
 msgid "Land of the Dead"
 msgstr "Страна Мёртвых"
 
@@ -157,26 +157,26 @@ msgstr "Страна Мёртвых"
 msgid "Defeat Ihiah-Malal"
 msgstr "Убить Ихиа-Малала"
 
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:301
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:129
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:107
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:56
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:73
-#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:84
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:222
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:108
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:129
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:301
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:73
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:99
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:108
+#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:84
 msgid "Death of Delfador"
 msgstr "Смерть Делфадора"
 
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:313
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:115
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:60
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:81
-#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:88
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:226
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:112
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:313
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:81
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:107
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:112
+#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:88
 msgid "Time runs out"
 msgstr "Закончились ходы"
 
@@ -419,8 +419,8 @@ msgstr ""
 msgid "Defeat Hagha-Tan"
 msgstr "Убить Хага-загар"
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:133
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:305
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:133
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:103
 msgid "Death of Leollyn"
 msgstr "Смерть Ихиа-Малала"
@@ -1259,15 +1259,15 @@ msgstr ""
 msgid "missile"
 msgstr "снаряд"
 
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:44
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:20
 #: Delfadors_Memoirs/units/Mage_Commander.cfg:39
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:44
 msgid "fire"
 msgstr "огонь"
 
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:46
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:22
 #: Delfadors_Memoirs/units/Mage_Commander.cfg:41
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:46
 msgid "magical"
 msgstr "волшебная"
 
@@ -1331,14 +1331,14 @@ msgstr ""
 msgid "staff"
 msgstr "посых"
 
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:23
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:22
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:34
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:23
 msgid "impact"
 msgstr "удар"
 
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:38
 #: Delfadors_Memoirs/units/Mage_Leader.cfg:43
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:38
 msgid "fireball"
 msgstr "огненный шар"
 
