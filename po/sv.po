@@ -2,15 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-12-23 12:36+0100\n"
-"PO-Revision-Date: 2006-01-23 20:30+0100\n"
-"Last-Translator: Stefan Bergström (tephlon)\n"
+"POT-Creation-Date: 2006-03-13 13:45+0100\n"
+"PO-Revision-Date: 2006-03-13 02:59+0100\n"
+"Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
+"DOT com>\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.10.2\n"
+"X-Generator: KBabel 1.11.1\n"
 
 #: Delfadors_Memoirs.cfg:14
 msgid "Delfador's Memoirs"
@@ -44,8 +45,8 @@ msgstr ""
 msgid "Council in Weldyn"
 msgstr "Rådslag i Weldyn"
 
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:22
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:20
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:22
 msgid "Delfador"
 msgstr "Delfador"
 
@@ -197,9 +198,9 @@ msgstr ""
 "Då skall du det! Lionel och hans mannar kommer att följa med dig, för du "
 "kommer att behöva mer än magi som skydd på vägen."
 
+#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:3
 #: Delfadors_Memoirs/utils/schedules.cfg:5
 #: Delfadors_Memoirs/utils/schedules.cfg:13
-#: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:3
 msgid "Land of the Dead"
 msgstr "De dödas land"
 
@@ -207,26 +208,26 @@ msgstr "De dödas land"
 msgid "Defeat Ihiah-Malal"
 msgstr "Besegra Ihiah-Malal"
 
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:301
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:129
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:107
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:56
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:73
-#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:84
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:222
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:108
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:129
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:301
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:73
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:99
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:108
+#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:84
 msgid "Death of Delfador"
 msgstr "Delfador dör"
 
+#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:313
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:115
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:60
-#: Delfadors_Memoirs/scenarios/wasteland.cfg:81
-#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:88
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:226
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:112
-#: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:313
+#: Delfadors_Memoirs/scenarios/wasteland.cfg:81
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:107
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:112
+#: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:88
 msgid "Time runs out"
 msgstr "Dragen tar slut"
 
@@ -492,8 +493,8 @@ msgstr ""
 msgid "Defeat Hagha-Tan"
 msgstr "Besegra Hagha-Tan"
 
-#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:133
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:305
+#: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:133
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:103
 msgid "Death of Leollyn"
 msgstr "Leollyn dör"
@@ -1379,15 +1380,15 @@ msgstr ""
 msgid "missile"
 msgstr "projektil"
 
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:44
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:20
 #: Delfadors_Memoirs/units/Mage_Commander.cfg:39
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:44
 msgid "fire"
 msgstr "eld"
 
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:46
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:22
 #: Delfadors_Memoirs/units/Mage_Commander.cfg:41
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:46
 msgid "magical"
 msgstr "magisk"
 
@@ -1450,14 +1451,14 @@ msgstr ""
 msgid "staff"
 msgstr "stav"
 
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:23
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:22
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:34
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:23
 msgid "impact"
 msgstr "kross"
 
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:38
 #: Delfadors_Memoirs/units/Mage_Leader.cfg:43
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:38
 msgid "fireball"
 msgstr "eldklot"
 
