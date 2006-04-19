@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:45+0100\n"
-"PO-Revision-Date: 2006-04-07 15:28+0100\n"
+"PO-Revision-Date: 2006-04-19 11:48+0100\n"
 "Last-Translator: Brivido <brivido@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -64,7 +64,6 @@ msgstr ""
 "settentrionale di Wesnoth."
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:99
-#, fuzzy
 msgid ""
 "Ah, now the last of my council is here. Lionel, what tidings from the north?"
 msgstr ""
@@ -72,7 +71,6 @@ msgstr ""
 "dal nord?"
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:103
-#, fuzzy
 msgid ""
 "Bad news, my liege. The orcs mass in great numbers on the north shore of the "
 "river Abez. We have been cut off from the dwarves of Knalga - the rumour is "
@@ -83,11 +81,11 @@ msgid ""
 msgstr ""
 "Gravi notizie, mio signore. Gli orchi si ammassano in gran numero sulla riva "
 "nord del fiume Abez. Abbiamo perso i contatti con i nani di Knalga - pare "
-"che gli orchi intendano sgominarli per poi rivolgere la loro attenzione a "
+"che gli orchi intendano travolgerli per poi rivolgere la loro attenzione a "
 "Wesnoth. La buona gente delle nostre province settentrionali è in fuga e in "
 "quelle terre ormai domina l'anarchia. Siamo stati attaccati più di una volta "
-"da thugs, banditi e da diaboliche creature che la notte vagano sotto forma "
-"umana."
+"da scagnozzi e banditi e da diaboliche creature che la notte vagano sotto "
+"forma umana."
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:108
 msgid ""
@@ -115,7 +113,6 @@ msgstr ""
 "stato all'ovest - gli elfi ci aiuteranno con i loro arcieri?"
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:118
-#, fuzzy
 msgid ""
 "The elves will not fight; they hate the orcs, but spoke darkly of human "
 "greed and foolishness. I have never seen them so unfriendly. There is "
@@ -251,7 +248,6 @@ msgid "That's impossible! You must be insane!"
 msgstr "È impossibile! Tu sei pazzo!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:97
-#, fuzzy
 msgid ""
 "Have not you yourself travelled between the realms of life and death? Behold!"
 msgstr "Non hai viaggiato tra il regno dei vivi e quello dei morti? Osserva!"
@@ -291,9 +287,10 @@ msgstr ""
 "Servi! Uccidete lo scettico... così si unirà a noi."
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:210
-#, fuzzy
 msgid "Ihiah-Malal's body lay still for a moment, then stirred!"
-msgstr "Il corpo di Ihiah-Malal si irrigidì per un momento, quindi si voltò!"
+msgstr ""
+"Il corpo di Ihiah-Malal rimase fermo per qualche istante, poi si mosse di "
+"nuovo!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:215
 msgid "Follow me if you dare..."
@@ -320,7 +317,6 @@ msgid "Then you will not mind if we kill you! Hahahahah!"
 msgstr "Allora non ti importa se ti uccideremo! Hahahahah!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:64
-#, fuzzy
 msgid "No, I do not."
 msgstr "No, non mi importa."
 
@@ -329,7 +325,6 @@ msgid "Then you will die forever!"
 msgstr "Allora morirai una volta per tutte!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:99
-#, fuzzy
 msgid "Ihiah-Malal commands your death!"
 msgstr "Ihiah-Malal ti ordina di morire!"
 
@@ -342,7 +337,6 @@ msgid "Into the Land of the Dead"
 msgstr "Nel regno dei Morti"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:204
-#, fuzzy
 msgid ""
 "It was one of the moments changing the destiny of the world. The Orc Warior "
 "has many possibilities what to do. He could simply pierce him or cut down "
@@ -353,17 +347,16 @@ msgstr ""
 "Era uno di quei momenti che cambiano il destino del mondo. L'orco guerriero "
 "aveva diverse scelte. Avrebbe potuto semplicemente trafiggerlo oppure "
 "staccare la testa di Delfador. Così gli orchi si sarebbero assicurati "
-"l'intero Wesnoth e avrebbero regnato per secoli. Ma ha ottenuto soltanto giù "
-"il suo lupo e lo ha battuto."
+"l'intero Wesnoth e avrebbero regnato per secoli. Ma smontò solo dal lupo e "
+"lo colpì."
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:207
 msgid ""
 "By the thump the Delfador interrupted his concentration on meditation. He "
 "started falling down, but he didn't land the ground. He simply disappeared!"
 msgstr ""
-"Con il suo colpo Delfador ha interrotto la sua concentrazione nella "
-"meditazione. Ha cominciato cadere, ma non ha toccato terra. È sparito "
-"semplicemente!"
+"Con quel colpo Delfador interruppe la sua concentrazione nella meditazione. "
+"Cominciò a cadere, ma non toccò terra. Semplicemente sparì!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:218
 msgid "Move Delfador to the signpost"
@@ -520,8 +513,7 @@ msgstr ""
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:131
 msgid "Ah, another human is approaching... yes... more meat for my war-band..."
-msgstr ""
-"Ah, un altro umano si avvicina... sì... altra carne per la mia banda..."
+msgstr "Ah, si avvicina un altro uomo... sì... altra carne per la mia banda..."
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:135
 msgid "Here, my young friend, to the west! Hurry, we are besieged!"
@@ -537,13 +529,12 @@ msgstr ""
 "Siamo arrivati fin qui - non credo che sarà un problema raggiungerti!"
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:143
-#, fuzzy
 msgid ""
 "Then you have not heard... but there will be time enough for talking. If you "
 "can distract those vile creatures, I will try to rustle up a counterattack."
 msgstr ""
-"Allora non mi ha ascoltato... ma avremo tempo per comunicare. Se puoi "
-"distrarre quelle vili creature, proverò a improvvisare un contrattacco."
+"Allora non mi ha ascoltato... ma avremo tempo per parlare. Se puoi distrarre "
+"quelle vili creature, proverò a improvvisare un contrattacco."
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:160
 msgid "Yes... yes... slay them, my assassins!"
@@ -554,17 +545,14 @@ msgid "Uh oh... I don't like the look of this..."
 msgstr "Uh oh... non mi piace l'aspetto di questo..."
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:178
-#, fuzzy
 msgid "I've told you, I can't see any reason why not to get them!"
 msgstr "Te l'ho detto, per me non c'è motivo per non prenderli!"
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:182
-#, fuzzy
 msgid "Great... You are brave men, young friend."
 msgstr "Bene... Sei un uomo coraggioso, giovane amico."
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:196
-#, fuzzy
 msgid "I've told you, all of you have to be extra carefull!"
 msgstr "Ve l'ho detto, dovete essere tutti estremamente cauti!"
 
@@ -633,12 +621,10 @@ msgid "The Great Valley"
 msgstr "La grande valle"
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:66
-#, fuzzy
 msgid "Fort Brell"
 msgstr "Forte Brell"
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:71
-#, fuzzy
 msgid "Fort Miryen"
 msgstr "Forte Miryen"
 
@@ -1442,7 +1428,7 @@ msgstr "arco"
 
 #: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:38
 msgid "pierce"
-msgstr "perforazione"
+msgstr "perfora"
 
 #: Delfadors_Memoirs/units/Mage_Commander.cfg:4
 msgid "Mage Commander"
@@ -1548,7 +1534,7 @@ msgstr ""
 #: Delfadors_Memoirs/utils/generators.cfg:66
 msgid "Evil emanates from this stone, but I have not the power to destroy it."
 msgstr ""
-"È questa pietra che emana il male ma non ho il potere necessario a "
+"Questa è la pietra che emana il male ma non ho il potere necessario a "
 "distruggerla."
 
 #: Delfadors_Memoirs/utils/generators.cfg:147
