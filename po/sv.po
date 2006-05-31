@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:45+0100\n"
-"PO-Revision-Date: 2006-04-22 15:31+0200\n"
+"PO-Revision-Date: 2006-05-31 00:21+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -1010,9 +1010,9 @@ msgid ""
 "the spirit world. But the woses were not the only creatures living on this "
 "island..."
 msgstr ""
-"Samtidigt som wesnotherna drog sig tillbaka från ön, så försvann woserna in "
+"Samtidigt som wesnotherna drog sig tillbaka från ön, så försvann enterna in "
 "i skogen. Delfador satte sig ned och började meditera för att komma i "
-"kontakt med andevärlden. Men det levde andra varelser än woser på ön..."
+"kontakt med andevärlden. Men det levde andra varelser än enter på ön..."
 
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:157
 msgid "Ommmmmmm...."
@@ -1045,7 +1045,7 @@ msgid ""
 "thought they were gone from Wesnoth forever. They are not evil, it is said, "
 "but yet they may be hostile to us. We had best be careful."
 msgstr ""
-"Jag tror det är woser - trädväktare. Jag har hört talas om dem, men jag "
+"Jag tror det är enter - trädherdar. Jag har hört talas om dem, men jag "
 "trodde inte det fanns några kvar i Wesnoth längre. Det sägs att de inte är "
 "onda, men de kan nog vara fientligt inställda mot oss. Det är bäst vi är "
 "försiktiga."
@@ -1480,18 +1480,18 @@ msgstr "dolk"
 
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:4
 msgid "Wose Shaman"
-msgstr "Woseschaman"
+msgstr "Entschaman"
 
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:8
 msgid "ambush,regenerates"
-msgstr "bakhåll, regenererar"
+msgstr "bakhåll, regenerera"
 
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:18
 msgid ""
 "These woses are able to command forest plants such as vines and creepers to "
 "hinder their enemies."
 msgstr ""
-"Dessa woser har förmågan att få slingerväxter att hindra deras fiender."
+"Dessa enter har förmågan att få slingerväxter att hindra deras fiender."
 
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:21
 msgid "crush"
