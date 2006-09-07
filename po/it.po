@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:45+0100\n"
-"PO-Revision-Date: 2006-04-19 11:48+0100\n"
-"Last-Translator: Brivido <brivido@gmail.com>\n"
+"PO-Revision-Date: 2006-09-05 09:40+0100\n"
+"Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -41,7 +41,7 @@ msgstr ""
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:3
 msgid "Council in Weldyn"
-msgstr "Il Consiglio di Weldyn"
+msgstr "Il consiglio di Weldyn"
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:20
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:22
@@ -58,7 +58,7 @@ msgid ""
 msgstr ""
 "Delfador e Leollyn non hanno incontrato ostacoli nel rientro a Weldyn. "
 "Entrati in città, Delfador è rimasto stupito dalla sua estensione, dalle sue "
-"grandi mura e dall'impressionate citadella. Dopo una notte ristoratrice, "
+"grandi mura e dall'impressionante citadella. Dopo una notte ristoratrice, "
 "Leollyn lo ha invitato a presenziare ad una riunione con il re in persona. "
 "Il re Garard, a quanto pareva, era ansioso di sentire le notizie della parte "
 "settentrionale di Wesnoth."
@@ -204,7 +204,7 @@ msgstr ""
 #: Delfadors_Memoirs/utils/schedules.cfg:5
 #: Delfadors_Memoirs/utils/schedules.cfg:13
 msgid "Land of the Dead"
-msgstr "Regno dei Morti"
+msgstr "Regno dei morti"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:52
 msgid "Defeat Ihiah-Malal"
@@ -265,7 +265,7 @@ msgid ""
 "Now, my living followers, I summon you! See that death is nothing, and fear "
 "not to fight for me!"
 msgstr ""
-"Ora, miei seguaci viventi, io vi invoco! Osservate che la morte non è nulla, "
+"Ora, miei seguaci viventi, io vi invoco! Osservate che la morte non è nulla "
 "e non temete di combattere per me!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:190
@@ -334,7 +334,7 @@ msgstr "Distruggete l'intruso, miei servi!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:132
 msgid "Into the Land of the Dead"
-msgstr "Nel regno dei Morti"
+msgstr "Nel regno dei morti"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:204
 msgid ""
@@ -426,7 +426,7 @@ msgid ""
 "Beware the skeletons! They are not the spirits of dead men, but the "
 "creations of evil magic."
 msgstr ""
-"Fai attenzione agli scheletri! Non sono spiriti dei morti, sono creazioni "
+"Fa' attenzione agli scheletri! Non sono spiriti dei morti, sono creazioni "
 "derivate dall'uso della magia nera."
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:300
@@ -886,8 +886,8 @@ msgid ""
 "your possessions! Hand them over quietly and I may permit you to live on as "
 "my slaves..."
 msgstr ""
-"Ascoltate umani! Questo villaggio adesso è mio. Voglio tutte le vostre case "
-"ed i vostri averi! Fornitemi queste cose senza fare storie e potrei "
+"Ascoltate uomini! Questo villaggio adesso è mio. Voglio tutte le vostre case "
+"e i vostri averi! Fornitemi queste cose senza fare storie e potrei "
 "permettervi di vivere come miei schiavi..."
 
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:89
@@ -903,7 +903,7 @@ msgid ""
 "That's where you are wrong, puny mage. War is coming, humans... War! Take "
 "their villages, and spare no-one!"
 msgstr ""
-"È qui che ti sbagli maghetto. La guerra è alla porte umani... Guerra! "
+"È qui che ti sbagli maghetto. La guerra è alla porte, uomini... Guerra! "
 "Prendete i loro villaggi e non rispiarmate nessuno!"
 
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:104
@@ -1364,7 +1364,7 @@ msgstr ""
 
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:4
 msgid "Journeyman Mage"
-msgstr "Mago Viaggiatore"
+msgstr "Mago viaggiatore"
 
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:16
 msgid ""
@@ -1432,7 +1432,7 @@ msgstr "perfora"
 
 #: Delfadors_Memoirs/units/Mage_Commander.cfg:4
 msgid "Mage Commander"
-msgstr "Mago Comandante"
+msgstr "Mago comandante"
 
 #: Delfadors_Memoirs/units/Mage_Commander.cfg:10
 msgid "leadership,heals"
@@ -1466,7 +1466,7 @@ msgstr "palla di fuoco"
 
 #: Delfadors_Memoirs/units/Mage_Leader.cfg:4
 msgid "Mage Leader"
-msgstr "Mago Condottiero"
+msgstr "Mago condottiero"
 
 #: Delfadors_Memoirs/units/Mage_Leader.cfg:19
 msgid ""
@@ -1483,7 +1483,7 @@ msgstr "pugnale"
 
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:4
 msgid "Wose Shaman"
-msgstr "Shamano Wose"
+msgstr "Shamano wose"
 
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:8
 msgid "ambush,regenerates"
