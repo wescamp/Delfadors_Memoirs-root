@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-03-13 13:45+0100\n"
+"POT-Creation-Date: 2006-09-08 12:06+0200\n"
 "PO-Revision-Date: 2005-05-03 22:14+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -39,6 +39,7 @@ msgstr ""
 msgid "Council in Weldyn"
 msgstr ""
 
+#: Delfadors_Memoirs/scenarios/overture.cfg:17
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:20
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:22
 msgid "Delfador"
@@ -160,7 +161,7 @@ msgstr ""
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:222
 #: Delfadors_Memoirs/scenarios/wasteland.cfg:73
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:99
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:108
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:107
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:84
 msgid "Death of Delfador"
 msgstr "Delfadori surm"
@@ -171,7 +172,7 @@ msgstr "Delfadori surm"
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:226
 #: Delfadors_Memoirs/scenarios/wasteland.cfg:81
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:107
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:112
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:111
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:88
 msgid "Time runs out"
 msgstr ""
@@ -481,6 +482,173 @@ msgid ""
 "advisors. Though he does not listen to me as closely as he should, perhaps!"
 msgstr ""
 
+#: Delfadors_Memoirs/scenarios/overture.cfg:3
+msgid "Overture"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:25
+msgid "Methor"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:36
+msgid "Grogor Tuk"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:52
+msgid ""
+"This is the true story of the Delfador the Great from the times he did not "
+"use such name. The true story how he became famous and the most powerfull of "
+"all beings in the Wesnoth. It would be a great hero epos, but it was "
+"happened. "
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:55
+msgid " Once upon a time..."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:58
+msgid ""
+" After ten years of a hard work one young mage apprentice has finished his "
+"studies. He had chance to became Mage. The tradition told that last two "
+"things have stood before him:"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:61
+msgid " The New Mage Ceremony"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:64
+msgid " and"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:67
+msgid " The Name Journey"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:70
+msgid " Mage school of Light, Isle of Anduin."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:73
+msgid " Young mage: I'm looking forward the Ceremony. "
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:76
+#: Delfadors_Memoirs/scenarios/overture.cfg:82
+#: Delfadors_Memoirs/scenarios/overture.cfg:88
+#: Delfadors_Memoirs/scenarios/overture.cfg:94
+#: Delfadors_Memoirs/scenarios/overture.cfg:100
+#: Delfadors_Memoirs/scenarios/overture.cfg:106
+msgid " ...thorum restro targa thorum... "
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:79
+msgid " Marshal: Come on, New Mage. Oracles are waiting for you."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:85
+msgid ""
+" 1st oracle: The old times are passing. After centuries of peace the orcs "
+"will come. They are comming soon. The world will be changed. And you will be "
+"the delegate of our brotherhood of mages. I'm giving you the first part of "
+"your Name. DEL"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:91
+msgid ""
+" 2nd oracle: And you will be famous. Very famous. You will be called great. "
+"I'm giving you the second part of your name. FA"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:97
+msgid ""
+" 3rd oracle: Yes. The old times are over. But there will be our hope. There "
+"is always hope. And you will be the father of it. I agree with the second "
+"part of your name. FA"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:103
+msgid ""
+" 4th oracle: And your heard will be clean such a water. Good and without "
+"fear. The same as the legendary Dacyn Orc Slayer. I'm giving you the last "
+"part of your name. DOR"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:109
+msgid " Marshal: Stand up, DELFADOR, and open your eyes. And open them again!"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:112
+msgid "."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:115
+msgid ".."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:118
+msgid "..."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:121
+msgid "...."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:124
+msgid "....."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:127
+#: Delfadors_Memoirs/scenarios/overture.cfg:130
+msgid "......"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:133
+msgid "......."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:136
+msgid " Marshal: And GO."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:139
+msgid "Now."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:142
+msgid "You should fullfil your journey. Methor will lead you."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:145
+msgid ""
+"I'll be your master. The end of your journey will finish in land, southwest "
+"from Weldyn."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:149
+msgid "Dangerous journey will before us."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:153
+msgid " ... "
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:156
+msgid ""
+"After a while they arrived to the Methor's school, where the Delfador's "
+"Journy should finish. He did not intend it was the only beginning."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:165
+msgid ""
+"Well DONE! We are here. It is my own mage academy. You can stay here to "
+"learn some other arts of magic."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/overture.cfg:169
+msgid "Thank you very much!"
+msgstr ""
+
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:3
 msgid "The Road to Weldyn"
 msgstr ""
@@ -687,17 +855,22 @@ msgstr ""
 msgid "This Valley Belongs to Me"
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:60
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:55
+msgid ""
+"Delfador spent a long time in the Methor's academy. He learned many spells."
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:66
 msgid "No! Methor... Don't die!"
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:65
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:70
 msgid ""
 "Heed my last words, Delfador!  Journey northeast to Weldyn, and seek out my "
 "friend Leollyn.  He will help you."
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:79
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:82
 msgid ""
 "Delfador, your time as my apprentice is now almost over.  You are a fully "
 "trained mage, and may choose your own path in life.  I hope however, that "
@@ -705,14 +878,14 @@ msgid ""
 "I have many contacts at the court and..."
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:84
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:86
 msgid ""
 "Listen humans! This valley belongs to me now. I require all your houses and "
 "your possessions! Hand them over quietly and I may permit you to live on as "
 "my slaves..."
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:89
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:90
 msgid ""
 "Arrogant creature! We have little enough, and you cannot take it from us by "
 "force."
@@ -724,22 +897,22 @@ msgid ""
 "their villages, and spare no-one!"
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:104
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:103
 msgid "Defeat Grogor Tuk"
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:127
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:126
 msgid "Grooar! Burn! Burn! Ahahaha..."
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:142
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:140
 msgid ""
 "Well done, Delfador! I see I have trained you well, and you are truly ready "
 "to seek your fortune. Journey northeast to Weldyn, and seek out my friend "
 "Leollyn. He will help you."
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:153
+#: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:150
 msgid ""
 "Poor master Methor... now his school is in ruins. Still, I cannot stay here "
 "to rebuild it - I must take his advice and seek out Leollyn."
