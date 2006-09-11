@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-09-08 12:06+0200\n"
-"PO-Revision-Date: 2006-09-05 09:40+0100\n"
+"PO-Revision-Date: 2006-09-08 16:00+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -615,16 +615,15 @@ msgstr ""
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:3
 msgid "Overture"
-msgstr ""
+msgstr "Ouverture"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:25
 msgid "Methor"
-msgstr ""
+msgstr "Methor"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:36
-#, fuzzy
 msgid "Grogor Tuk"
-msgstr "Sconfiggi Grogor Tuk"
+msgstr "Grogor Tuk"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:52
 msgid ""
@@ -633,10 +632,14 @@ msgid ""
 "all beings in the Wesnoth. It would be a great hero epos, but it was "
 "happened. "
 msgstr ""
+"Questa è la vera storia di Delfador il Grande del tempo di quando non usava "
+"ancora questo nome. La vera storia di come divenne famoso e il più potente "
+"di tutti gli esseri di Wesnoth. Poteva essere l'epopea di un grande eroe "
+"mitico, ma questo è davvero avvenuto."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:55
 msgid " Once upon a time..."
-msgstr ""
+msgstr "C'era una volta..."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:58
 msgid ""
@@ -644,26 +647,29 @@ msgid ""
 "studies. He had chance to became Mage. The tradition told that last two "
 "things have stood before him:"
 msgstr ""
+"Dopo dieci anni di duro lavoro, un giovane mago apprendista completò i suoi "
+"studi. Aveva la possibilità di diventare mago. La tradizione racconta che "
+"avrebbe dovuto affrontare solo più due cose:"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:61
 msgid " The New Mage Ceremony"
-msgstr ""
+msgstr "La cerimonia del nuovo mago"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:64
 msgid " and"
-msgstr ""
+msgstr "e"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:67
 msgid " The Name Journey"
-msgstr ""
+msgstr "Il viaggio del nome"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:70
 msgid " Mage school of Light, Isle of Anduin."
-msgstr ""
+msgstr "Scuola di magia della luce, isola di Anduin."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:73
 msgid " Young mage: I'm looking forward the Ceremony. "
-msgstr ""
+msgstr "Giovane mago: Non vedo l'ora della cerimonia."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:76
 #: Delfadors_Memoirs/scenarios/overture.cfg:82
@@ -672,11 +678,11 @@ msgstr ""
 #: Delfadors_Memoirs/scenarios/overture.cfg:100
 #: Delfadors_Memoirs/scenarios/overture.cfg:106
 msgid " ...thorum restro targa thorum... "
-msgstr ""
+msgstr " ...thorum restro targa thorum... "
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:79
 msgid " Marshal: Come on, New Mage. Oracles are waiting for you."
-msgstr ""
+msgstr "Maresciallo: Vieni avanti, nuovo mago. Gli oracoli ti attendono."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:85
 msgid ""
@@ -712,32 +718,32 @@ msgstr ""
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:112
 msgid "."
-msgstr ""
+msgstr "."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:115
 msgid ".."
-msgstr ""
+msgstr ".."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:118
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:121
 msgid "...."
-msgstr ""
+msgstr "...."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:124
 msgid "....."
-msgstr ""
+msgstr "....."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:127
 #: Delfadors_Memoirs/scenarios/overture.cfg:130
 msgid "......"
-msgstr ""
+msgstr "......"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:133
 msgid "......."
-msgstr ""
+msgstr "......."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:136
 msgid " Marshal: And GO."
@@ -745,11 +751,11 @@ msgstr ""
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:139
 msgid "Now."
-msgstr ""
+msgstr "Ora."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:142
 msgid "You should fullfil your journey. Methor will lead you."
-msgstr ""
+msgstr "Devi completare il tuo viaggio, Methor ti guiderà."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:145
 msgid ""
@@ -763,7 +769,7 @@ msgstr ""
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:153
 msgid " ... "
-msgstr ""
+msgstr " ... "
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:156
 msgid ""
@@ -779,7 +785,7 @@ msgstr ""
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:169
 msgid "Thank you very much!"
-msgstr ""
+msgstr "Grazie infinite!"
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:3
 msgid "The Road to Weldyn"
