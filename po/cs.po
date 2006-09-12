@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-09-08 12:06+0200\n"
-"PO-Revision-Date: 2006-09-08 13:00+0200\n"
+"PO-Revision-Date: 2006-09-12 09:17+0200\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
@@ -678,27 +678,27 @@ msgid ""
 "will come. They are comming soon. The world will be changed. And you will be "
 "the delegate of our brotherhood of mages. I'm giving you the first part of "
 "your Name. DEL"
-msgstr " První věštec: Staré časy pomalu míjejí. Po mnoha stoletích míru skřeti přitáhnou. Již přicházejí. Svět bude změněn. A ty budeš v těch zlých časech delegátem, vyslancem našeho bratrstva mágů. Dávám ti tedy první část Tvého Jména. DEL"
+msgstr " První věštec: Staré časy pomalu míjejí. Po mnoha stoletích míru skřeti přitáhnou. Již přicházejí. Svět bude změněn. A Ty budeš v těch zlých časech delegátem, vyslancem našeho bratrstva mágů. Dávám Ti tedy první část Tvého Jména. DEL"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:91
 msgid ""
 " 2nd oracle: And you will be famous. Very famous. You will be called great. "
 "I'm giving you the second part of your name. FA"
-msgstr ""
+msgstr "Druhý věštec: A staneš se famózním. A to jak do slávy, tak schopností. Velikým Tě budou nazývat. Dávám Ti tedy druhou část Tvého Jména: FA"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:97
 msgid ""
 " 3rd oracle: Yes. The old times are over. But there will be our hope. There "
 "is always hope. And you will be the father of it. I agree with the second "
 "part of your name. FA"
-msgstr ""
+msgstr "Třetí věštec: Ano. Staré časy jsou pryč. Ale přijde naše naděje. Vždy je naděje. A ty budeš jejím hlavním faktorem. Souhlasím s druhou částí Tvého Jména. FA"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:103
 msgid ""
 " 4th oracle: And your heard will be clean such a water. Good and without "
 "fear. The same as the legendary Dacyn Orc Slayer. I'm giving you the last "
 "part of your name. DOR"
-msgstr ""
+msgstr "Čtvrtý věštec: A Tvé srdce bude čisté a průzračné jako voda v horské bystřině. Dobré a bez bázně. Budeš stejný jako legendární Dacyn, Zabiják Orků. Dávám Ti tedy třetí část Tvého Jména: DOR"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:109
 msgid " Marshal: Stand up, DELFADOR, and open your eyes. And open them again!"
