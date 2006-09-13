@@ -164,7 +164,7 @@ msgid ""
 "mission myself... but now I must remain in Weldyn... perhaps you could go in "
 "my place?"
 msgstr ""
-"Delfarode, mám pro tebe úkol. Lionelova řeč o zlých démonech noci mne "
+"Delfadore, mám pro tebe úkol. Lionelova řeč o zlých démonech noci mne "
 "znepokojuje. Podobné zprávy už ke mně dorazili již dříve. Je nemnoho míst, "
 "kde je sprituální svět tak blízko světu, který známe my, a kde zkušený mág "
 "dokáže pomocí meditace komunikovat s dušemi mrtvých. Nejbližší leží na "
@@ -702,7 +702,7 @@ msgstr "Čtvrtý věštec: A Tvé srdce bude čisté a průzračné jako voda v 
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:109
 msgid " Marshal: Stand up, DELFADOR, and open your eyes. And open them again!"
-msgstr " Ceremoniář: Povstaň, DELFADORE, a otevři své oči. A otevři je znova!"
+msgstr " Ceremoniář: Povstaň, DELFADORE, a otevři své oči. A otevři je znovu!"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:112
 msgid "."
