@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-09-08 12:06+0200\n"
+"POT-Creation-Date: 2006-09-17 22:23+0200\n"
 "PO-Revision-Date: 2006-09-11 19:18+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
@@ -11,23 +11,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: Delfadors_Memoirs.cfg:14
+#: Delfadors_Memoirs.cfg:12
 msgid "Delfador's Memoirs"
 msgstr "Le memorie di Delfador"
 
-#: Delfadors_Memoirs.cfg:18
+#: Delfadors_Memoirs.cfg:17
 msgid "Apprentice=(easiest)"
 msgstr "Apprendista (facile)"
 
-#: Delfadors_Memoirs.cfg:19
+#: Delfadors_Memoirs.cfg:18
 msgid "Mage"
 msgstr "Mago"
 
-#: Delfadors_Memoirs.cfg:20
+#: Delfadors_Memoirs.cfg:19
 msgid "Great Mage=(hardest)"
 msgstr "Grande Mago (difficile)"
 
-#: Delfadors_Memoirs.cfg:23
+#: Delfadors_Memoirs.cfg:21
 msgid ""
 "Wesnoth seems to be slipping inexorably into chaos, as marauding orcs pour "
 "south across the river Abez, and mysterious and deadly creatures roam the "
@@ -214,7 +214,7 @@ msgstr "Sconfiggi Ihiah-Malal"
 
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:301
 #: Delfadors_Memoirs/scenarios/swamp_fortress.cfg:129
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:107
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:106
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:56
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:222
 #: Delfadors_Memoirs/scenarios/wasteland.cfg:73
@@ -225,7 +225,7 @@ msgid "Death of Delfador"
 msgstr "Morte di Delfador"
 
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:313
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:115
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:114
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:60
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:226
 #: Delfadors_Memoirs/scenarios/wasteland.cfg:81
@@ -672,20 +672,20 @@ msgstr "Scuola di magia della luce, isola di Anduin."
 msgid " Young mage: I'm looking forward the Ceremony. "
 msgstr "Giovane mago: Non vedo l'ora della cerimonia."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:76
-#: Delfadors_Memoirs/scenarios/overture.cfg:82
-#: Delfadors_Memoirs/scenarios/overture.cfg:88
-#: Delfadors_Memoirs/scenarios/overture.cfg:94
-#: Delfadors_Memoirs/scenarios/overture.cfg:100
-#: Delfadors_Memoirs/scenarios/overture.cfg:106
+#: Delfadors_Memoirs/scenarios/overture.cfg:77
+#: Delfadors_Memoirs/scenarios/overture.cfg:83
+#: Delfadors_Memoirs/scenarios/overture.cfg:89
+#: Delfadors_Memoirs/scenarios/overture.cfg:95
+#: Delfadors_Memoirs/scenarios/overture.cfg:101
+#: Delfadors_Memoirs/scenarios/overture.cfg:107
 msgid " ...thorum restro targa thorum... "
 msgstr " ...thorum restro targa thorum... "
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:79
+#: Delfadors_Memoirs/scenarios/overture.cfg:80
 msgid " Marshal: Come on, New Mage. Oracles are waiting for you."
 msgstr "Maresciallo: Vieni avanti, nuovo mago. Gli oracoli ti attendono."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:85
+#: Delfadors_Memoirs/scenarios/overture.cfg:86
 msgid ""
 " 1st oracle: The old times are passing. After centuries of peace the orcs "
 "will come. They are comming soon. The world will be changed. And you will be "
@@ -697,7 +697,7 @@ msgstr ""
 "delegato della nostra confraternita di maghi. Ti darò la prima sillaba del "
 "tuo nome: DEL."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:91
+#: Delfadors_Memoirs/scenarios/overture.cfg:92
 msgid ""
 " 2nd oracle: And you will be famous. Very famous. You will be called great. "
 "I'm giving you the second part of your name. FA"
@@ -705,7 +705,7 @@ msgstr ""
 "Secondo oracolo: E sarai famoso. Molto famoso. Ti chiameranno grande. Ti "
 "sarò la seconda sillaba del tuo nome: FA."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:97
+#: Delfadors_Memoirs/scenarios/overture.cfg:98
 msgid ""
 " 3rd oracle: Yes. The old times are over. But there will be our hope. There "
 "is always hope. And you will be the father of it. I agree with the second "
@@ -715,7 +715,7 @@ msgstr ""
 "sempre speranza. E tu ne sarai il padre. Confermo la seconda sillaba del tuo "
 "nome: FA."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:103
+#: Delfadors_Memoirs/scenarios/overture.cfg:104
 msgid ""
 " 4th oracle: And your heard will be clean such a water. Good and without "
 "fear. The same as the legendary Dacyn Orc Slayer. I'm giving you the last "
@@ -725,52 +725,52 @@ msgstr ""
 "paura, come quello del leggendario Dacyn Ammazzaorchi. Ti darò l'ultima "
 "sillaba del tuo nome: DOR."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:109
+#: Delfadors_Memoirs/scenarios/overture.cfg:110
 msgid " Marshal: Stand up, DELFADOR, and open your eyes. And open them again!"
 msgstr "Maresciallo: In piedi, DELFADOR, e apri gli occhi. E aprili di nuovo!"
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:112
+#: Delfadors_Memoirs/scenarios/overture.cfg:113
 msgid "."
 msgstr "."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:115
+#: Delfadors_Memoirs/scenarios/overture.cfg:116
 msgid ".."
 msgstr ".."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:118
+#: Delfadors_Memoirs/scenarios/overture.cfg:119
 msgid "..."
 msgstr "..."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:121
+#: Delfadors_Memoirs/scenarios/overture.cfg:122
 msgid "...."
 msgstr "...."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:124
+#: Delfadors_Memoirs/scenarios/overture.cfg:125
 msgid "....."
 msgstr "....."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:127
-#: Delfadors_Memoirs/scenarios/overture.cfg:130
+#: Delfadors_Memoirs/scenarios/overture.cfg:128
+#: Delfadors_Memoirs/scenarios/overture.cfg:131
 msgid "......"
 msgstr "......"
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:133
+#: Delfadors_Memoirs/scenarios/overture.cfg:134
 msgid "......."
 msgstr "......."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:136
+#: Delfadors_Memoirs/scenarios/overture.cfg:137
 msgid " Marshal: And GO."
 msgstr "Maresciallo: E VA'."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:139
+#: Delfadors_Memoirs/scenarios/overture.cfg:140
 msgid "Now."
 msgstr "Ora."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:142
+#: Delfadors_Memoirs/scenarios/overture.cfg:143
 msgid "You should fullfil your journey. Methor will lead you."
 msgstr "Devi completare il tuo viaggio, Methor ti guiderà."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:145
+#: Delfadors_Memoirs/scenarios/overture.cfg:146
 msgid ""
 "I'll be your master. The end of your journey will finish in land, southwest "
 "from Weldyn."
@@ -778,15 +778,15 @@ msgstr ""
 "Sarò il tuo maestro. Il nostro viaggio finirà nella terra a sud-ovest da "
 "Weldyn."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:149
+#: Delfadors_Memoirs/scenarios/overture.cfg:150
 msgid "Dangerous journey will before us."
 msgstr "Viaggi perigliosi ci attendono."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:153
+#: Delfadors_Memoirs/scenarios/overture.cfg:154
 msgid " ... "
 msgstr " ... "
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:156
+#: Delfadors_Memoirs/scenarios/overture.cfg:157
 msgid ""
 "After a while they arrived to the Methor's school, where the Delfador's "
 "Journy should finish. He did not intend it was the only beginning."
@@ -795,7 +795,7 @@ msgstr ""
 "Delfador sarebbe dovuto concludersi. Egli non sapeva che invece sarebbe "
 "stato solo l'inizio."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:165
+#: Delfadors_Memoirs/scenarios/overture.cfg:166
 msgid ""
 "Well DONE! We are here. It is my own mage academy. You can stay here to "
 "learn some other arts of magic."
@@ -803,7 +803,7 @@ msgstr ""
 "Ben fatto! Eccoci qua. Questa è la mia accademia di magia. Potrai stare qua "
 "a imparare alcune delle arti magiche."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:169
+#: Delfadors_Memoirs/scenarios/overture.cfg:170
 msgid "Thank you very much!"
 msgstr "Grazie infinite!"
 
@@ -977,15 +977,15 @@ msgstr ""
 "Questa cesta contiene tutte le monete che i banditi hanno sottratto ai "
 "viaggiatori incauti!"
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:103
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:102
 msgid "Move Delfador to the signpost in the northeast"
 msgstr "Conduci Delfador al cartello a nord-est"
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:111
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:110
 msgid "Death of Lionel"
 msgstr "Morte di Lionel"
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:130
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:129
 msgid ""
 "Here the great north road turns west to avoid the swamps of Illuven. Our way "
 "lies east across the swamps, and then through the wild lands beyond to the "
@@ -995,7 +995,7 @@ msgstr ""
 "Noi dobbiamo dirigerci a est attraverso le paludi e poi attraverso le terre "
 "selvagge lungo la costa."
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:135
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:133
 msgid ""
 "This place looks wild enough for me. Who made those villages in the swamps? "
 "Orcs?"
@@ -1003,11 +1003,11 @@ msgstr ""
 "Questo posto è troppo selvaggio per me. Chi ha costruito quei villaggi nelle "
 "paludi? Gli orchi?"
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:140
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:137
 msgid "No, men of Wesnoth... but those who live here are a lawless lot."
 msgstr "No, uomini di Wesnoth... ma quelli che vivono qui sono fuorilegge."
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:151
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:147
 msgid ""
 "Greetings, strangers! This swamp is dangerous... You wanna cross it, you'll "
 "need protection - cost you only $fee gold!"
@@ -1015,35 +1015,35 @@ msgstr ""
 "Salute, stranieri! Questa palude è pericolosa... se volete attraversarla "
 "avrete bisogno di protezione - per voi costerà solo $fee pezzi d'oro!"
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:154
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:149
 msgid "Thanks very much. Here's the gold..."
 msgstr "Molte grazie. Ecco l'oro..."
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:168
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:162
 msgid "It's been a pleasure doing business with you... Bye!"
 msgstr "È stato un piacere fare affari con voi... Ciao!"
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:186
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:179
 msgid "Where did he go?"
 msgstr "Dov'è andato?"
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:191
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:183
 msgid "Haw haw haw! Suckers!"
 msgstr "Ahaw ahaw ahaw! Imbecilli!"
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:196
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:187
 msgid "Well, at least we only have to deal with one of them now..."
 msgstr "Be', almeno dobbiamo confrontarci solo con una fazione adesso..."
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:207
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:197
 msgid "No thanks - we'll manage by ourselves..."
 msgstr "No grazie - ce la caveremo da soli...."
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:215
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:205
 msgid "You'll regret it!"
 msgstr "Ve ne pentirete!"
 
-#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:220
+#: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:209
 msgid "They certainly will! Haw haw haw!"
 msgstr "Sarà sicuramente così! Ahaw ahaw ahaw!"
 
@@ -1569,31 +1569,28 @@ msgstr ""
 msgid "Journeyman Mage"
 msgstr "Mago viaggiatore"
 
-#: Delfadors_Memoirs/units/Journeyman_Mage.cfg:16
+#: Delfadors_Memoirs/units/Journeyman_Mage.cfg:20
+#, fuzzy
 msgid ""
 "A mage who has just finished his or her apprenticeship is known as a "
 "journeyman.  Journeyman mages travel far in search of employment and "
-"experience."
+"experience.\n"
+"\n"
+"Special Notes:"
 msgstr ""
 "Un mago che ha appena finito il suo apprendistato viene chiamato "
 "viaggiatore. I maghi viaggiatori percorrono il mondo in cerca di impiego ed "
 "esperienza."
 
-#: Delfadors_Memoirs/units/Journeyman_Mage.cfg:19
+#: Delfadors_Memoirs/units/Journeyman_Mage.cfg:25
 msgid "missile"
 msgstr "missile"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:44
-#: Delfadors_Memoirs/units/Journeyman_Mage.cfg:20
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:39
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:43
+#: Delfadors_Memoirs/units/Journeyman_Mage.cfg:26
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:41
 msgid "fire"
 msgstr "fuoco"
-
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:46
-#: Delfadors_Memoirs/units/Journeyman_Mage.cfg:22
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:41
-msgid "magical"
-msgstr "magico"
 
 #: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:4
 msgid "King of Wesnoth"
@@ -1641,29 +1638,32 @@ msgstr "Mago comandante"
 msgid "leadership,heals"
 msgstr "comando, guarigione"
 
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:19
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:21
+#, fuzzy
 msgid ""
 "This mage has gained much experience leading others into battle. As a "
 "result, level 1 and 2 units fight more effectively when they are adjacent to "
-"him. He also has the power to heal others during combat."
+"him. He also has the power to heal others during combat.\n"
+"\n"
+"Special Notes:"
 msgstr ""
 "Questo mago ha guadagnato molta esperienza guidando gli altri in battaglia. "
 "Di conseguenza le unità di livello 1 e 2 che si trovano in una posizione "
 "adiacente al mago combattono in modo più efficiente. Inoltre ha la capacità "
 "di guarire gli altri durante il combattimento."
 
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:22
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:25
 msgid "staff"
 msgstr "bastone"
 
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:22
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:34
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:23
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:36
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:26
 msgid "impact"
 msgstr "impatto"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:43
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:38
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:42
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:40
 msgid "fireball"
 msgstr "palla di fuoco"
 
@@ -1704,11 +1704,11 @@ msgstr ""
 msgid "crush"
 msgstr "impatto"
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:33
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:35
 msgid "entangle"
 msgstr "rallentare"
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:35
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:37
 msgid "slow"
 msgstr "rallentato"
 
@@ -1767,3 +1767,6 @@ msgstr "Solo un potente mago può impugnarlo."
 #: Delfadors_Memoirs/utils/misc.cfg:37
 msgid "A secret passage... I wonder where it leads..."
 msgstr "Un passaggio segreto, chissà dove conduce..."
+
+#~ msgid "magical"
+#~ msgstr "magico"
