@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-09-17 22:23+0200\n"
+"POT-Creation-Date: 2006-09-18 10:26+0200\n"
 "PO-Revision-Date: 2005-12-23 12:43+0100\n"
 "Last-Translator: David Philippi <david@torangan.de>\n"
 "Language-Team: de\n"
@@ -1577,9 +1577,9 @@ msgstr ""
 msgid "missile"
 msgstr "Magiegeschoss"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:43
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:48
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:26
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:41
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:45
 msgid "fire"
 msgstr "Feuer"
 
@@ -1587,7 +1587,6 @@ msgstr "Feuer"
 msgid "King of Wesnoth"
 msgstr "König von Wesnoth"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:10
 #: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:8
 msgid "leadership"
 msgstr "Führungsqualitäten"
@@ -1608,7 +1607,7 @@ msgstr ""
 msgid "sword"
 msgstr "Schwert"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:23
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:28
 #: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:21
 msgid "blade"
 msgstr "Klinge"
@@ -1625,11 +1624,7 @@ msgstr "Stich"
 msgid "Mage Commander"
 msgstr "Magier Heerführer"
 
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:10
-msgid "leadership,heals"
-msgstr "Führungsqualitäten, heilen"
-
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:21
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:25
 #, fuzzy
 msgid ""
 "This mage has gained much experience leading others into battle. As a "
@@ -1642,18 +1637,18 @@ msgstr ""
 "führen. Level 1 und 2 Einheiten kämpfen effektiver wenn sie auf einem "
 "benachbartem Feld stehen, außerdem werden sie von ihm geheilt."
 
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:25
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:29
 msgid "staff"
 msgstr "Stab"
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:22
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:36
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:26
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:27
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:41
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:30
 msgid "impact"
 msgstr "Wucht"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:42
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:40
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:47
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:44
 msgid "fireball"
 msgstr "Feuerball"
 
@@ -1661,15 +1656,18 @@ msgstr "Feuerball"
 msgid "Mage Leader"
 msgstr "Magier Anführer"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:19
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:23
+#, fuzzy
 msgid ""
 "This mage has gained some experience leading others into battle. As a "
-"result, level 1 units fight more effectively when they are adjacent to him."
+"result, level 1 units fight more effectively when they are adjacent to him.\n"
+"\n"
+"Special Notes:"
 msgstr ""
 "Dieser Magier hat Erfahrung andere Einheiten anzuführen. Level 1 Einheiten "
 "kämpfen effektiver wenn sie auf einem angrenzendem Feld stehen."
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:22
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:27
 msgid "dagger"
 msgstr "Dolch"
 
@@ -1677,27 +1675,26 @@ msgstr "Dolch"
 msgid "Wose Shaman"
 msgstr "Baum Schamane"
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:8
-msgid "ambush,regenerates"
-msgstr "Hinterhalt, Regeneration"
-
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:18
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:24
+#, fuzzy
 msgid ""
 "These woses are able to command forest plants such as vines and creepers to "
-"hinder their enemies."
+"hinder their enemies.\n"
+"\n"
+"Special Notes:"
 msgstr ""
 "Diese Waldschrate können Kriech- und Schlingpflanzen befehligen um ihre "
 "Gegner zu behindern."
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:21
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:26
 msgid "crush"
 msgstr "Zermalmen"
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:35
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:40
 msgid "entangle"
 msgstr "Verstrickung"
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:37
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:42
 msgid "slow"
 msgstr "Verlangsamen"
 
@@ -1755,6 +1752,12 @@ msgstr "Nur ein mächtiger Magier kann damit umgehen."
 #: Delfadors_Memoirs/utils/misc.cfg:37
 msgid "A secret passage... I wonder where it leads..."
 msgstr "Ein geheimer Durchgang... Ich frage mich wo der hinführt..."
+
+#~ msgid "leadership,heals"
+#~ msgstr "Führungsqualitäten, heilen"
+
+#~ msgid "ambush,regenerates"
+#~ msgstr "Hinterhalt, Regeneration"
 
 #~ msgid "magical"
 #~ msgstr "Magie"

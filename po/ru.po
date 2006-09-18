@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-09-17 22:23+0200\n"
+"POT-Creation-Date: 2006-09-18 10:26+0200\n"
 "PO-Revision-Date: 2005-06-01 20:17-0800\n"
 "Last-Translator: nikita <dmcadmin@gmail.com>\n"
 "Language-Team: none\n"
@@ -1434,9 +1434,9 @@ msgstr ""
 msgid "missile"
 msgstr "снаряд"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:43
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:48
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:26
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:41
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:45
 msgid "fire"
 msgstr "огонь"
 
@@ -1444,7 +1444,6 @@ msgstr "огонь"
 msgid "King of Wesnoth"
 msgstr "Король Веснота"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:10
 #: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:8
 msgid "leadership"
 msgstr "лидер"
@@ -1465,7 +1464,7 @@ msgstr ""
 msgid "sword"
 msgstr "меч"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:23
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:28
 #: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:21
 msgid "blade"
 msgstr "режущее"
@@ -1482,11 +1481,7 @@ msgstr "колющее"
 msgid "Mage Commander"
 msgstr "Командир Магов"
 
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:10
-msgid "leadership,heals"
-msgstr "лидер,исцеление"
-
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:21
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:25
 #, fuzzy
 msgid ""
 "This mage has gained much experience leading others into battle. As a "
@@ -1499,18 +1494,18 @@ msgstr ""
 "соеденения уровення 1 и 2 борются более эффективно, когда они рядом с ним. "
 "Он также имеет силу излечить других в течение боя."
 
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:25
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:29
 msgid "staff"
 msgstr "посых"
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:22
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:36
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:26
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:27
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:41
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:30
 msgid "impact"
 msgstr "удар"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:42
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:40
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:47
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:44
 msgid "fireball"
 msgstr "огненный шар"
 
@@ -1518,15 +1513,18 @@ msgstr "огненный шар"
 msgid "Mage Leader"
 msgstr "Лидер Магов"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:19
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:23
+#, fuzzy
 msgid ""
 "This mage has gained some experience leading others into battle. As a "
-"result, level 1 units fight more effectively when they are adjacent to him."
+"result, level 1 units fight more effectively when they are adjacent to him.\n"
+"\n"
+"Special Notes:"
 msgstr ""
 "Этот маг получил немножко опыта ведя других в сражение. В результате, "
 "соеденения уровення 1 борются более эффективно, когда они рядом с ним."
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:22
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:27
 msgid "dagger"
 msgstr "кинжал"
 
@@ -1534,27 +1532,25 @@ msgstr "кинжал"
 msgid "Wose Shaman"
 msgstr "Шаман Леших"
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:8
-msgid "ambush,regenerates"
-msgstr "скрытный,возрождающийся"
-
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:18
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:24
 #, fuzzy
 msgid ""
 "These woses are able to command forest plants such as vines and creepers to "
-"hinder their enemies."
+"hinder their enemies.\n"
+"\n"
+"Special Notes:"
 msgstr ""
 "Эти лешии способны приказать, чтобы лесные растения препятствовали их врагам."
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:21
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:26
 msgid "crush"
 msgstr "дробление"
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:35
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:40
 msgid "entangle"
 msgstr "запутывать"
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:37
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:42
 msgid "slow"
 msgstr "замедление"
 
@@ -1610,6 +1606,12 @@ msgstr "Только мощный волшебник может владеть �
 #: Delfadors_Memoirs/utils/misc.cfg:37
 msgid "A secret passage... I wonder where it leads..."
 msgstr "Секретный ход... Интересно, куда он ведет..."
+
+#~ msgid "leadership,heals"
+#~ msgstr "лидер,исцеление"
+
+#~ msgid "ambush,regenerates"
+#~ msgstr "скрытный,возрождающийся"
 
 #~ msgid "magical"
 #~ msgstr "волшебная"

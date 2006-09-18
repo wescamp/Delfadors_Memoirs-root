@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-09-17 22:23+0200\n"
+"POT-Creation-Date: 2006-09-18 10:26+0200\n"
 "PO-Revision-Date: 2005-06-09 11:14+0100\n"
 "Last-Translator: Széll Tamás <tomi@digiflex.hu>\n"
 "Language-Team: none\n"
@@ -1325,9 +1325,9 @@ msgstr ""
 msgid "missile"
 msgstr "lövedék"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:43
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:48
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:26
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:41
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:45
 msgid "fire"
 msgstr "tűz"
 
@@ -1335,7 +1335,6 @@ msgstr "tűz"
 msgid "King of Wesnoth"
 msgstr ""
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:10
 #: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:8
 msgid "leadership"
 msgstr "hadvezetés"
@@ -1352,7 +1351,7 @@ msgstr ""
 msgid "sword"
 msgstr "kard"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:23
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:28
 #: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:21
 msgid "blade"
 msgstr "penge"
@@ -1369,11 +1368,7 @@ msgstr "páncéltörés"
 msgid "Mage Commander"
 msgstr ""
 
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:10
-msgid "leadership,heals"
-msgstr ""
-
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:21
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:25
 msgid ""
 "This mage has gained much experience leading others into battle. As a "
 "result, level 1 and 2 units fight more effectively when they are adjacent to "
@@ -1382,18 +1377,18 @@ msgid ""
 "Special Notes:"
 msgstr ""
 
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:25
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:29
 msgid "staff"
 msgstr "bot"
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:22
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:36
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:26
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:27
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:41
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:30
 msgid "impact"
 msgstr "ütés"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:42
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:40
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:47
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:44
 msgid "fireball"
 msgstr "tűzgolyó"
 
@@ -1401,13 +1396,15 @@ msgstr "tűzgolyó"
 msgid "Mage Leader"
 msgstr ""
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:19
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:23
 msgid ""
 "This mage has gained some experience leading others into battle. As a "
-"result, level 1 units fight more effectively when they are adjacent to him."
+"result, level 1 units fight more effectively when they are adjacent to him.\n"
+"\n"
+"Special Notes:"
 msgstr ""
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:22
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:27
 msgid "dagger"
 msgstr "tőr"
 
@@ -1415,25 +1412,23 @@ msgstr "tőr"
 msgid "Wose Shaman"
 msgstr ""
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:8
-msgid "ambush,regenerates"
-msgstr ""
-
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:18
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:24
 msgid ""
 "These woses are able to command forest plants such as vines and creepers to "
-"hinder their enemies."
+"hinder their enemies.\n"
+"\n"
+"Special Notes:"
 msgstr ""
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:21
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:26
 msgid "crush"
 msgstr "zúzás"
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:35
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:40
 msgid "entangle"
 msgstr "behálózás"
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:37
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:42
 msgid "slow"
 msgstr ""
 

@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-09-17 22:23+0200\n"
+"POT-Creation-Date: 2006-09-18 10:26+0200\n"
 "PO-Revision-Date: 2006-09-12 09:17+0200\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@buchtovi.cz>\n"
@@ -1564,9 +1564,9 @@ msgstr ""
 msgid "missile"
 msgstr "střela"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:43
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:48
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:26
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:41
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:45
 msgid "fire"
 msgstr "oheň"
 
@@ -1574,7 +1574,6 @@ msgstr "oheň"
 msgid "King of Wesnoth"
 msgstr "Král Wesnothu"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:10
 #: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:8
 msgid "leadership"
 msgstr "velení"
@@ -1595,7 +1594,7 @@ msgstr ""
 msgid "sword"
 msgstr "meč"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:23
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:28
 #: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:21
 msgid "blade"
 msgstr "čepel"
@@ -1612,11 +1611,7 @@ msgstr "bodnutí"
 msgid "Mage Commander"
 msgstr "Mág velitel"
 
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:10
-msgid "leadership,heals"
-msgstr "velení, léčení"
-
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:21
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:25
 #, fuzzy
 msgid ""
 "This mage has gained much experience leading others into battle. As a "
@@ -1629,18 +1624,18 @@ msgstr ""
 "pak schopnost jednotek první a druhé úrovně bojovat mnohem efektivněji, je-"
 "li někde poblíž. Navíc získal sílu léčit raněné během boje."
 
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:25
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:29
 msgid "staff"
 msgstr "hůl"
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:22
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:36
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:26
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:27
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:41
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:30
 msgid "impact"
 msgstr "úder"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:42
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:40
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:47
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:44
 msgid "fireball"
 msgstr "ohnivá koule"
 
@@ -1648,15 +1643,18 @@ msgstr "ohnivá koule"
 msgid "Mage Leader"
 msgstr "Mág vůdce"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:19
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:23
+#, fuzzy
 msgid ""
 "This mage has gained some experience leading others into battle. As a "
-"result, level 1 units fight more effectively when they are adjacent to him."
+"result, level 1 units fight more effectively when they are adjacent to him.\n"
+"\n"
+"Special Notes:"
 msgstr ""
 "Tento mág získal nějaké zkušeností při vedení druhých v boji. Výsledkem je "
 "pak schopnost jednotek první úrovně bojovat efektivněji, je-li někde poblíž."
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:22
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:27
 msgid "dagger"
 msgstr "dýka"
 
@@ -1664,27 +1662,26 @@ msgstr "dýka"
 msgid "Wose Shaman"
 msgstr "Entí šaman"
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:8
-msgid "ambush,regenerates"
-msgstr "přepadení, regeneruje"
-
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:18
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:24
+#, fuzzy
 msgid ""
 "These woses are able to command forest plants such as vines and creepers to "
-"hinder their enemies."
+"hinder their enemies.\n"
+"\n"
+"Special Notes:"
 msgstr ""
 "Tito Entové jsou schopni přimět popínavé rostliny, jako třeba vinnou révu či "
 "liány, zpomalit nepřítele."
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:21
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:26
 msgid "crush"
 msgstr "rozdrcení"
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:35
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:40
 msgid "entangle"
 msgstr "zamotání"
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:37
+#: Delfadors_Memoirs/units/Wose_Shaman.cfg:42
 msgid "slow"
 msgstr "zpomalení"
 
@@ -1740,6 +1737,12 @@ msgstr "Pouze mocný mág ji může nosit."
 #: Delfadors_Memoirs/utils/misc.cfg:37
 msgid "A secret passage... I wonder where it leads..."
 msgstr "Tajná stezka... Zajímalo by mne, kam vede."
+
+#~ msgid "leadership,heals"
+#~ msgstr "velení, léčení"
+
+#~ msgid "ambush,regenerates"
+#~ msgstr "přepadení, regeneruje"
 
 #~ msgid "magical"
 #~ msgstr "magický"
