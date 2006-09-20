@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-09-20 23:10+0200\n"
-"PO-Revision-Date: 2006-09-18 10:45+0200\n"
+"PO-Revision-Date: 2006-09-20 23:26+0200\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
@@ -74,8 +74,7 @@ msgstr ""
 "přišly ze severních krajů Wesnothu."
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:99
-msgid ""
-"Ah, now the last of my council is here. Lionel, what tidings from the north?"
+msgid "Ah, now the last of my council is here. Lionel, what tidings from the north?"
 msgstr ""
 "Tak, konečně je má rada kompletní. Mluv, Lioneli, jaká poselství přinášíš ze "
 "Severu?"
@@ -255,10 +254,8 @@ msgid "That's impossible! You must be insane!"
 msgstr "Co je to za blud? Ty jsi zešílel!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:97
-msgid ""
-"Have not you yourself travelled between the realms of life and death? Behold!"
-msgstr ""
-"Cožpak tys sám necestoval mezi oběma světy, světem živých a mrtvých? Zři!"
+msgid "Have not you yourself travelled between the realms of life and death? Behold!"
+msgstr "Cožpak tys sám necestoval mezi oběma světy, světem živých a mrtvých? Zři!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:146
 msgid ""
@@ -415,8 +412,8 @@ msgid ""
 "Once, I was happy here, but Ihiah-Malal made me see this land as the eyes of "
 "the living see it... a place of rock and dust."
 msgstr ""
-"Kdysi jsem zde byl šťastný, ale Ihiah-Malal mi ukázal tuto zemi očima, "
-"jakými ji vidí živí... kameny a písek."
+"Kdysi jsem zde byla šťastná, ale Ihiah-Malal mi ukázal tuto zemi očima, "
+"jakými ji vidí živí... nic než kameny a písek."
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:290
 msgid ""
@@ -431,7 +428,7 @@ msgid ""
 "Beware the skeletons! They are not the spirits of dead men, but the "
 "creations of evil magic."
 msgstr ""
-"Dávej pozor na kostlivce! To nejsou duše mrtvých, ale zrůdy stvořené "
+"Dej si pozor na kostlivce! To nejsou duše mrtvých, ale zrůdy stvořené "
 "ďábelskou magií!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:300
@@ -447,33 +444,32 @@ msgstr ""
 "západ odtud."
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:310
-#, fuzzy
 msgid "Roland"
-msgstr " a"
+msgstr "Roland"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:311
 msgid "Penny"
-msgstr ""
+msgstr "Pěťák"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:312
 msgid "Roderick"
-msgstr ""
+msgstr "Roderik"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:313
 msgid "Nameless"
-msgstr ""
+msgstr "Někdo"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:314
 msgid "Sydney"
-msgstr ""
+msgstr "Sydney"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:315
 msgid "Harold"
-msgstr ""
+msgstr "Harold"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:316
 msgid "Melina"
-msgstr ""
+msgstr "Melina"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:338
 msgid ""
@@ -490,8 +486,7 @@ msgstr "Živý muž... tak jak Ihiah-Malal předpovídal..."
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:353
 msgid "Speak again, spirit! Tell me of yourself. Who is this Ihiah-Malal?"
-msgstr ""
-"Duchu, promluv ještě jednou! Řekni mi něco o sobě. A kdo je ten Ihiah Malal?"
+msgstr "Duchu, promluv ještě jednou! Řekni mi něco o sobě. A kdo je ten Ihiah Malal?"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:357
 msgid ""
@@ -521,10 +516,8 @@ msgid "Leollyn"
 msgstr "Leollyn"
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:82
-msgid ""
-"Leollyn is slain! This is terrible... I had best give up and return home."
-msgstr ""
-"Leollyn byl zavražděn! To je strašné... Nejlepší bude, když se vrátím domů."
+msgid "Leollyn is slain! This is terrible... I had best give up and return home."
+msgstr "Leollyn byl zavražděn! To je strašné... Nejlepší bude, když se vrátím domů."
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:95
 msgid "Defeat Hagha-Tan"
@@ -802,8 +795,7 @@ msgstr "Vyprav se na svou Pouť. Methor Tě povede."
 msgid ""
 "I'll be your master. The end of your journey will finish in land, southwest "
 "from Weldyn."
-msgstr ""
-"Já budu Tvým průvodcem. Konec Pouti leží na pevnině, jihozápadně od Weldynu."
+msgstr "Já budu Tvým průvodcem. Konec Pouti leží na pevnině, jihozápadně od Weldynu."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:150
 msgid "Dangerous journey will before us."
@@ -873,10 +865,8 @@ msgstr ""
 "s nimi utkat."
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:147
-msgid ""
-"I cannot turn back now... If I fight these orcs, will your villagers help me?"
-msgstr ""
-"Nyní se nemohu vrátit. Pokud budu s nimi bojovat, pomohou mi vaši místní?"
+msgid "I cannot turn back now... If I fight these orcs, will your villagers help me?"
+msgstr "Nyní se nemohu vrátit. Pokud budu s nimi bojovat, pomohou mi vaši místní?"
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:152
 msgid ""
@@ -1021,13 +1011,11 @@ msgstr ""
 msgid ""
 "This place looks wild enough for me. Who made those villages in the swamps? "
 "Orcs?"
-msgstr ""
-"Toto místo mi připadá divoce až až. Kdo si postavil osady v bažinách? Skřeti?"
+msgstr "Toto místo mi připadá divoce až až. Kdo si postavil osady v bažinách? Skřeti?"
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:137
 msgid "No, men of Wesnoth... but those who live here are a lawless lot."
-msgstr ""
-"Nikoli. Lidé z Wesnothu... ale ponejvíce běženci, kteří utekli před zákonem."
+msgstr "Nikoli. Lidé z Wesnothu... ale ponejvíce běženci, kteří utekli před zákonem."
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:147
 msgid ""
@@ -1074,8 +1062,7 @@ msgid "This Valley Belongs to Me"
 msgstr "Toto údolí je MOJE"
 
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:55
-msgid ""
-"Delfador spent a long time in the Methor's academy. He learned many spells."
+msgid "Delfador spent a long time in the Methor's academy. He learned many spells."
 msgstr ""
 "Delfador strávil mnoho času na Methorově akademii. Mnohým kouzlům se zde "
 "naučil."
@@ -1248,8 +1235,7 @@ msgstr "Člověk... mág... je to mrtvé?"
 
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:206
 msgid "Easy to find out... thump it and see if it wakes up!"
-msgstr ""
-"To se dá jednoduše zjistit... prašti to a uvidíme, jestli se to zvedne!"
+msgstr "To se dá jednoduše zjistit... prašti to a uvidíme, jestli se to zvedne!"
 
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:211
 msgid "THUMP!"
@@ -1727,8 +1713,7 @@ msgstr "Ne! Bez Lionelovy pomoci jsem mrtev."
 msgid ""
 "Chantal! No - you can't be dead! I have no hope of returning to Wesnoth "
 "now..."
-msgstr ""
-"Chantal, ne! Ty nemůžeš zemřít! ... Ztratil jsem naději vrátit se zpět domů."
+msgstr "Chantal, ne! Ty nemůžeš zemřít! ... Ztratil jsem naději vrátit se zpět domů."
 
 #: Delfadors_Memoirs/utils/generators.cfg:21
 msgid "I call upon all that is holy to break the power of this evil stone!"
@@ -1754,14 +1739,14 @@ msgstr "Ách... Konečně mohu uhasit svou žízeň... glo, glo, glo ..."
 
 #: Delfadors_Memoirs/utils/items.cfg:42
 msgid "Staff of Lightning"
-msgstr ""
+msgstr "Hůl blesků"
 
 #: Delfadors_Memoirs/utils/items.cfg:45
 msgid ""
 "A wizard's staff of power. This allows the bearer to summon powerful "
 "lightning bolts which strike their enemies, even at close range."
 msgstr ""
-"Čarodějova hůl moci. Umožňuje majiteli sesílat mocné blesky, které zasáhnou "
+"Čarodějova Hůl Moci. Umožňuje majiteli sesílat mocné blesky, které zasáhnou "
 "nepřítele jak zblízka tak z dálky."
 
 #: Delfadors_Memoirs/utils/items.cfg:46
@@ -1770,11 +1755,11 @@ msgstr "Pouze mocný mág ji může nosit."
 
 #: Delfadors_Memoirs/utils/items.cfg:49
 msgid "lightning"
-msgstr ""
+msgstr "blesk"
 
 #: Delfadors_Memoirs/utils/items.cfg:79
 msgid "Staff of Power"
-msgstr ""
+msgstr "Hůl Moci"
 
 #: Delfadors_Memoirs/utils/misc.cfg:37
 msgid "A secret passage... I wonder where it leads..."
@@ -1791,3 +1776,4 @@ msgstr "Tajná stezka... Zajímalo by mne, kam vede."
 
 #~ msgid "magical"
 #~ msgstr "magický"
+
