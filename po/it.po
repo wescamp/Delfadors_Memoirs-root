@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-09-18 10:26+0200\n"
-"PO-Revision-Date: 2006-09-11 19:18+0100\n"
+"PO-Revision-Date: 2006-09-20 09:13+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -1570,7 +1570,6 @@ msgid "Journeyman Mage"
 msgstr "Mago viaggiatore"
 
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:20
-#, fuzzy
 msgid ""
 "A mage who has just finished his or her apprenticeship is known as a "
 "journeyman.  Journeyman mages travel far in search of employment and "
@@ -1580,7 +1579,9 @@ msgid ""
 msgstr ""
 "Un mago che ha appena finito il suo apprendistato viene chiamato "
 "viaggiatore. I maghi viaggiatori percorrono il mondo in cerca di impiego ed "
-"esperienza."
+"esperienza.\n"
+"\n"
+"Note speciali:"
 
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:25
 msgid "missile"
@@ -1634,7 +1635,6 @@ msgid "Mage Commander"
 msgstr "Mago comandante"
 
 #: Delfadors_Memoirs/units/Mage_Commander.cfg:25
-#, fuzzy
 msgid ""
 "This mage has gained much experience leading others into battle. As a "
 "result, level 1 and 2 units fight more effectively when they are adjacent to "
@@ -1645,7 +1645,9 @@ msgstr ""
 "Questo mago ha guadagnato molta esperienza guidando gli altri in battaglia. "
 "Di conseguenza le unità di livello 1 e 2 che si trovano in una posizione "
 "adiacente al mago combattono in modo più efficiente. Inoltre ha la capacità "
-"di guarire gli altri durante il combattimento."
+"di guarire gli altri durante il combattimento.\n"
+"\n"
+"Note speciali:"
 
 #: Delfadors_Memoirs/units/Mage_Commander.cfg:29
 msgid "staff"
@@ -1667,7 +1669,6 @@ msgid "Mage Leader"
 msgstr "Mago condottiero"
 
 #: Delfadors_Memoirs/units/Mage_Leader.cfg:23
-#, fuzzy
 msgid ""
 "This mage has gained some experience leading others into battle. As a "
 "result, level 1 units fight more effectively when they are adjacent to him.\n"
@@ -1676,7 +1677,9 @@ msgid ""
 msgstr ""
 "Questo mago ha guadagnato esperienza guidando gli altri in battaglia. Di "
 "conseguenza le unità di livello 1 che combattono vicino a questo mago "
-"usufruiscono di un bonus che le rende più efficaci."
+"usufruiscono di un bonus che le rende più efficaci.\n"
+"\n"
+"Note speciali:"
 
 #: Delfadors_Memoirs/units/Mage_Leader.cfg:27
 msgid "dagger"
@@ -1687,7 +1690,6 @@ msgid "Wose Shaman"
 msgstr "Shamano wose"
 
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:24
-#, fuzzy
 msgid ""
 "These woses are able to command forest plants such as vines and creepers to "
 "hinder their enemies.\n"
@@ -1695,7 +1697,9 @@ msgid ""
 "Special Notes:"
 msgstr ""
 "Questi wose sono capaci di comandare le piante della foresta come le viti e "
-"i rovi al fine di intrappolare i loro nemici."
+"i rovi al fine di intrappolare i loro nemici.\n"
+"\n"
+"Note speciali:"
 
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:26
 msgid "crush"
