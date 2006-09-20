@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-09-18 10:26+0200\n"
+"POT-Creation-Date: 2006-09-20 23:10+0200\n"
 "PO-Revision-Date: 2006-09-18 10:45+0200\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@buchtovi.cz>\n"
@@ -445,6 +445,35 @@ msgid ""
 msgstr ""
 "Říká se, že stráží mocný magický artefakt. Roderick ví víc než já. Žije na "
 "západ odtud."
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:310
+#, fuzzy
+msgid "Roland"
+msgstr " a"
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:311
+msgid "Penny"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:312
+msgid "Roderick"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:313
+msgid "Nameless"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:314
+msgid "Sydney"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:315
+msgid "Harold"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:316
+msgid "Melina"
+msgstr ""
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:338
 msgid ""
@@ -1565,9 +1594,9 @@ msgstr ""
 msgid "missile"
 msgstr "střela"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:48
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:49
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:26
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:45
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:46
 msgid "fire"
 msgstr "oheň"
 
@@ -1595,7 +1624,7 @@ msgstr ""
 msgid "sword"
 msgstr "meč"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:28
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:29
 #: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:21
 msgid "blade"
 msgstr "čepel"
@@ -1626,18 +1655,18 @@ msgstr ""
 "\n"
 "Zvláštní rysy: "
 
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:29
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:30
 msgid "staff"
 msgstr "hůl"
 
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:27
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:41
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:30
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:31
 msgid "impact"
 msgstr "úder"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:47
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:44
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:48
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:45
 msgid "fireball"
 msgstr "ohnivá koule"
 
@@ -1686,10 +1715,6 @@ msgstr "rozdrcení"
 msgid "entangle"
 msgstr "zamotání"
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:42
-msgid "slow"
-msgstr "zpomalení"
-
 #: Delfadors_Memoirs/utils/deaths.cfg:12
 msgid "No! So young..."
 msgstr "Ne! Tak mlád..."
@@ -1715,11 +1740,11 @@ msgstr ""
 msgid "Evil emanates from this stone, but I have not the power to destroy it."
 msgstr "Zlo se šíří z těchto kamenů a já nemám sílu to zastavit..."
 
-#: Delfadors_Memoirs/utils/generators.cfg:147
+#: Delfadors_Memoirs/utils/generators.cfg:146
 msgid "Evil spirits, begone from this place!"
 msgstr "Zlý duchové, odejděte z tohoto místa!"
 
-#: Delfadors_Memoirs/utils/generators.cfg:192
+#: Delfadors_Memoirs/utils/generators.cfg:190
 msgid "It would take powerful magic to drive the evil from this place."
 msgstr "To bude chtít opravdu silnou magii zbavit toto místo všeho zlého."
 
@@ -1727,7 +1752,11 @@ msgstr "To bude chtít opravdu silnou magii zbavit toto místo všeho zlého."
 msgid "Ahh... I can slake my thirst at this well.  Glug, glug glug..."
 msgstr "Ách... Konečně mohu uhasit svou žízeň... glo, glo, glo ..."
 
-#: Delfadors_Memoirs/utils/items.cfg:46
+#: Delfadors_Memoirs/utils/items.cfg:42
+msgid "Staff of Lightning"
+msgstr ""
+
+#: Delfadors_Memoirs/utils/items.cfg:45
 msgid ""
 "A wizard's staff of power. This allows the bearer to summon powerful "
 "lightning bolts which strike their enemies, even at close range."
@@ -1735,13 +1764,24 @@ msgstr ""
 "Čarodějova hůl moci. Umožňuje majiteli sesílat mocné blesky, které zasáhnou "
 "nepřítele jak zblízka tak z dálky."
 
-#: Delfadors_Memoirs/utils/items.cfg:47
+#: Delfadors_Memoirs/utils/items.cfg:46
 msgid "Only a powerful mage can wield this."
 msgstr "Pouze mocný mág ji může nosit."
+
+#: Delfadors_Memoirs/utils/items.cfg:49
+msgid "lightning"
+msgstr ""
+
+#: Delfadors_Memoirs/utils/items.cfg:79
+msgid "Staff of Power"
+msgstr ""
 
 #: Delfadors_Memoirs/utils/misc.cfg:37
 msgid "A secret passage... I wonder where it leads..."
 msgstr "Tajná stezka... Zajímalo by mne, kam vede."
+
+#~ msgid "slow"
+#~ msgstr "zpomalení"
 
 #~ msgid "leadership,heals"
 #~ msgstr "velení, léčení"

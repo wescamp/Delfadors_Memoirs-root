@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-09-18 10:26+0200\n"
+"POT-Creation-Date: 2006-09-20 23:10+0200\n"
 "PO-Revision-Date: 2006-05-31 00:21+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
@@ -435,6 +435,34 @@ msgid ""
 msgstr ""
 "Det sägs att de vaktar en mäktig magisk artefakt. Roderick vet mer om det än "
 "jag gör. Han bor västerut."
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:310
+msgid "Roland"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:311
+msgid "Penny"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:312
+msgid "Roderick"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:313
+msgid "Nameless"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:314
+msgid "Sydney"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:315
+msgid "Harold"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:316
+msgid "Melina"
+msgstr ""
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:338
 msgid ""
@@ -1557,9 +1585,9 @@ msgstr ""
 msgid "missile"
 msgstr "projektil"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:48
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:49
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:26
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:45
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:46
 msgid "fire"
 msgstr "eld"
 
@@ -1586,7 +1614,7 @@ msgstr ""
 msgid "sword"
 msgstr "svärd"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:28
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:29
 #: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:21
 msgid "blade"
 msgstr "hugg"
@@ -1616,18 +1644,18 @@ msgstr ""
 "i strid. Därför kämpar trupper av nivå ett och två mycket mer effektivt "
 "bredvid honom. Han har också förmågan att vårda andra i strid."
 
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:29
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:30
 msgid "staff"
 msgstr "stav"
 
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:27
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:41
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:30
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:31
 msgid "impact"
 msgstr "kross"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:47
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:44
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:48
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:45
 msgid "fireball"
 msgstr "eldklot"
 
@@ -1672,10 +1700,6 @@ msgstr "krossa"
 msgid "entangle"
 msgstr "snärja"
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:42
-msgid "slow"
-msgstr "sakta ner"
-
 #: Delfadors_Memoirs/utils/deaths.cfg:12
 msgid "No! So young..."
 msgstr "Nej! Så ung..."
@@ -1700,11 +1724,11 @@ msgstr "Jag åberopar allt heligt för att bryta den här onda stenen makt!"
 msgid "Evil emanates from this stone, but I have not the power to destroy it."
 msgstr "Stenen utstrålar ondska, men jag har inte kraften att förstöra den."
 
-#: Delfadors_Memoirs/utils/generators.cfg:147
+#: Delfadors_Memoirs/utils/generators.cfg:146
 msgid "Evil spirits, begone from this place!"
 msgstr "Onda andar! Vik hädan!"
 
-#: Delfadors_Memoirs/utils/generators.cfg:192
+#: Delfadors_Memoirs/utils/generators.cfg:190
 msgid "It would take powerful magic to drive the evil from this place."
 msgstr ""
 "Det måste till kraftfull magi för att driva bort ondskan från den här "
@@ -1714,7 +1738,11 @@ msgstr ""
 msgid "Ahh... I can slake my thirst at this well.  Glug, glug glug..."
 msgstr "Ahh... Jag kan släcka törsten också. Glugg, glugg, glugg..."
 
-#: Delfadors_Memoirs/utils/items.cfg:46
+#: Delfadors_Memoirs/utils/items.cfg:42
+msgid "Staff of Lightning"
+msgstr ""
+
+#: Delfadors_Memoirs/utils/items.cfg:45
 msgid ""
 "A wizard's staff of power. This allows the bearer to summon powerful "
 "lightning bolts which strike their enemies, even at close range."
@@ -1722,13 +1750,24 @@ msgstr ""
 "En trollstav. Den tillåter bäraren att nedkalla blixtar för att slå ned på "
 "fiender, även på nära håll."
 
-#: Delfadors_Memoirs/utils/items.cfg:47
+#: Delfadors_Memoirs/utils/items.cfg:46
 msgid "Only a powerful mage can wield this."
 msgstr "Bara en mäktig magiker kan använda denna."
+
+#: Delfadors_Memoirs/utils/items.cfg:49
+msgid "lightning"
+msgstr ""
+
+#: Delfadors_Memoirs/utils/items.cfg:79
+msgid "Staff of Power"
+msgstr ""
 
 #: Delfadors_Memoirs/utils/misc.cfg:37
 msgid "A secret passage... I wonder where it leads..."
 msgstr "En dold passage... Undrar vart den leder..."
+
+#~ msgid "slow"
+#~ msgstr "sakta ner"
 
 #~ msgid "leadership,heals"
 #~ msgstr "ledarskap, vårdar"

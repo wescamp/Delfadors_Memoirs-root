@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-09-18 10:26+0200\n"
+"POT-Creation-Date: 2006-09-20 23:10+0200\n"
 "PO-Revision-Date: 2005-06-01 20:17-0800\n"
 "Last-Translator: nikita <dmcadmin@gmail.com>\n"
 "Language-Team: none\n"
@@ -363,6 +363,34 @@ msgid ""
 msgstr ""
 "Говорят, что они охраняют мощный волшебный артифакт. Родерик знает больше, "
 "чем я; он живет на западе."
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:310
+msgid "Roland"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:311
+msgid "Penny"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:312
+msgid "Roderick"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:313
+msgid "Nameless"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:314
+msgid "Sydney"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:315
+msgid "Harold"
+msgstr ""
+
+#: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:316
+msgid "Melina"
+msgstr ""
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:338
 msgid ""
@@ -1434,9 +1462,9 @@ msgstr ""
 msgid "missile"
 msgstr "снаряд"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:48
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:49
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:26
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:45
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:46
 msgid "fire"
 msgstr "огонь"
 
@@ -1464,7 +1492,7 @@ msgstr ""
 msgid "sword"
 msgstr "меч"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:28
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:29
 #: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:21
 msgid "blade"
 msgstr "режущее"
@@ -1494,18 +1522,18 @@ msgstr ""
 "соеденения уровення 1 и 2 борются более эффективно, когда они рядом с ним. "
 "Он также имеет силу излечить других в течение боя."
 
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:29
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:30
 msgid "staff"
 msgstr "посых"
 
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:27
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:41
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:30
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:31
 msgid "impact"
 msgstr "удар"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:47
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:44
+#: Delfadors_Memoirs/units/Mage_Leader.cfg:48
+#: Delfadors_Memoirs/units/Mage_Commander.cfg:45
 msgid "fireball"
 msgstr "огненный шар"
 
@@ -1550,10 +1578,6 @@ msgstr "дробление"
 msgid "entangle"
 msgstr "запутывать"
 
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:42
-msgid "slow"
-msgstr "замедление"
-
 #: Delfadors_Memoirs/utils/deaths.cfg:12
 msgid "No! So young..."
 msgstr ""
@@ -1579,11 +1603,11 @@ msgstr ""
 msgid "Evil emanates from this stone, but I have not the power to destroy it."
 msgstr "Зло происходит от этого камня, но я не имею сил разрушить это."
 
-#: Delfadors_Memoirs/utils/generators.cfg:147
+#: Delfadors_Memoirs/utils/generators.cfg:146
 msgid "Evil spirits, begone from this place!"
 msgstr "Злые духи, прочь от этого места!"
 
-#: Delfadors_Memoirs/utils/generators.cfg:192
+#: Delfadors_Memoirs/utils/generators.cfg:190
 msgid "It would take powerful magic to drive the evil from this place."
 msgstr "Потребоваться мощное волшебство чтобы вывести зло из этого места."
 
@@ -1591,7 +1615,11 @@ msgstr "Потребоваться мощное волшебство чтобы 
 msgid "Ahh... I can slake my thirst at this well.  Glug, glug glug..."
 msgstr "Ахх... Я могу утолить мою жажду. Глаг, глаг глаг..."
 
-#: Delfadors_Memoirs/utils/items.cfg:46
+#: Delfadors_Memoirs/utils/items.cfg:42
+msgid "Staff of Lightning"
+msgstr ""
+
+#: Delfadors_Memoirs/utils/items.cfg:45
 msgid ""
 "A wizard's staff of power. This allows the bearer to summon powerful "
 "lightning bolts which strike their enemies, even at close range."
@@ -1599,13 +1627,24 @@ msgstr ""
 "Посых Силы волшебника. Это позволяет ему вызывать мощные молнии, которые "
 "ударяют их врагов, даже вблизи."
 
-#: Delfadors_Memoirs/utils/items.cfg:47
+#: Delfadors_Memoirs/utils/items.cfg:46
 msgid "Only a powerful mage can wield this."
 msgstr "Только мощный волшебник может владеть этим."
+
+#: Delfadors_Memoirs/utils/items.cfg:49
+msgid "lightning"
+msgstr ""
+
+#: Delfadors_Memoirs/utils/items.cfg:79
+msgid "Staff of Power"
+msgstr ""
 
 #: Delfadors_Memoirs/utils/misc.cfg:37
 msgid "A secret passage... I wonder where it leads..."
 msgstr "Секретный ход... Интересно, куда он ведет..."
+
+#~ msgid "slow"
+#~ msgstr "замедление"
 
 #~ msgid "leadership,heals"
 #~ msgstr "лидер,исцеление"
