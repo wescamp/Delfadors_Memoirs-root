@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-09-20 23:10+0200\n"
-"PO-Revision-Date: 2006-05-31 00:21+0200\n"
+"PO-Revision-Date: 2006-09-29 23:23+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.2\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: Delfadors_Memoirs.cfg:12
 msgid "Delfador's Memoirs"
@@ -650,9 +650,8 @@ msgid "Methor"
 msgstr ""
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:36
-#, fuzzy
 msgid "Grogor Tuk"
-msgstr "Besegra Grogor Tuk"
+msgstr "Grogor Tuk"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:52
 msgid ""
@@ -1570,7 +1569,6 @@ msgid "Journeyman Mage"
 msgstr "Magikergesäll"
 
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:20
-#, fuzzy
 msgid ""
 "A mage who has just finished his or her apprenticeship is known as a "
 "journeyman.  Journeyman mages travel far in search of employment and "
@@ -1579,7 +1577,9 @@ msgid ""
 "Special Notes:"
 msgstr ""
 "En magiker som just har avslutat sitt lärlingskap kallas för gesäll. En "
-"magikergesäll vandrar vida omkring i jakt på anställning och erfarenhet."
+"magikergesäll vandrar vida omkring i jakt på anställning och erfarenhet.\n"
+"\n"
+"Anmärkning:"
 
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:25
 msgid "missile"
@@ -1632,7 +1632,6 @@ msgid "Mage Commander"
 msgstr "Magikerbefälhavare"
 
 #: Delfadors_Memoirs/units/Mage_Commander.cfg:25
-#, fuzzy
 msgid ""
 "This mage has gained much experience leading others into battle. As a "
 "result, level 1 and 2 units fight more effectively when they are adjacent to "
@@ -1642,7 +1641,9 @@ msgid ""
 msgstr ""
 "Detta är en magiker som har skaffat sig mycket erfarenhet av att leda andra "
 "i strid. Därför kämpar trupper av nivå ett och två mycket mer effektivt "
-"bredvid honom. Han har också förmågan att vårda andra i strid."
+"bredvid honom. Han har också förmågan att vårda andra i strid.\n"
+"\n"
+"Anmärkning:"
 
 #: Delfadors_Memoirs/units/Mage_Commander.cfg:30
 msgid "staff"
@@ -1664,7 +1665,6 @@ msgid "Mage Leader"
 msgstr "Magikerledare"
 
 #: Delfadors_Memoirs/units/Mage_Leader.cfg:23
-#, fuzzy
 msgid ""
 "This mage has gained some experience leading others into battle. As a "
 "result, level 1 units fight more effectively when they are adjacent to him.\n"
@@ -1672,7 +1672,9 @@ msgid ""
 "Special Notes:"
 msgstr ""
 "Denna magiker har skaffat sig lite erfarenhet av att leda andra i strid. "
-"Därför kämpar trupper av nivå ett bättre bredvid honom."
+"Därför kämpar trupper av nivå ett bättre bredvid honom.\n"
+"\n"
+"Anmärkning:"
 
 #: Delfadors_Memoirs/units/Mage_Leader.cfg:27
 msgid "dagger"
@@ -1683,14 +1685,15 @@ msgid "Wose Shaman"
 msgstr "Entschaman"
 
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:24
-#, fuzzy
 msgid ""
 "These woses are able to command forest plants such as vines and creepers to "
 "hinder their enemies.\n"
 "\n"
 "Special Notes:"
 msgstr ""
-"Dessa enter har förmågan att få slingerväxter att hindra deras fiender."
+"Dessa enter har förmågan att få slingerväxter att hindra deras fiender.\n"
+"\n"
+"Anmärkning:"
 
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:26
 msgid "crush"
@@ -1765,15 +1768,3 @@ msgstr ""
 #: Delfadors_Memoirs/utils/misc.cfg:37
 msgid "A secret passage... I wonder where it leads..."
 msgstr "En dold passage... Undrar vart den leder..."
-
-#~ msgid "slow"
-#~ msgstr "sakta ner"
-
-#~ msgid "leadership,heals"
-#~ msgstr "ledarskap, vårdar"
-
-#~ msgid "ambush,regenerates"
-#~ msgstr "bakhåll, regenerera"
-
-#~ msgid "magical"
-#~ msgstr "magisk"
