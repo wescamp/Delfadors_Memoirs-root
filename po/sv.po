@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-09-20 23:10+0200\n"
-"PO-Revision-Date: 2006-09-29 23:23+0200\n"
+"PO-Revision-Date: 2006-11-21 23:33+0100\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -438,31 +438,31 @@ msgstr ""
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:310
 msgid "Roland"
-msgstr ""
+msgstr "Roland"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:311
 msgid "Penny"
-msgstr ""
+msgstr "Penny"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:312
 msgid "Roderick"
-msgstr ""
+msgstr "Roderick"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:313
 msgid "Nameless"
-msgstr ""
+msgstr "Namnlös"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:314
 msgid "Sydney"
-msgstr ""
+msgstr "Sydney"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:315
 msgid "Harold"
-msgstr ""
+msgstr "Harold"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:316
 msgid "Melina"
-msgstr ""
+msgstr "Melina"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:338
 msgid ""
@@ -643,11 +643,11 @@ msgstr ""
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:3
 msgid "Overture"
-msgstr ""
+msgstr "Ouvertyr"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:25
 msgid "Methor"
-msgstr ""
+msgstr "Methor"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:36
 msgid "Grogor Tuk"
@@ -660,10 +660,13 @@ msgid ""
 "all beings in the Wesnoth. It would be a great hero epos, but it was "
 "happened. "
 msgstr ""
+"Detta är den sanna historien om Delfador den Store från tiden då han ännu "
+"inte kallades detta. Den sanna historien om hur han blev berömd och den mest "
+"kraftfulla av alla varelser i Wesnoth."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:55
 msgid " Once upon a time..."
-msgstr ""
+msgstr "Det var en gång..."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:58
 msgid ""
@@ -671,26 +674,29 @@ msgid ""
 "studies. He had chance to became Mage. The tradition told that last two "
 "things have stood before him:"
 msgstr ""
+" Efter tio års hårt arbete har en ung magikerlärling fullbordat sina "
+"studier. Han kan bli en magiker. Traditionen berättar att två hinder "
+"återstod:"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:61
 msgid " The New Mage Ceremony"
-msgstr ""
+msgstr " Den nya magikerceremonin"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:64
 msgid " and"
-msgstr ""
+msgstr " och"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:67
 msgid " The Name Journey"
-msgstr ""
+msgstr " Namnresan"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:70
 msgid " Mage school of Light, Isle of Anduin."
-msgstr ""
+msgstr " Ljusets magiskola, Anduins ö"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:73
 msgid " Young mage: I'm looking forward the Ceremony. "
-msgstr ""
+msgstr " Ung magiker: Jag ser fram emot ceremonin. "
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:77
 #: Delfadors_Memoirs/scenarios/overture.cfg:83
@@ -699,11 +705,11 @@ msgstr ""
 #: Delfadors_Memoirs/scenarios/overture.cfg:101
 #: Delfadors_Memoirs/scenarios/overture.cfg:107
 msgid " ...thorum restro targa thorum... "
-msgstr ""
+msgstr " ...thorum restro targa thorum... "
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:80
 msgid " Marshal: Come on, New Mage. Oracles are waiting for you."
-msgstr ""
+msgstr " Överste: Kom, unge magiker. Oraklerna väntar på dig."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:86
 msgid ""
@@ -712,12 +718,17 @@ msgid ""
 "the delegate of our brotherhood of mages. I'm giving you the first part of "
 "your Name. DEL"
 msgstr ""
+" 1:a oraklet: De gamla tiderna är förbi. Efter århundraden av fred kommer "
+"orcherna. De kommer snart. Världen förändras. Och du kommer att företräda "
+"vårt broderskap av magiker. Jag ger dig den första delen av ditt Namn. DEL."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:92
 msgid ""
 " 2nd oracle: And you will be famous. Very famous. You will be called great. "
 "I'm giving you the second part of your name. FA"
 msgstr ""
+" 2:a oraklet: Och du kommer att bli berömd. Mycket berömd. Du kommer att "
+"kallas Den store. Jag ger dig den andra delen av ditt namn. FA."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:98
 msgid ""
@@ -725,6 +736,9 @@ msgid ""
 "is always hope. And you will be the father of it. I agree with the second "
 "part of your name. FA"
 msgstr ""
+" 3:e oraklet: Ja. De gamla tiderna är över. Men det finns hopp. Det finns "
+"alltid hopp. Och du skall vara dess fader. Jag samtycker till den andra "
+"delen av ditt namn. FA."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:104
 msgid ""
@@ -732,81 +746,88 @@ msgid ""
 "fear. The same as the legendary Dacyn Orc Slayer. I'm giving you the last "
 "part of your name. DOR"
 msgstr ""
+" 4:e oraklet: Och ditt sinne skall vara klart som vatten. Starkt och utan "
+"fruktan. Som den legendariske Dacyn Orchdräparen. Jag ger dig den sista "
+"delen av ditt namn. DOR."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:110
 msgid " Marshal: Stand up, DELFADOR, and open your eyes. And open them again!"
-msgstr ""
+msgstr " Överste: Stå upp, DELFADOR, och öppna dina ögon. Öppna dem igen!"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:113
 msgid "."
-msgstr ""
+msgstr "."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:116
 msgid ".."
-msgstr ""
+msgstr ".."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:119
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:122
 msgid "...."
-msgstr ""
+msgstr "...."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:125
 msgid "....."
-msgstr ""
+msgstr "....."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:128
 #: Delfadors_Memoirs/scenarios/overture.cfg:131
 msgid "......"
-msgstr ""
+msgstr "......"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:134
 msgid "......."
-msgstr ""
+msgstr "......."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:137
 msgid " Marshal: And GO."
-msgstr ""
+msgstr " Överste: Och GÅ."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:140
 msgid "Now."
-msgstr ""
+msgstr "Nu."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:143
 msgid "You should fullfil your journey. Methor will lead you."
-msgstr ""
+msgstr "Din resa skall fullbordas. Methor vägleder dig."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:146
 msgid ""
 "I'll be your master. The end of your journey will finish in land, southwest "
 "from Weldyn."
-msgstr ""
+msgstr "Jag blir din mästare. Slutet på resan blir på land, sydväst om Weldyn."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:150
 msgid "Dangerous journey will before us."
-msgstr ""
+msgstr "En farlig färd ligger framför oss."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:154
 msgid " ... "
-msgstr ""
+msgstr " ... "
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:157
 msgid ""
 "After a while they arrived to the Methor's school, where the Delfador's "
 "Journy should finish. He did not intend it was the only beginning."
 msgstr ""
+"Efter ett tag anlände de till Methors skola, där Delfadors resa skulle "
+"sluta. "
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:166
 msgid ""
 "Well DONE! We are here. It is my own mage academy. You can stay here to "
 "learn some other arts of magic."
 msgstr ""
+"Bra gjort! Då var vi framme. Detta är min egen akademi för magiker. Du kan "
+"stanna här för att lära dig fler av magins aspekter."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:170
 msgid "Thank you very much!"
-msgstr ""
+msgstr "Tack så mycket!"
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:3
 msgid "The Road to Weldyn"
@@ -1053,6 +1074,7 @@ msgstr "Denna dal tillhör mig"
 msgid ""
 "Delfador spent a long time in the Methor's academy. He learned many spells."
 msgstr ""
+"Delfador stannade länge i Methors akademi. Han lärde sig många besvärjelser."
 
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:66
 msgid "No! Methor... Don't die!"
@@ -1743,7 +1765,7 @@ msgstr "Ahh... Jag kan släcka törsten också. Glugg, glugg, glugg..."
 
 #: Delfadors_Memoirs/utils/items.cfg:42
 msgid "Staff of Lightning"
-msgstr ""
+msgstr "Blixtstav"
 
 #: Delfadors_Memoirs/utils/items.cfg:45
 msgid ""
@@ -1759,11 +1781,11 @@ msgstr "Bara en mäktig magiker kan använda denna."
 
 #: Delfadors_Memoirs/utils/items.cfg:49
 msgid "lightning"
-msgstr ""
+msgstr "blixtar"
 
 #: Delfadors_Memoirs/utils/items.cfg:79
 msgid "Staff of Power"
-msgstr ""
+msgstr "Kraftstav"
 
 #: Delfadors_Memoirs/utils/misc.cfg:37
 msgid "A secret passage... I wonder where it leads..."
