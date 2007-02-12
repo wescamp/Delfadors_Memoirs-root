@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-09-20 23:10+0200\n"
-"PO-Revision-Date: 2006-09-21 08:08+0100\n"
+"PO-Revision-Date: 2007-02-09 15:52+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -59,7 +59,7 @@ msgid ""
 msgstr ""
 "Delfador e Leollyn non incontrarono ostacoli nel rientro a Weldyn. Entrati "
 "in città, Delfador rimase stupito dalla sua estensione, dalle sue grandi "
-"mura e dall'impressionante citadella. Dopo una notte ristoratrice, Leollyn "
+"mura e dall'impressionante cittadella. Dopo una notte ristoratrice, Leollyn "
 "lo invitò a presenziare a una riunione con il re in persona. Il re Garard, a "
 "quanto pareva, era ansioso di sentire le notizie della parte settentrionale "
 "di Wesnoth."
@@ -316,7 +316,7 @@ msgstr "Sì, è il mio padrone."
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:59
 msgid "Then you will not mind if we kill you! Hahahahah!"
-msgstr "Allora non ti importa se ti uccideremo! Hahahahah!"
+msgstr "Allora non ti importa se ti uccideremo! Ahahahaha!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:64
 msgid "No, I do not."
@@ -346,8 +346,8 @@ msgid ""
 "and they would rule it for ages. But he only got down his wolf and he "
 "thumped him."
 msgstr ""
-"Era uno di quei momenti che cambiano il destino del mondo. Il guerrierio "
-"orco aveva diverse scelte. Avrebbe potuto semplicemente trafiggerlo oppure "
+"Era uno di quei momenti che cambiano il destino del mondo. Il guerriero orco "
+"aveva diverse scelte. Avrebbe potuto semplicemente trafiggerlo oppure "
 "staccargli di netto la testa. In questo modo gli orchi si sarebbero "
 "assicurati l'intero Wesnoth e avrebbero regnato per secoli. Ma invece smontò "
 "solo dal lupo e lo colpì."
@@ -494,7 +494,7 @@ msgid ""
 "forgotten... Ihiah-Malal is a living man, like you, who walks among the "
 "dead.  He promises life to all those who follow him."
 msgstr ""
-"Mi chiamo Roland. Sono morto tanto tempo fa nel corso di una grende "
+"Mi chiamo Roland. Sono morto tanto tempo fa nel corso di una grande "
 "battaglia... me ne ero quasi dimenticato... Ihiah-Malal è un uomo vivo, come "
 "te, che si muove tra i morti. Ha promesso una nuova vita a tutti coloro che "
 "lo seguiranno."
@@ -1354,7 +1354,7 @@ msgstr ""
 "Dopo che Delfador ebbe seguito Ihiah-Malal attraverso il portale, si alzò un "
 "vento gelido e l'aria divenne più densa con spettri che cercavano di farsi "
 "strada verso il regno dei vivi. Il terreno divenne di ghiaccio e ben presto "
-"Delfador dovette seguire le impronte del necromante in una spessa coltre di "
+"Delfador dovette seguire le impronte del negromante in una spessa coltre di "
 "neve. Alla fine, anche le tracce divennero indistinte."
 
 #: Delfadors_Memoirs/scenarios/wasteland.cfg:122
@@ -1613,7 +1613,7 @@ msgstr ""
 
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:25
 msgid "missile"
-msgstr "missile"
+msgstr "proiettile"
 
 #: Delfadors_Memoirs/units/Mage_Leader.cfg:49
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:26
@@ -1715,7 +1715,7 @@ msgstr "pugnale"
 
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:4
 msgid "Wose Shaman"
-msgstr "Shamano wose"
+msgstr "Scamano wose"
 
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:24
 msgid ""
@@ -1795,7 +1795,7 @@ msgstr "Solo un potente mago può impugnarlo."
 
 #: Delfadors_Memoirs/utils/items.cfg:49
 msgid "lightning"
-msgstr "Lamp"
+msgstr "fulmine"
 
 #: Delfadors_Memoirs/utils/items.cfg:79
 msgid "Staff of Power"
