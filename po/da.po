@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-09-20 23:10+0200\n"
+"POT-Creation-Date: 2007-05-11 23:07+0200\n"
 "PO-Revision-Date: 2007-05-08 22:14+0200\n"
 "Last-Translator: Joe Hansen <joedalton2@yahoo.dk>\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
@@ -646,11 +646,11 @@ msgstr "Overture"
 msgid "Methor"
 msgstr "Methor"
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:36
-msgid "Grogor Tuk"
-msgstr "Grogor Tuk"
+#: Delfadors_Memoirs/scenarios/overture.cfg:37
+msgid "Marshal"
+msgstr ""
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:52
+#: Delfadors_Memoirs/scenarios/overture.cfg:77
 msgid ""
 "This is the true story of the Delfador the Great from the times he did not "
 "use such name. The true story how he became famous and the most powerfull of "
@@ -662,11 +662,11 @@ msgstr ""
 "magtfulde person i Wesnoth. Det ville være et stort helteepos, men det var "
 "det som skete. "
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:55
+#: Delfadors_Memoirs/scenarios/overture.cfg:80
 msgid " Once upon a time..."
 msgstr " Engang for mange år siden..."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:58
+#: Delfadors_Memoirs/scenarios/overture.cfg:83
 msgid ""
 " After ten years of a hard work one young mage apprentice has finished his "
 "studies. He had chance to became Mage. The tradition told that last two "
@@ -676,40 +676,41 @@ msgstr ""
 "studierne. Han havde en mulighed for at blive troldmand. Traditionen krævede "
 "to sidste ting han skulle igennem:"
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:61
+#: Delfadors_Memoirs/scenarios/overture.cfg:86
 msgid " The New Mage Ceremony"
 msgstr " Den nye troldmands ceremoni"
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:64
+#: Delfadors_Memoirs/scenarios/overture.cfg:89
 msgid " and"
 msgstr " og"
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:67
+#: Delfadors_Memoirs/scenarios/overture.cfg:92
 msgid " The Name Journey"
 msgstr " Navnerejsen"
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:70
+#: Delfadors_Memoirs/scenarios/overture.cfg:100
 msgid " Mage school of Light, Isle of Anduin."
 msgstr " Lysets Troldmandsskole, Anduin Ø."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:73
+#: Delfadors_Memoirs/scenarios/overture.cfg:107
 msgid " Young mage: I'm looking forward the Ceremony. "
 msgstr " Unge troldmand: Jeg står for ceremonien. "
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:77
-#: Delfadors_Memoirs/scenarios/overture.cfg:83
-#: Delfadors_Memoirs/scenarios/overture.cfg:89
-#: Delfadors_Memoirs/scenarios/overture.cfg:95
-#: Delfadors_Memoirs/scenarios/overture.cfg:101
-#: Delfadors_Memoirs/scenarios/overture.cfg:107
+#: Delfadors_Memoirs/scenarios/overture.cfg:131
+#: Delfadors_Memoirs/scenarios/overture.cfg:159
+#: Delfadors_Memoirs/scenarios/overture.cfg:165
+#: Delfadors_Memoirs/scenarios/overture.cfg:171
+#: Delfadors_Memoirs/scenarios/overture.cfg:177
+#: Delfadors_Memoirs/scenarios/overture.cfg:183
 msgid " ...thorum restro targa thorum... "
 msgstr " ...thorum restro targa thorum... "
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:80
-msgid " Marshal: Come on, New Mage. Oracles are waiting for you."
+#: Delfadors_Memoirs/scenarios/overture.cfg:135
+#, fuzzy
+msgid "Come on, New Mage. Oracles are waiting for you."
 msgstr " Ceremonimester: Kom her nye troldmand. Oraklerne venter på dig."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:86
+#: Delfadors_Memoirs/scenarios/overture.cfg:162
 msgid ""
 " 1st oracle: The old times are passing. After centuries of peace the orcs "
 "will come. They are comming soon. The world will be changed. And you will be "
@@ -721,7 +722,7 @@ msgstr ""
 "for vores troldemandsfællesskab. Jeg giver dig den første del af dit navn. "
 "DEL"
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:92
+#: Delfadors_Memoirs/scenarios/overture.cfg:168
 msgid ""
 " 2nd oracle: And you will be famous. Very famous. You will be called great. "
 "I'm giving you the second part of your name. FA"
@@ -729,7 +730,7 @@ msgstr ""
 " 2. Orakel: Og du bliver berømt. Meget berømt. Du vil blive kaldt den Store. "
 "Jeg giver dig den anden del af dit navn. FA"
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:98
+#: Delfadors_Memoirs/scenarios/overture.cfg:174
 msgid ""
 " 3rd oracle: Yes. The old times are over. But there will be our hope. There "
 "is always hope. And you will be the father of it. I agree with the second "
@@ -738,7 +739,7 @@ msgstr ""
 " 3. Orakel: Ja. De gamle tider er forbi. Men hvor er vort håb. Der er altid "
 "håb. Og du vil nære dette håb. Jeg er enig med den anden del af dit navn. FA"
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:104
+#: Delfadors_Memoirs/scenarios/overture.cfg:180
 msgid ""
 " 4th oracle: And your heard will be clean such a water. Good and without "
 "fear. The same as the legendary Dacyn Orc Slayer. I'm giving you the last "
@@ -748,86 +749,55 @@ msgstr ""
 "måde som den legendariske Dacyn Ork betvinger. Jeg giver dig den sidste del "
 "af dit navn. DOR"
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:110
-msgid " Marshal: Stand up, DELFADOR, and open your eyes. And open them again!"
+#: Delfadors_Memoirs/scenarios/overture.cfg:187
+#, fuzzy
+msgid "Stand up, DELFADOR, and open your eyes. And open them again!"
 msgstr ""
 " Ceremonimester: Rejs dig, DELFADOR, og åben dine øjne. Og åben dem igen!"
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:113
-msgid "."
-msgstr "."
-
-#: Delfadors_Memoirs/scenarios/overture.cfg:116
-msgid ".."
+#: Delfadors_Memoirs/scenarios/overture.cfg:192
+#, fuzzy
+msgid ". ."
 msgstr ".."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:119
-msgid "..."
-msgstr "..."
+#: Delfadors_Memoirs/scenarios/overture.cfg:196
+msgid "o o"
+msgstr ""
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:122
-msgid "...."
-msgstr "...."
+#: Delfadors_Memoirs/scenarios/overture.cfg:200
+msgid "O O"
+msgstr ""
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:125
-msgid "....."
-msgstr "....."
+#: Delfadors_Memoirs/scenarios/overture.cfg:204
+msgid "WHOW!"
+msgstr ""
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:128
-#: Delfadors_Memoirs/scenarios/overture.cfg:131
-msgid "......"
-msgstr "......"
+#: Delfadors_Memoirs/scenarios/overture.cfg:208
+msgid "And GO."
+msgstr ""
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:134
-msgid "......."
-msgstr "......."
-
-#: Delfadors_Memoirs/scenarios/overture.cfg:137
-msgid " Marshal: And GO."
-msgstr " Ceremonimester: Og GÅ"
-
-#: Delfadors_Memoirs/scenarios/overture.cfg:140
+#: Delfadors_Memoirs/scenarios/overture.cfg:212
 msgid "Now."
 msgstr "Nu."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:143
+#: Delfadors_Memoirs/scenarios/overture.cfg:216
 msgid "You should fullfil your journey. Methor will lead you."
 msgstr "Du skal gennemføre din rejse. Methor vil guide dig."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:146
+#: Delfadors_Memoirs/scenarios/overture.cfg:221
 msgid ""
 "I'll be your master. The end of your journey will finish in land, southwest "
 "from Weldyn."
 msgstr ""
 "Jeg vil være din mester. Slutmålet for din rejse vil være sydvest for Weldyn."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:150
+#: Delfadors_Memoirs/scenarios/overture.cfg:225
 msgid "Dangerous journey will before us."
 msgstr "En farlig rejse ligger foran os."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:154
-msgid " ... "
-msgstr " ... "
-
-#: Delfadors_Memoirs/scenarios/overture.cfg:157
-msgid ""
-"After a while they arrived to the Methor's school, where the Delfador's "
-"Journy should finish. He did not intend it was the only beginning."
+#: Delfadors_Memoirs/scenarios/overture.cfg:229
+msgid "Let's go!"
 msgstr ""
-"Efter en kort rejse ankom de til Methors skole, hvor Delfadors rejse skulle "
-"afsluttes. Han havde ikke regnet med at det kun var begyndelsen."
-
-#: Delfadors_Memoirs/scenarios/overture.cfg:166
-msgid ""
-"Well DONE! We are here. It is my own mage academy. You can stay here to "
-"learn some other arts of magic."
-msgstr ""
-"Udmærket! Vi er fremme. Det er mit eget troldmandsakademi. Du kan studere "
-"her og læren andre former for magi."
-
-#: Delfadors_Memoirs/scenarios/overture.cfg:170
-msgid "Thank you very much!"
-msgstr "Mange tak!"
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:3
 msgid "The Road to Weldyn"
@@ -1580,7 +1550,7 @@ msgstr ""
 msgid "Journeyman Mage"
 msgstr "Rejsende troldmand"
 
-#: Delfadors_Memoirs/units/Journeyman_Mage.cfg:20
+#: Delfadors_Memoirs/units/Journeyman_Mage.cfg:21
 msgid ""
 "A mage who has just finished his or her apprenticeship is known as a "
 "journeyman.  Journeyman mages travel far in search of employment and "
@@ -1593,12 +1563,12 @@ msgstr ""
 "\n"
 "Specielle bemærkninger:"
 
-#: Delfadors_Memoirs/units/Journeyman_Mage.cfg:25
+#: Delfadors_Memoirs/units/Journeyman_Mage.cfg:26
 msgid "missile"
 msgstr "missil"
 
 #: Delfadors_Memoirs/units/Mage_Leader.cfg:49
-#: Delfadors_Memoirs/units/Journeyman_Mage.cfg:26
+#: Delfadors_Memoirs/units/Journeyman_Mage.cfg:27
 #: Delfadors_Memoirs/units/Mage_Commander.cfg:46
 msgid "fire"
 msgstr "ild"
@@ -1782,3 +1752,47 @@ msgstr "Magtstav"
 #: Delfadors_Memoirs/utils/misc.cfg:37
 msgid "A secret passage... I wonder where it leads..."
 msgstr "En hemmelig gang... Hvor mon den fører til..."
+
+#~ msgid "Grogor Tuk"
+#~ msgstr "Grogor Tuk"
+
+#~ msgid "."
+#~ msgstr "."
+
+#~ msgid "..."
+#~ msgstr "..."
+
+#~ msgid "...."
+#~ msgstr "...."
+
+#~ msgid "....."
+#~ msgstr "....."
+
+#~ msgid "......"
+#~ msgstr "......"
+
+#~ msgid "......."
+#~ msgstr "......."
+
+#~ msgid " Marshal: And GO."
+#~ msgstr " Ceremonimester: Og GÅ"
+
+#~ msgid " ... "
+#~ msgstr " ... "
+
+#~ msgid ""
+#~ "After a while they arrived to the Methor's school, where the Delfador's "
+#~ "Journy should finish. He did not intend it was the only beginning."
+#~ msgstr ""
+#~ "Efter en kort rejse ankom de til Methors skole, hvor Delfadors rejse "
+#~ "skulle afsluttes. Han havde ikke regnet med at det kun var begyndelsen."
+
+#~ msgid ""
+#~ "Well DONE! We are here. It is my own mage academy. You can stay here to "
+#~ "learn some other arts of magic."
+#~ msgstr ""
+#~ "Udmærket! Vi er fremme. Det er mit eget troldmandsakademi. Du kan studere "
+#~ "her og læren andre former for magi."
+
+#~ msgid "Thank you very much!"
+#~ msgstr "Mange tak!"

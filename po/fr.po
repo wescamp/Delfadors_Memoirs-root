@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-09-20 23:10+0200\n"
+"POT-Creation-Date: 2007-05-11 23:07+0200\n"
 "PO-Revision-Date: 2006-12-08 14:43+0100\n"
 "Last-Translator: Gérard Bodin <gerard.bodin@etu.univ-lille3.fr>\n"
 "Language-Team: Language fr <wesnoth@ml.free.fr>\n"
@@ -656,11 +656,11 @@ msgstr "Ouverture"
 msgid "Methor"
 msgstr "Methor"
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:36
-msgid "Grogor Tuk"
-msgstr "Grogor Tuk"
+#: Delfadors_Memoirs/scenarios/overture.cfg:37
+msgid "Marshal"
+msgstr ""
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:52
+#: Delfadors_Memoirs/scenarios/overture.cfg:77
 msgid ""
 "This is the true story of the Delfador the Great from the times he did not "
 "use such name. The true story how he became famous and the most powerfull of "
@@ -672,11 +672,11 @@ msgstr ""
 "connaître comme le plus puissant de tous les êtres de Wesnoth. Ce pourrait "
 "être une légende, mais c'est vraiment arrivé."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:55
+#: Delfadors_Memoirs/scenarios/overture.cfg:80
 msgid " Once upon a time..."
 msgstr " Il était une fois..."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:58
+#: Delfadors_Memoirs/scenarios/overture.cfg:83
 msgid ""
 " After ten years of a hard work one young mage apprentice has finished his "
 "studies. He had chance to became Mage. The tradition told that last two "
@@ -686,40 +686,41 @@ msgstr ""
 "ses études. Il avait une chance de devenir Mage. La tradition précisait les "
 "deux dernières choses qui lui restaient à accomplir :"
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:61
+#: Delfadors_Memoirs/scenarios/overture.cfg:86
 msgid " The New Mage Ceremony"
 msgstr " La Cérémonie du Nouveau Mage"
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:64
+#: Delfadors_Memoirs/scenarios/overture.cfg:89
 msgid " and"
 msgstr " et"
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:67
+#: Delfadors_Memoirs/scenarios/overture.cfg:92
 msgid " The Name Journey"
 msgstr " Le Voyage du Nom"
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:70
+#: Delfadors_Memoirs/scenarios/overture.cfg:100
 msgid " Mage school of Light, Isle of Anduin."
 msgstr " École des Mages de Lumière, Île d'Anduin."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:73
+#: Delfadors_Memoirs/scenarios/overture.cfg:107
 msgid " Young mage: I'm looking forward the Ceremony. "
 msgstr " Jeune mage : je cherche la Cérémonie."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:77
-#: Delfadors_Memoirs/scenarios/overture.cfg:83
-#: Delfadors_Memoirs/scenarios/overture.cfg:89
-#: Delfadors_Memoirs/scenarios/overture.cfg:95
-#: Delfadors_Memoirs/scenarios/overture.cfg:101
-#: Delfadors_Memoirs/scenarios/overture.cfg:107
+#: Delfadors_Memoirs/scenarios/overture.cfg:131
+#: Delfadors_Memoirs/scenarios/overture.cfg:159
+#: Delfadors_Memoirs/scenarios/overture.cfg:165
+#: Delfadors_Memoirs/scenarios/overture.cfg:171
+#: Delfadors_Memoirs/scenarios/overture.cfg:177
+#: Delfadors_Memoirs/scenarios/overture.cfg:183
 msgid " ...thorum restro targa thorum... "
 msgstr " ...thorum restro targa thorum... "
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:80
-msgid " Marshal: Come on, New Mage. Oracles are waiting for you."
+#: Delfadors_Memoirs/scenarios/overture.cfg:135
+#, fuzzy
+msgid "Come on, New Mage. Oracles are waiting for you."
 msgstr " Maréchal : Approchez, Nouveau Mage. Les oracles vous attendent."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:86
+#: Delfadors_Memoirs/scenarios/overture.cfg:162
 msgid ""
 " 1st oracle: The old times are passing. After centuries of peace the orcs "
 "will come. They are comming soon. The world will be changed. And you will be "
@@ -731,7 +732,7 @@ msgstr ""
 "délégué de notre confrérie de mages. Je vous donne la première partie de "
 "votre Nom. DEL"
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:92
+#: Delfadors_Memoirs/scenarios/overture.cfg:168
 msgid ""
 " 2nd oracle: And you will be famous. Very famous. You will be called great. "
 "I'm giving you the second part of your name. FA"
@@ -739,7 +740,7 @@ msgstr ""
 " 2e oracle : Et vous serez célèbre. Très célèbre. On vous appellera \"le "
 "Grand\". Je vous donne la deuxième partie de votre nom. FA"
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:98
+#: Delfadors_Memoirs/scenarios/overture.cfg:174
 msgid ""
 " 3rd oracle: Yes. The old times are over. But there will be our hope. There "
 "is always hope. And you will be the father of it. I agree with the second "
@@ -750,7 +751,7 @@ msgstr ""
 "d'accord avec la deuxième partie de votre nom. FA"
 
 # Faute de frappe : heard -> heart ?
-#: Delfadors_Memoirs/scenarios/overture.cfg:104
+#: Delfadors_Memoirs/scenarios/overture.cfg:180
 msgid ""
 " 4th oracle: And your heard will be clean such a water. Good and without "
 "fear. The same as the legendary Dacyn Orc Slayer. I'm giving you the last "
@@ -760,87 +761,56 @@ msgstr ""
 "comme le légendaire Dacyn Tueur d'Orcs. Je vous donne la dernière partie de "
 "votre nom. DOR"
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:110
-msgid " Marshal: Stand up, DELFADOR, and open your eyes. And open them again!"
+#: Delfadors_Memoirs/scenarios/overture.cfg:187
+#, fuzzy
+msgid "Stand up, DELFADOR, and open your eyes. And open them again!"
 msgstr ""
 " Maréchal : Debout, DELFADOR, et ouvrez les yeux. Et ouvrez-les encore !"
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:113
-msgid "."
-msgstr "."
-
-#: Delfadors_Memoirs/scenarios/overture.cfg:116
-msgid ".."
+#: Delfadors_Memoirs/scenarios/overture.cfg:192
+#, fuzzy
+msgid ". ."
 msgstr ".."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:119
-msgid "..."
-msgstr "..."
+#: Delfadors_Memoirs/scenarios/overture.cfg:196
+msgid "o o"
+msgstr ""
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:122
-msgid "...."
-msgstr "...."
+#: Delfadors_Memoirs/scenarios/overture.cfg:200
+msgid "O O"
+msgstr ""
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:125
-msgid "....."
-msgstr "....."
+#: Delfadors_Memoirs/scenarios/overture.cfg:204
+msgid "WHOW!"
+msgstr ""
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:128
-#: Delfadors_Memoirs/scenarios/overture.cfg:131
-msgid "......"
-msgstr "......"
+#: Delfadors_Memoirs/scenarios/overture.cfg:208
+msgid "And GO."
+msgstr ""
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:134
-msgid "......."
-msgstr "......."
-
-#: Delfadors_Memoirs/scenarios/overture.cfg:137
-msgid " Marshal: And GO."
-msgstr " Maréchal : Et ALLEZ."
-
-#: Delfadors_Memoirs/scenarios/overture.cfg:140
+#: Delfadors_Memoirs/scenarios/overture.cfg:212
 msgid "Now."
 msgstr "Maintenant."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:143
+#: Delfadors_Memoirs/scenarios/overture.cfg:216
 msgid "You should fullfil your journey. Methor will lead you."
 msgstr "Vous devriez accomplir votre voyage. Methor vous guidera."
 
 # Est-il nécessaire de préciser "sur terre" ?
-#: Delfadors_Memoirs/scenarios/overture.cfg:146
+#: Delfadors_Memoirs/scenarios/overture.cfg:221
 msgid ""
 "I'll be your master. The end of your journey will finish in land, southwest "
 "from Weldyn."
 msgstr ""
 "Je serai votre maître. Votre voyage prendra fin au sud-ouest de Weldyn."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:150
+#: Delfadors_Memoirs/scenarios/overture.cfg:225
 msgid "Dangerous journey will before us."
 msgstr "Un dangereux voyage nous attend."
 
-#: Delfadors_Memoirs/scenarios/overture.cfg:154
-msgid " ... "
-msgstr " ... "
-
-#: Delfadors_Memoirs/scenarios/overture.cfg:157
-msgid ""
-"After a while they arrived to the Methor's school, where the Delfador's "
-"Journy should finish. He did not intend it was the only beginning."
+#: Delfadors_Memoirs/scenarios/overture.cfg:229
+msgid "Let's go!"
 msgstr ""
-"Ils finirent par arriver à l'école de Methor, où le Voyage de Delfador "
-"devait finir. Il ne se doutait pas que ce n'était que le commencement."
-
-#: Delfadors_Memoirs/scenarios/overture.cfg:166
-msgid ""
-"Well DONE! We are here. It is my own mage academy. You can stay here to "
-"learn some other arts of magic."
-msgstr ""
-"BRAVO ! Nous y sommes. C'est ma propre académie de mage. Vous pouvez rester "
-"là autant que vous le voudrez pour apprendre d'autres arts de la magie."
-
-#: Delfadors_Memoirs/scenarios/overture.cfg:170
-msgid "Thank you very much!"
-msgstr "Merci beaucoup !"
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:3
 msgid "The Road to Weldyn"
@@ -1613,7 +1583,7 @@ msgstr ""
 msgid "Journeyman Mage"
 msgstr "Compagnon mage"
 
-#: Delfadors_Memoirs/units/Journeyman_Mage.cfg:20
+#: Delfadors_Memoirs/units/Journeyman_Mage.cfg:21
 msgid ""
 "A mage who has just finished his or her apprenticeship is known as a "
 "journeyman.  Journeyman mages travel far in search of employment and "
@@ -1627,12 +1597,12 @@ msgstr ""
 "\n"
 "Remarque :"
 
-#: Delfadors_Memoirs/units/Journeyman_Mage.cfg:25
+#: Delfadors_Memoirs/units/Journeyman_Mage.cfg:26
 msgid "missile"
 msgstr "projectile magique"
 
 #: Delfadors_Memoirs/units/Mage_Leader.cfg:49
-#: Delfadors_Memoirs/units/Journeyman_Mage.cfg:26
+#: Delfadors_Memoirs/units/Journeyman_Mage.cfg:27
 #: Delfadors_Memoirs/units/Mage_Commander.cfg:46
 msgid "fire"
 msgstr "feu"
@@ -1821,6 +1791,51 @@ msgstr "Bâton de pouvoir"
 #: Delfadors_Memoirs/utils/misc.cfg:37
 msgid "A secret passage... I wonder where it leads..."
 msgstr "Un passage secret... Je me demande où il mène..."
+
+#~ msgid "Grogor Tuk"
+#~ msgstr "Grogor Tuk"
+
+#~ msgid "."
+#~ msgstr "."
+
+#~ msgid "..."
+#~ msgstr "..."
+
+#~ msgid "...."
+#~ msgstr "...."
+
+#~ msgid "....."
+#~ msgstr "....."
+
+#~ msgid "......"
+#~ msgstr "......"
+
+#~ msgid "......."
+#~ msgstr "......."
+
+#~ msgid " Marshal: And GO."
+#~ msgstr " Maréchal : Et ALLEZ."
+
+#~ msgid " ... "
+#~ msgstr " ... "
+
+#~ msgid ""
+#~ "After a while they arrived to the Methor's school, where the Delfador's "
+#~ "Journy should finish. He did not intend it was the only beginning."
+#~ msgstr ""
+#~ "Ils finirent par arriver à l'école de Methor, où le Voyage de Delfador "
+#~ "devait finir. Il ne se doutait pas que ce n'était que le commencement."
+
+#~ msgid ""
+#~ "Well DONE! We are here. It is my own mage academy. You can stay here to "
+#~ "learn some other arts of magic."
+#~ msgstr ""
+#~ "BRAVO ! Nous y sommes. C'est ma propre académie de mage. Vous pouvez "
+#~ "rester là autant que vous le voudrez pour apprendre d'autres arts de la "
+#~ "magie."
+
+#~ msgid "Thank you very much!"
+#~ msgstr "Merci beaucoup !"
 
 #~ msgid "slow"
 #~ msgstr "ralentie"
