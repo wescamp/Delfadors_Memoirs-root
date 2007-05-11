@@ -1,5 +1,5 @@
 # translation of cs.po to Czech
-# Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2005, 2006.
+# Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2005, 2006, 2007.
 # Český překlad Delfador's Memoirs, tažení ke hře
 # Bitva o Wesnoth, http://www.wesnoth.org/
 # Czech translation of the Delfador's Memoirs,
@@ -11,14 +11,14 @@ msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-05-11 23:07+0200\n"
-"PO-Revision-Date: 2006-09-20 23:26+0200\n"
+"PO-Revision-Date: 2007-05-11 23:18+0200\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
-"Language-Team: Czech <wesnoth-cs-l@buchtovi.cz>\n"
+"Language-Team: Czech <wesnoth-cs-l@nospam.buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: KBabel 1.11.2\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: Delfadors_Memoirs.cfg:12
 msgid "Delfador's Memoirs"
@@ -74,8 +74,7 @@ msgstr ""
 "přišly ze severních krajů Wesnothu."
 
 #: Delfadors_Memoirs/scenarios/council_in_weldyn.cfg:99
-msgid ""
-"Ah, now the last of my council is here. Lionel, what tidings from the north?"
+msgid "Ah, now the last of my council is here. Lionel, what tidings from the north?"
 msgstr ""
 "Tak, konečně je má rada kompletní. Mluv, Lioneli, jaká poselství přinášíš ze "
 "Severu?"
@@ -255,10 +254,8 @@ msgid "That's impossible! You must be insane!"
 msgstr "Co je to za blud? Ty jsi zešílel!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:97
-msgid ""
-"Have not you yourself travelled between the realms of life and death? Behold!"
-msgstr ""
-"Cožpak tys sám necestoval mezi oběma světy, světem živých a mrtvých? Zři!"
+msgid "Have not you yourself travelled between the realms of life and death? Behold!"
+msgstr "Cožpak tys sám necestoval mezi oběma světy, světem živých a mrtvých? Zři!"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:146
 msgid ""
@@ -489,8 +486,7 @@ msgstr "Živý muž... tak jak Ihiah-Malal předpovídal..."
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:353
 msgid "Speak again, spirit! Tell me of yourself. Who is this Ihiah-Malal?"
-msgstr ""
-"Duchu, promluv ještě jednou! Řekni mi něco o sobě. A kdo je ten Ihiah Malal?"
+msgstr "Duchu, promluv ještě jednou! Řekni mi něco o sobě. A kdo je ten Ihiah Malal?"
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead_intro.cfg:357
 msgid ""
@@ -520,10 +516,8 @@ msgid "Leollyn"
 msgstr "Leollyn"
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:82
-msgid ""
-"Leollyn is slain! This is terrible... I had best give up and return home."
-msgstr ""
-"Leollyn byl zavražděn! To je strašné... Nejlepší bude, když se vrátím domů."
+msgid "Leollyn is slain! This is terrible... I had best give up and return home."
+msgstr "Leollyn byl zavražděn! To je strašné... Nejlepší bude, když se vrátím domů."
 
 #: Delfadors_Memoirs/scenarios/leollyn.cfg:95
 msgid "Defeat Hagha-Tan"
@@ -652,7 +646,7 @@ msgstr "Methor"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:37
 msgid "Marshal"
-msgstr ""
+msgstr "Ceremoniář"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:77
 msgid ""
@@ -709,9 +703,8 @@ msgid " ...thorum restro targa thorum... "
 msgstr " ...thorum restro targa thorum... "
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:135
-#, fuzzy
 msgid "Come on, New Mage. Oracles are waiting for you."
-msgstr " Ceremoniář: Přistup, Nový Mágu. Věštci Tě již očekávají."
+msgstr "Přistup, Nový Mágu. Věštci Tě již očekávají."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:162
 msgid ""
@@ -754,30 +747,28 @@ msgstr ""
 "Orků. Dávám Ti tedy třetí část Tvého Jména: DOR"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:187
-#, fuzzy
 msgid "Stand up, DELFADOR, and open your eyes. And open them again!"
-msgstr " Ceremoniář: Povstaň, DELFADORE, a otevři své oči. A otevři je znovu!"
+msgstr "Povstaň, DELFADORE, a otevři své oči. A otevři je znovu!"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:192
-#, fuzzy
 msgid ". ."
-msgstr ".."
+msgstr ". ."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:196
 msgid "o o"
-msgstr ""
+msgstr "o o"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:200
 msgid "O O"
-msgstr ""
+msgstr "O O"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:204
 msgid "WHOW!"
-msgstr ""
+msgstr "Žjóva!"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:208
 msgid "And GO."
-msgstr ""
+msgstr "A JDI"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:212
 msgid "Now."
@@ -791,8 +782,7 @@ msgstr "Vyprav se na svou Pouť. Methor Tě povede."
 msgid ""
 "I'll be your master. The end of your journey will finish in land, southwest "
 "from Weldyn."
-msgstr ""
-"Já budu Tvým průvodcem. Konec Pouti leží na pevnině, jihozápadně od Weldynu."
+msgstr "Já budu Tvým průvodcem. Konec Pouti leží na pevnině, jihozápadně od Weldynu."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:225
 msgid "Dangerous journey will before us."
@@ -800,7 +790,7 @@ msgstr "Nebezpečná Pouť leží před námi."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:229
 msgid "Let's go!"
-msgstr ""
+msgstr "Pojďme!"
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:3
 msgid "The Road to Weldyn"
@@ -842,10 +832,8 @@ msgstr ""
 "s nimi utkat."
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:147
-msgid ""
-"I cannot turn back now... If I fight these orcs, will your villagers help me?"
-msgstr ""
-"Nyní se nemohu vrátit. Pokud budu s nimi bojovat, pomohou mi vaši místní?"
+msgid "I cannot turn back now... If I fight these orcs, will your villagers help me?"
+msgstr "Nyní se nemohu vrátit. Pokud budu s nimi bojovat, pomohou mi vaši místní?"
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:152
 msgid ""
@@ -990,13 +978,11 @@ msgstr ""
 msgid ""
 "This place looks wild enough for me. Who made those villages in the swamps? "
 "Orcs?"
-msgstr ""
-"Toto místo mi připadá divoce až až. Kdo si postavil osady v bažinách? Skřeti?"
+msgstr "Toto místo mi připadá divoce až až. Kdo si postavil osady v bažinách? Skřeti?"
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:137
 msgid "No, men of Wesnoth... but those who live here are a lawless lot."
-msgstr ""
-"Nikoli. Lidé z Wesnothu... ale ponejvíce běženci, kteří utekli před zákonem."
+msgstr "Nikoli. Lidé z Wesnothu... ale ponejvíce běženci, kteří utekli před zákonem."
 
 #: Delfadors_Memoirs/scenarios/swamps_of_illuven.cfg:147
 msgid ""
@@ -1043,8 +1029,7 @@ msgid "This Valley Belongs to Me"
 msgstr "Toto údolí je MOJE"
 
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:55
-msgid ""
-"Delfador spent a long time in the Methor's academy. He learned many spells."
+msgid "Delfador spent a long time in the Methor's academy. He learned many spells."
 msgstr ""
 "Delfador strávil mnoho času na Methorově akademii. Mnohým kouzlům se zde "
 "naučil."
@@ -1071,7 +1056,7 @@ msgstr ""
 "Delfadore, čas Tvého učednictví je pomalu u konce. Už není, co bych ti dál "
 "mohl dát. Snad ještě RADU. Jsi plně vyučený Mág, a jako takový máš plné "
 "právo sám si zvolit svou vlastní cestu. Ale i pro tebe samotného i pro celý "
-"Wesboth bude nejlépe, když budeš užívat svou Sílu ve službách Krále Gararda. "
+"Wesnoth bude nejlépe, když budeš užívat svou Sílu ve službách Krále Gararda. "
 "Mám mnoho kontaktů u dvora a ..."
 
 #: Delfadors_Memoirs/scenarios/this_valley_belongs_to_me.cfg:86
@@ -1217,8 +1202,7 @@ msgstr "Člověk... mág... je to mrtvé?"
 
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:206
 msgid "Easy to find out... thump it and see if it wakes up!"
-msgstr ""
-"To se dá jednoduše zjistit... prašti to a uvidíme, jestli se to zvedne!"
+msgstr "To se dá jednoduše zjistit... prašti to a uvidíme, jestli se to zvedne!"
 
 #: Delfadors_Memoirs/scenarios/ur_thorodor.cfg:211
 msgid "THUMP!"
@@ -1512,7 +1496,7 @@ msgstr ""
 "Oto 'tapik' Buchta: překlad do češtiny\n"
 "blurgk: překlad do francouštiny\n"
 "David Philippi (torangan): překlad do němčiny\n"
-"RokStar: překlad do itelštiny\n"
+"RokStar: překlad do italštiny\n"
 "nikita: překlad do ruštiny\n"
 "Stefan Bergström (tephlon): překlad do švédštiny\n"
 
@@ -1696,8 +1680,7 @@ msgstr "Ne! Bez Lionelovy pomoci jsem mrtev."
 msgid ""
 "Chantal! No - you can't be dead! I have no hope of returning to Wesnoth "
 "now..."
-msgstr ""
-"Chantal, ne! Ty nemůžeš zemřít! ... Ztratil jsem naději vrátit se zpět domů."
+msgstr "Chantal, ne! Ty nemůžeš zemřít! ... Ztratil jsem naději vrátit se zpět domů."
 
 #: Delfadors_Memoirs/utils/generators.cfg:21
 msgid "I call upon all that is holy to break the power of this evil stone!"
@@ -1804,3 +1787,4 @@ msgstr "Tajná stezka... Zajímalo by mne, kam vede."
 
 #~ msgid "magical"
 #~ msgstr "magický"
+
