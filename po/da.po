@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-05-11 23:07+0200\n"
-"PO-Revision-Date: 2007-05-08 22:14+0200\n"
+"PO-Revision-Date: 2007-05-14 22:14+0200\n"
 "Last-Translator: Joe Hansen <joedalton2@yahoo.dk>\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "MIME-Version: 1.0\n"
@@ -648,7 +648,7 @@ msgstr "Methor"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:37
 msgid "Marshal"
-msgstr ""
+msgstr "Ceremonimester"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:77
 msgid ""
@@ -706,9 +706,8 @@ msgid " ...thorum restro targa thorum... "
 msgstr " ...thorum restro targa thorum... "
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:135
-#, fuzzy
 msgid "Come on, New Mage. Oracles are waiting for you."
-msgstr " Ceremonimester: Kom her nye troldmand. Oraklerne venter på dig."
+msgstr "Kom her nye troldmand. Oraklerne venter på dig."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:162
 msgid ""
@@ -750,31 +749,28 @@ msgstr ""
 "af dit navn. DOR"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:187
-#, fuzzy
 msgid "Stand up, DELFADOR, and open your eyes. And open them again!"
-msgstr ""
-" Ceremonimester: Rejs dig, DELFADOR, og åben dine øjne. Og åben dem igen!"
+msgstr "Rejs dig, DELFADOR, og åben dine øjne. Og åben dem igen!"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:192
-#, fuzzy
 msgid ". ."
-msgstr ".."
+msgstr ". ."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:196
 msgid "o o"
-msgstr ""
+msgstr "o o"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:200
 msgid "O O"
-msgstr ""
+msgstr "O O"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:204
 msgid "WHOW!"
-msgstr ""
+msgstr "VAUV!"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:208
 msgid "And GO."
-msgstr ""
+msgstr "Og Gå."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:212
 msgid "Now."
@@ -797,7 +793,7 @@ msgstr "En farlig rejse ligger foran os."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:229
 msgid "Let's go!"
-msgstr ""
+msgstr "Lad os tage afsted!"
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:3
 msgid "The Road to Weldyn"
@@ -1776,9 +1772,6 @@ msgstr "En hemmelig gang... Hvor mon den fører til..."
 
 #~ msgid " Marshal: And GO."
 #~ msgstr " Ceremonimester: Og GÅ"
-
-#~ msgid " ... "
-#~ msgstr " ... "
 
 #~ msgid ""
 #~ "After a while they arrived to the Methor's school, where the Delfador's "
