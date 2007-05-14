@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-05-11 23:07+0200\n"
-"PO-Revision-Date: 2007-02-09 15:52+0100\n"
+"PO-Revision-Date: 2007-05-14 12:58+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -652,7 +652,7 @@ msgstr "Methor"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:37
 msgid "Marshal"
-msgstr ""
+msgstr "Maresciallo"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:77
 msgid ""
@@ -710,9 +710,8 @@ msgid " ...thorum restro targa thorum... "
 msgstr " ...thorum restro targa thorum... "
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:135
-#, fuzzy
 msgid "Come on, New Mage. Oracles are waiting for you."
-msgstr "Maresciallo: Vieni avanti, nuovo mago. Gli oracoli ti attendono."
+msgstr "Vieni avanti, nuovo mago. Gli oracoli ti attendono."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:162
 msgid ""
@@ -755,30 +754,28 @@ msgstr ""
 "sillaba del tuo nome: DOR."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:187
-#, fuzzy
 msgid "Stand up, DELFADOR, and open your eyes. And open them again!"
-msgstr "Maresciallo: In piedi, DELFADOR, e apri gli occhi. E aprili di nuovo!"
+msgstr "In piedi, DELFADOR, e apri gli occhi. E aprili di nuovo!"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:192
-#, fuzzy
 msgid ". ."
-msgstr ".."
+msgstr ". ."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:196
 msgid "o o"
-msgstr ""
+msgstr "o o"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:200
 msgid "O O"
-msgstr ""
+msgstr "O O"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:204
 msgid "WHOW!"
-msgstr ""
+msgstr "Wow!"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:208
 msgid "And GO."
-msgstr ""
+msgstr "E via!"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:212
 msgid "Now."
@@ -802,7 +799,7 @@ msgstr "Viaggi perigliosi ci attendono."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:229
 msgid "Let's go!"
-msgstr ""
+msgstr "Andiamo"
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:3
 msgid "The Road to Weldyn"
