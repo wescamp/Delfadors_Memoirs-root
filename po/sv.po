@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-05-11 23:07+0200\n"
-"PO-Revision-Date: 2006-11-21 23:33+0100\n"
+"PO-Revision-Date: 2007-05-27 17:30+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -651,7 +651,7 @@ msgstr "Methor"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:37
 msgid "Marshal"
-msgstr ""
+msgstr "Överste"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:77
 msgid ""
@@ -708,9 +708,8 @@ msgid " ...thorum restro targa thorum... "
 msgstr " ...thorum restro targa thorum... "
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:135
-#, fuzzy
 msgid "Come on, New Mage. Oracles are waiting for you."
-msgstr " Överste: Kom, unge magiker. Oraklerna väntar på dig."
+msgstr "Kom, nye magiker. Oraklerna väntar på dig."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:162
 msgid ""
@@ -752,30 +751,28 @@ msgstr ""
 "delen av ditt namn. DOR."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:187
-#, fuzzy
 msgid "Stand up, DELFADOR, and open your eyes. And open them again!"
-msgstr " Överste: Stå upp, DELFADOR, och öppna dina ögon. Öppna dem igen!"
+msgstr " Stå upp, DELFADOR, och öppna dina ögon. Öppna dem igen!"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:192
-#, fuzzy
 msgid ". ."
-msgstr ".."
+msgstr ". ."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:196
 msgid "o o"
-msgstr ""
+msgstr "o o"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:200
 msgid "O O"
-msgstr ""
+msgstr "O O"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:204
 msgid "WHOW!"
-msgstr ""
+msgstr "WOW!"
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:208
 msgid "And GO."
-msgstr ""
+msgstr "Och GÅ."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:212
 msgid "Now."
@@ -797,7 +794,7 @@ msgstr "En farlig färd ligger framför oss."
 
 #: Delfadors_Memoirs/scenarios/overture.cfg:229
 msgid "Let's go!"
-msgstr ""
+msgstr "Nu går vi!"
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:3
 msgid "The Road to Weldyn"
@@ -1760,47 +1757,3 @@ msgstr "Kraftstav"
 #: Delfadors_Memoirs/utils/misc.cfg:37
 msgid "A secret passage... I wonder where it leads..."
 msgstr "En dold passage... Undrar vart den leder..."
-
-#~ msgid "Grogor Tuk"
-#~ msgstr "Grogor Tuk"
-
-#~ msgid "."
-#~ msgstr "."
-
-#~ msgid "..."
-#~ msgstr "..."
-
-#~ msgid "...."
-#~ msgstr "...."
-
-#~ msgid "....."
-#~ msgstr "....."
-
-#~ msgid "......"
-#~ msgstr "......"
-
-#~ msgid "......."
-#~ msgstr "......."
-
-#~ msgid " Marshal: And GO."
-#~ msgstr " Överste: Och GÅ."
-
-#~ msgid " ... "
-#~ msgstr " ... "
-
-#~ msgid ""
-#~ "After a while they arrived to the Methor's school, where the Delfador's "
-#~ "Journy should finish. He did not intend it was the only beginning."
-#~ msgstr ""
-#~ "Efter ett tag anlände de till Methors skola, där Delfadors resa skulle "
-#~ "sluta. "
-
-#~ msgid ""
-#~ "Well DONE! We are here. It is my own mage academy. You can stay here to "
-#~ "learn some other arts of magic."
-#~ msgstr ""
-#~ "Bra gjort! Då var vi framme. Detta är min egen akademi för magiker. Du "
-#~ "kan stanna här för att lära dig fler av magins aspekter."
-
-#~ msgid "Thank you very much!"
-#~ msgstr "Tack så mycket!"
