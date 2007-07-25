@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-05-11 23:07+0200\n"
-"PO-Revision-Date: 2007-06-27 23:24+0200\n"
+"PO-Revision-Date: 2007-07-25 18:00+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -815,7 +815,7 @@ msgstr "Fort Miryen"
 #: Delfadors_Memoirs/scenarios/wasteland.cfg:69
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:80
 msgid "Defeat enemy leader"
-msgstr "Besegra fiendeledaren"
+msgstr "Besegra fiendens ledare"
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:101
 msgid ""
