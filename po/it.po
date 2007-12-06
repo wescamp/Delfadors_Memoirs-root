@@ -2,14 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-05-11 23:07+0200\n"
-"PO-Revision-Date: 2007-05-14 12:58+0100\n"
+"POT-Creation-Date: 2007-12-07 00:01+0100\n"
+"PO-Revision-Date: 2007-12-02 17:45+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
-"Language-Team: none\n"
+"Language-Team: Italian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
 
 #: Delfadors_Memoirs.cfg:12
 msgid "Delfador's Memoirs"
@@ -259,7 +261,7 @@ msgid ""
 "Ihiah-Malal has created a portal to the land of the living! How I long to go "
 "through it and see the sun again..."
 msgstr ""
-"Ihiah-Malal ha aperto un portale per il mondo dei vivi!  Il mio desiderio di "
+"Ihiah-Malal ha aperto un portale per il mondo dei vivi! Il mio desiderio di "
 "attraversarlo per rivedere di nuovo il sole è così ardente..."
 
 #: Delfadors_Memoirs/scenarios/land_of_the_dead.cfg:151
@@ -872,7 +874,7 @@ msgid ""
 "in your debt."
 msgstr ""
 "Delfador, grazie per aver contribuito a liberare le nostre terre da quegli "
-"orribili orchi.  Siamo in debito nei tuoi confronti."
+"orribili orchi. Siamo in debito nei tuoi confronti."
 
 #: Delfadors_Memoirs/scenarios/road_to_weldyn.cfg:204
 msgid "I just wonder what orcs were doing inside the borders of Wesnoth..."
@@ -1506,8 +1508,8 @@ msgstr ""
 "Oto \"tapik\" Buchta: nuovo gestore (dalla 0.6.0), internazionalizzazione, "
 "miglioramenti e eliminazione dei bachi\n"
 " \n"
-"Arkadiusz D. Danilecki: molte cose sono state prese dalla sua campagna «A "
-"New Order»\n"
+"Arkadiusz D. Danilecki: molte cose sono state prese dalla sua campagna «A New "
+"Order»\n"
 "\n"
 "Sentiti ringraziamenti vanno a Torangan per la pazienza di spiegare come "
 "funziona il server delle campagne e a tutti gli altri del forum di Wesnoth.\n"
@@ -1577,23 +1579,9 @@ msgstr ""
 "\n"
 "Note speciali:"
 
-#: Delfadors_Memoirs/units/Journeyman_Mage.cfg:26
-msgid "missile"
-msgstr "proiettile"
-
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:49
-#: Delfadors_Memoirs/units/Journeyman_Mage.cfg:27
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:46
-msgid "fire"
-msgstr "fuoco"
-
 #: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:4
 msgid "King of Wesnoth"
 msgstr "Re di Wesnoth"
-
-#: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:8
-msgid "leadership"
-msgstr "comando"
 
 #: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:17
 msgid ""
@@ -1606,23 +1594,6 @@ msgstr ""
 "Lord gestiscono le sue proprietà con il suo consenso e devono pagargli un "
 "tributo. In cambio il re difende il reame contro gli invasori e in caso di "
 "bisogno ridistribuirà i beni tra i bisognosi."
-
-#: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:20
-msgid "sword"
-msgstr "spada"
-
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:29
-#: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:21
-msgid "blade"
-msgstr "lama"
-
-#: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:37
-msgid "bow"
-msgstr "arco"
-
-#: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:38
-msgid "pierce"
-msgstr "perfora"
 
 #: Delfadors_Memoirs/units/Mage_Commander.cfg:4
 msgid "Mage Commander"
@@ -1643,21 +1614,6 @@ msgstr ""
 "\n"
 "Note speciali:"
 
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:30
-msgid "staff"
-msgstr "bastone"
-
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:27
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:41
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:31
-msgid "impact"
-msgstr "impatto"
-
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:48
-#: Delfadors_Memoirs/units/Mage_Commander.cfg:45
-msgid "fireball"
-msgstr "palla di fuoco"
-
 #: Delfadors_Memoirs/units/Mage_Leader.cfg:4
 msgid "Mage Leader"
 msgstr "Mago condottiero"
@@ -1675,13 +1631,9 @@ msgstr ""
 "\n"
 "Note speciali:"
 
-#: Delfadors_Memoirs/units/Mage_Leader.cfg:27
-msgid "dagger"
-msgstr "pugnale"
-
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:4
 msgid "Wose Shaman"
-msgstr "Scamano wose"
+msgstr "Sciamano wose"
 
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:24
 msgid ""
@@ -1694,14 +1646,6 @@ msgstr ""
 "i rovi al fine di intrappolare i loro nemici.\n"
 "\n"
 "Note speciali:"
-
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:26
-msgid "crush"
-msgstr "impatto"
-
-#: Delfadors_Memoirs/units/Wose_Shaman.cfg:40
-msgid "entangle"
-msgstr "rallentare"
 
 #: Delfadors_Memoirs/utils/deaths.cfg:12
 msgid "No! So young..."
@@ -1770,6 +1714,45 @@ msgstr "Bastone del potere"
 #: Delfadors_Memoirs/utils/misc.cfg:37
 msgid "A secret passage... I wonder where it leads..."
 msgstr "Un passaggio segreto, chissà dove conduce..."
+
+#~ msgid "missile"
+#~ msgstr "proiettile"
+
+#~ msgid "fire"
+#~ msgstr "fuoco"
+
+#~ msgid "leadership"
+#~ msgstr "comando"
+
+#~ msgid "sword"
+#~ msgstr "spada"
+
+#~ msgid "blade"
+#~ msgstr "lama"
+
+#~ msgid "bow"
+#~ msgstr "arco"
+
+#~ msgid "pierce"
+#~ msgstr "perfora"
+
+#~ msgid "staff"
+#~ msgstr "bastone"
+
+#~ msgid "impact"
+#~ msgstr "impatto"
+
+#~ msgid "fireball"
+#~ msgstr "palla di fuoco"
+
+#~ msgid "dagger"
+#~ msgstr "pugnale"
+
+#~ msgid "crush"
+#~ msgstr "impatto"
+
+#~ msgid "entangle"
+#~ msgstr "rallentare"
 
 #~ msgid "Grogor Tuk"
 #~ msgstr "Grogor Tuk"
