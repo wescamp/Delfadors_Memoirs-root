@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-05-11 23:07+0200\n"
+"POT-Creation-Date: 2007-12-07 00:01+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -929,40 +929,12 @@ msgid ""
 "Special Notes:"
 msgstr ""
 
-#: ./Delfadors_Memoirs/units/Journeyman_Mage.cfg:26
-msgid "missile"
-msgstr ""
-
-#: ./Delfadors_Memoirs/units/Mage_Leader.cfg:49 ./Delfadors_Memoirs/units/Journeyman_Mage.cfg:27 ./Delfadors_Memoirs/units/Mage_Commander.cfg:46
-msgid "fire"
-msgstr ""
-
 #: ./Delfadors_Memoirs/units/King_of_Wesnoth.cfg:4
 msgid "King of Wesnoth"
 msgstr ""
 
-#: ./Delfadors_Memoirs/units/King_of_Wesnoth.cfg:8
-msgid "leadership"
-msgstr ""
-
 #: ./Delfadors_Memoirs/units/King_of_Wesnoth.cfg:17
 msgid "Under the feudal system, all authority ultimately rested with the sovereign. His lords held their property only with his agreement, and had to pay him tribute. In return, the king would defend the realm against invaders, and redistribute wealth in times of need."
-msgstr ""
-
-#: ./Delfadors_Memoirs/units/King_of_Wesnoth.cfg:20
-msgid "sword"
-msgstr ""
-
-#: ./Delfadors_Memoirs/units/Mage_Leader.cfg:29 ./Delfadors_Memoirs/units/King_of_Wesnoth.cfg:21
-msgid "blade"
-msgstr ""
-
-#: ./Delfadors_Memoirs/units/King_of_Wesnoth.cfg:37
-msgid "bow"
-msgstr ""
-
-#: ./Delfadors_Memoirs/units/King_of_Wesnoth.cfg:38
-msgid "pierce"
 msgstr ""
 
 #: ./Delfadors_Memoirs/units/Mage_Commander.cfg:4
@@ -976,18 +948,6 @@ msgid ""
 "Special Notes:"
 msgstr ""
 
-#: ./Delfadors_Memoirs/units/Mage_Commander.cfg:30
-msgid "staff"
-msgstr ""
-
-#: ./Delfadors_Memoirs/units/Wose_Shaman.cfg:27 ./Delfadors_Memoirs/units/Wose_Shaman.cfg:41 ./Delfadors_Memoirs/units/Mage_Commander.cfg:31
-msgid "impact"
-msgstr ""
-
-#: ./Delfadors_Memoirs/units/Mage_Leader.cfg:48 ./Delfadors_Memoirs/units/Mage_Commander.cfg:45
-msgid "fireball"
-msgstr ""
-
 #: ./Delfadors_Memoirs/units/Mage_Leader.cfg:4
 msgid "Mage Leader"
 msgstr ""
@@ -999,10 +959,6 @@ msgid ""
 "Special Notes:"
 msgstr ""
 
-#: ./Delfadors_Memoirs/units/Mage_Leader.cfg:27
-msgid "dagger"
-msgstr ""
-
 #: ./Delfadors_Memoirs/units/Wose_Shaman.cfg:4
 msgid "Wose Shaman"
 msgstr ""
@@ -1012,14 +968,6 @@ msgid ""
 "These woses are able to command forest plants such as vines and creepers to hinder their enemies.\n"
 "\n"
 "Special Notes:"
-msgstr ""
-
-#: ./Delfadors_Memoirs/units/Wose_Shaman.cfg:26
-msgid "crush"
-msgstr ""
-
-#: ./Delfadors_Memoirs/units/Wose_Shaman.cfg:40
-msgid "entangle"
 msgstr ""
 
 #: ./Delfadors_Memoirs/utils/deaths.cfg:12
