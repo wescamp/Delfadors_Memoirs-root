@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-02-02 13:36+0100\n"
+"POT-Creation-Date: 2008-03-13 20:42+0100\n"
 "PO-Revision-Date: 2007-05-11 23:18+0200\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@nospam.buchtovi.cz>\n"
@@ -20,23 +20,29 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: KBabel 1.11.4\n"
 
-#: Delfadors_Memoirs/_main.cfg:13
+#. campaign
+#. about
+#: Delfadors_Memoirs/_main.cfg:16 Delfadors_Memoirs/_main.cfg:33
 msgid "Delfador's Memoirs"
 msgstr "Delfadorovy Paměti"
 
-#: Delfadors_Memoirs/_main.cfg:20
+#. campaign
+#: Delfadors_Memoirs/_main.cfg:23
 msgid "Apprentice=(easiest)"
 msgstr "Čarodějův učeň (nejlehčí)"
 
-#: Delfadors_Memoirs/_main.cfg:21
+#. campaign
+#: Delfadors_Memoirs/_main.cfg:24
 msgid "Mage"
 msgstr "Mág"
 
-#: Delfadors_Memoirs/_main.cfg:22
+#. campaign
+#: Delfadors_Memoirs/_main.cfg:25
 msgid "Great Mage=(hardest)"
 msgstr "Velký mág (nejtěžší)"
 
-#: Delfadors_Memoirs/_main.cfg:26
+#. campaign
+#: Delfadors_Memoirs/_main.cfg:29
 #, fuzzy
 msgid ""
 "Wesnoth seems to be slipping inexorably into chaos, as marauding orcs pour "
@@ -51,10 +57,47 @@ msgstr ""
 "stvůry se procházejí nocí. Kdo je záhadný Ihiah-Malal? Dokážeš jej zastavit "
 "dřív, než zničí vše živé ve Wesnothu?"
 
+#. about
+#: Delfadors_Memoirs/_main.cfg:36
+msgid "Campaign Designers"
+msgstr ""
+
+#. about
+#: Delfadors_Memoirs/_main.cfg:37
+msgid "Josh Parsons"
+msgstr ""
+
+#. about
+#: Delfadors_Memoirs/_main.cfg:38 Delfadors_Memoirs/_main.cfg:42
+msgid "Oto 'tapik' Buchta"
+msgstr ""
+
+#. about
+#: Delfadors_Memoirs/_main.cfg:38 Delfadors_Memoirs/_main.cfg:46
+msgid "Eric S. Raymond (ESR)"
+msgstr ""
+
+#. about
+#: Delfadors_Memoirs/_main.cfg:41
+msgid "Current Maintainer"
+msgstr ""
+
+#. about
+#: Delfadors_Memoirs/_main.cfg:45
+msgid "Adaptation for 1.3.x, prose fixes"
+msgstr ""
+
+#. scenario
 #: Delfadors_Memoirs/scenarios/01_overture.cfg:3
 msgid "Overture"
 msgstr "Předehra"
 
+#. side: type=Journeyman Mage
+#. side: type=Mage Leader
+#. side: type=White Mage
+#. side: type=Mage
+#. filter
+#. side: type=Mage Commander
 #: Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:18
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:150
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:16
@@ -70,10 +113,12 @@ msgstr "Předehra"
 msgid "Delfador"
 msgstr "Delfador"
 
+#. side: type=Mage of Light
 #: Delfadors_Memoirs/scenarios/01_overture.cfg:29
 msgid "Marshal"
 msgstr "Ceremoniář"
 
+#. part
 #: Delfadors_Memoirs/scenarios/01_overture.cfg:46
 msgid ""
 "This is the true story of Delfador the Great from his humble beginnings; the "
@@ -85,6 +130,7 @@ msgstr ""
 "stvořením, které kdy chodilo po pláních Wesnothu. Byl by to skvělý hrdinský "
 "epos, kdyby se to skutečně nestalo."
 
+#. part
 #: Delfadors_Memoirs/scenarios/01_overture.cfg:49
 msgid ""
 "It begins on the Isle of Alduin, at the Academy which trains mages from "
@@ -93,6 +139,7 @@ msgstr ""
 "Příběh začíná na Ostrově Alduin, na Akademii kde se učí mágové z celého "
 "kontinentu."
 
+#. part
 #: Delfadors_Memoirs/scenarios/01_overture.cfg:52
 msgid ""
 "After ten years of training, two tests stand between that apprentice and "
@@ -101,41 +148,49 @@ msgstr ""
 "Po deseti letech studia dělí učedníky před udělením titulu Mág dvě poslední "
 "zkoušky:"
 
+#. part
 #: Delfadors_Memoirs/scenarios/01_overture.cfg:55
 msgid " The New Mage Ceremony"
 msgstr " Obřad Nového Mága"
 
+#. part
 #: Delfadors_Memoirs/scenarios/01_overture.cfg:58
 msgid " and"
 msgstr " a"
 
+#. part
 #: Delfadors_Memoirs/scenarios/01_overture.cfg:61
 msgid " The Name Journey"
 msgstr "Pouť Nového Jména"
 
+#. unit: type=Mage of Light
 #: Delfadors_Memoirs/scenarios/01_overture.cfg:70
 msgid "Methor"
 msgstr "Methor"
 
+#. message: speaker=narrator
 #: Delfadors_Memoirs/scenarios/01_overture.cfg:90
 #, fuzzy
 msgid "Academy of Magic, Isle of Alduin."
 msgstr "Kouzelnická škola Světla, ostrov Alduin"
 
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:94
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:122
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:130
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:138
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:146
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:154
+#. message: speaker=narrator
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:95
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:124
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:133
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:142
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:151
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:160
 msgid " ...thorum restro targa thorum... "
 msgstr " ...thorum restro targa thorum... "
 
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:98
+#. message: speaker=Marshal
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:100
 msgid "Come, O aspirant. The Oracles await you."
 msgstr "Přistup, čekateli. Věštci Tě již očekávají."
 
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:126
+#. message: speaker=First Oracle
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:129
 msgid ""
 "The time of peace is passing. Chaos is rising; evil is rooted in the land's "
 "very heart. Darkness is coming soon. The world will be changed. And you will "
@@ -146,7 +201,8 @@ msgstr ""
 "přicházejí. Svět bude změněn. A Ty budeš v těch zlých časech delegátem, "
 "vyslancem našeho bratrstva mágů. Dávám Ti tedy první část Tvého Jména. DEL"
 
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:134
+#. message: speaker=Second Oracle
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:138
 msgid ""
 "You will not be least among those champions. Nay; you will be called 'The "
 "Great' before your days are through. I give you the second syllable of "
@@ -155,7 +211,8 @@ msgstr ""
 "Druhý věštec: A staneš se famózním. A to jak do slávy, tak schopností. "
 "Velikým Tě budou nazývat. Dávám Ti tedy druhou část Tvého Jména: FA"
 
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:142
+#. message: speaker=Third Oracle
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:147
 msgid ""
 "Yes. Peace is broken, but hope is not extinguished. There is always hope. "
 "And you will be the father of it. I call the power of the Bright Gods into "
@@ -165,71 +222,90 @@ msgstr ""
 "budeš jejím hlavním faktorem. Vkládám moc všech sil Světla do druhé části "
 "Tvého Jména. FA"
 
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:150
+#. message: speaker=Fourth Oracle
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:156
+#, fuzzy
 msgid ""
-"After the battle, peace.  After the darkness, dawn. From death springs new "
+"After the battle, peace. After the darkness, dawn. From death springs new "
 "life. I give you the last part of your name, the final syllable of power. DOR"
 msgstr ""
 "Po válce přichází mír. Po temnotě úsvit. Ze smrti zrodí se nový život. Dávám "
 "Ti poslední část Tvého Jména: DOR"
 
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:158
+#. message: speaker=Marshal
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:165
 msgid "DELFADOR, open your eyes. And open them again!"
 msgstr "DELFADORE, otevři své oči. A otevři je znovu!"
 
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:163
+#. message: speaker=Delfador
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:170
 msgid ". ."
 msgstr ". ."
 
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:167
+#. message: speaker=Delfador
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:174
 msgid "o o"
 msgstr "o o"
 
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:171
+#. message: speaker=Delfador
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:178
 msgid "O O"
 msgstr "O O"
 
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:175
+#. message: speaker=Delfador
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:182
 msgid "The light fills me!"
 msgstr "Světlo do mne vstoupilo!"
 
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:179
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:183
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:187
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:191
+#. message: speaker=First Oracle
+#. message: speaker=Second Oracle
+#. message: speaker=Third Oracle
+#. message: speaker=Fourth Oracle
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:186
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:190
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:194
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:198
 msgid "It is well."
 msgstr "To je dobře."
 
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:195
+#. message: speaker=Marshal
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:202
 msgid "Now. go forth!"
 msgstr "A nyní vpřed!"
 
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:199
+#. message: speaker=Marshal
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:206
 msgid "Your name journey begins. Methor will lead you from this place."
 msgstr "Pouť Tvého Jména právě začala. Methor Tě povede."
 
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:223
+#. message: speaker=Methor
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:230
 msgid "But I will not see you to its end, for that is yours alone."
 msgstr "Ale nikoli až do konce, ten si musíš najít sám."
 
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:227
+#. message: speaker=Methor
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:234
 msgid ""
 "Dangers and trials await us. When you have truly claimed the name you have "
 "been given, I will depart."
 msgstr ""
 
-#: Delfadors_Memoirs/scenarios/01_overture.cfg:231
+#. message: speaker=Delfador
+#: Delfadors_Memoirs/scenarios/01_overture.cfg:238
 msgid "Let's go!"
 msgstr "Pojďme!"
 
+#. scenario
 #: Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:3
 msgid "This Valley Belongs to Me"
 msgstr "Toto údolí je MOJE"
 
+#. part
 #: Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:46
+#, fuzzy
 msgid ""
 "Delfador's wandering time with Methor took them to many strange places, both "
-"within and beyond the lands of men.  They studied and practiced, applying "
+"within and beyond the lands of men. They studied and practiced, applying "
 "magecraft to aid those they travelled among and to deepen their "
 "understanding of the hidden currents and powers of the world."
 msgstr ""
@@ -238,21 +314,24 @@ msgstr ""
 "nástroj ku pomoci těm, mezi kterými putovali a k rozšíření poznání skrytých "
 "mocností světa."
 
+#. part
 #: Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:49
 msgid ""
 "But the elder mage's health was taxed by the rigors of the journey. A year "
 "after the two left Alduin, Methor settled in a tranquil valley not far "
-"southwest of the capitol at Weldyn.  He opened a small school of his own, "
-"and with Delfador assisting him he began training a handful of youths who "
-"might in time be worthy to enter the great Academy on Alduin."
+"southwest of the capitol at Weldyn. He opened a small school of his own, and "
+"with Delfador assisting him he began training a handful of youths who might "
+"in time be worthy to enter the great Academy on Alduin."
 msgstr ""
 
+#. message: speaker=Methor
 #: Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:63
+#, fuzzy
 msgid ""
-"Delfador, your time as my apprentice is now almost over.  You are a fully "
-"trained mage, and may choose your own path in life.  I hope however, that "
-"you will take my advice, and enroll yourself in the service of King Garard.  "
-"I have many contacts at the court and..."
+"Delfador, your time as my apprentice is now almost over. You are a fully "
+"trained mage, and may choose your own path in life. I hope however, that you "
+"will take my advice, and enroll yourself in the service of King Garard. I "
+"have many contacts at the court and..."
 msgstr ""
 "Delfadore, čas Tvého učednictví je pomalu u konce. Už není, co bych ti dál "
 "mohl dát. Snad ještě RADU. Jsi plně vyučený Mág, a jako takový máš plné "
@@ -260,6 +339,7 @@ msgstr ""
 "Wesnoth bude nejlépe, když budeš užívat svou Sílu ve službách Krále Gararda. "
 "Mám mnoho kontaktů u dvora a ..."
 
+#. message: speaker=Grogor Tuk
 #: Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:67
 msgid ""
 "Listen, humans! This valley belongs to me now. I require all your houses and "
@@ -270,12 +350,14 @@ msgstr ""
 "máte! V klidu se vzdejte a můžete mi sloužit. Udělám z vás své otroky. "
 "Jinak..."
 
+#. message: speaker=Methor
 #: Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:71
 msgid ""
 "Arrogant creature! We have little enough, and we will not suffer you to take "
 "it from us by force."
 msgstr "Arogantní stvůro! Nejsi schopen nám silou vzít ani to málo, co máme!"
 
+#. message: speaker=Grogor Tuk
 #: Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:75
 msgid ""
 "That's where you are wrong, puny mage. War is coming, humans... War! Take "
@@ -284,10 +366,12 @@ msgstr ""
 "To ti venca písk, starý brachu! Válka se valí, lidský červe... Válka! Zničí "
 "všechny vesnice a neušetří žádného!"
 
+#. objective: condition=win
 #: Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:84
 msgid "Defeat Grogor Tuk"
 msgstr "Poraz Grogor Tuka"
 
+#. objective: condition=lose
 #: Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:88
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:228
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:75
@@ -300,6 +384,7 @@ msgstr "Poraz Grogor Tuka"
 msgid "Death of Delfador"
 msgstr "Delfador zemře"
 
+#. objective: condition=lose
 #: Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:92
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:232
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:83
@@ -311,22 +396,27 @@ msgstr "Delfador zemře"
 msgid "Time runs out"
 msgstr "Čas vyprší"
 
+#. message: speaker=unit
 #: Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:107
 msgid "Grooar! Burn! Burn! Ahahaha..."
 msgstr "Grooar! Pálit! Pálit! Ahahaha..."
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:118
 msgid "No! Methor... Don't die!"
 msgstr "Ne! Methore... Ty nesmíš zemřít!"
 
+#. message: speaker=unit
 #: Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:122
+#, fuzzy
 msgid ""
-"Heed my last words, Delfador!  Journey northeast to Weldyn, and seek out my "
-"friend Leollyn.  He will help you."
+"Heed my last words, Delfador! Journey northeast to Weldyn, and seek out my "
+"friend Leollyn. He will help you."
 msgstr ""
 "Slyš má poslední slova, Delfadore! Jdi na severovýchod do Weldynu. Hledej "
 "tam mého přítele Leollyna. Ten ti jistě pomuže."
 
+#. message: speaker=Methor
 #: Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:140
 msgid ""
 "Well done, Delfador! I see I have trained you well, and you are truly ready "
@@ -337,39 +427,48 @@ msgstr ""
 "připraven hledat své štěstí. Cestuj na severovýchod, do Weldynu. Hledej mého "
 "přítele Leollyna, ten ti pomůže."
 
-#: Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:148
+#. message
+#: Delfadors_Memoirs/scenarios/02_this_valley_belongs_to_me.cfg:149
+#, fuzzy
 msgid ""
-"I will grieve for master Methor...  I must take his advice and seek out "
+"I will grieve for master Methor... I must take his advice and seek out "
 "Leollyn."
 msgstr ""
 "Ubohý Mistře Methore... nyní je Tvá škola v ruinách. Navíc zde nemohu zůstat "
 "a znovu ji otevřít - jsem mu povinován jít a vyhledat Leollyna."
 
+#. scenario
 #: Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:3
 msgid "The Road to Weldyn"
 msgstr "Cesta do Weldynu"
 
+#. side: type=Orcish Warrior
 #: Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:27
 msgid "Urthaka-Tan"
 msgstr ""
 
+#. label
 #: Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:59
 msgid "The Great Valley"
 msgstr "Velké Údolí"
 
+#. label
 #: Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:64
 msgid "Fort Brell"
 msgstr "Pevnost Brell"
 
+#. label
 #: Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:69
 msgid "Fort Miryen"
 msgstr "Pevnost Miryen"
 
+#. objective: condition=win
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:71
 #: Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:77
 msgid "Defeat enemy leader"
 msgstr "Poraz vůdce nepřátel"
 
+#. message: speaker=narrator
 #: Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:98
 msgid ""
 "Delfador followed Methor's advice, and headed over the hills towards Weldyn. "
@@ -378,38 +477,47 @@ msgstr ""
 "Delfador se řídil Methorovou radou a vydal se přes hory k Weldynu. Ale cesty "
 "byly nebezpečnější než předpokládal..."
 
+#. message: speaker=Henry
 #: Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:140
+#, fuzzy
 msgid ""
-"Greetings, stranger!  I come to warn you - a party of orcs have moved into "
-"the Great Valley to the north, and have been raiding the lands around.  If "
+"Greetings, stranger! I come to warn you - a party of orcs have moved into "
+"the Great Valley to the north, and have been raiding the lands around. If "
 "you press on west, you will have to fight them."
 msgstr ""
 "Vítej, cizinče! Přicházím, abych tě varoval - tlupa skřetů se usadila na "
 "sever od Velkého Údolí a drancuje země kolem. Pokud chceš na západ, musíš se "
 "s nimi utkat."
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:145
 msgid ""
 "I cannot turn back now... If I fight these orcs, will your villagers help me?"
 msgstr ""
 "Nyní se nemohu vrátit. Pokud budu s nimi bojovat, pomohou mi vaši místní?"
 
+#. message: speaker=Henry
 #: Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:150
+#, fuzzy
 msgid ""
-"Certainly!  You'll be glad of our help too - this region trains the best "
+"Certainly! You'll be glad of our help too - this region trains the best "
 "bowmen in Wesnoth."
 msgstr ""
 "Zajisté! A i my přiložíme pomocnou ruku. Vždyť z tohoto kraje pocházejí ti "
 "nejlepší lučištníci z celého Wesnothu!"
 
+#. message: speaker=unit
 #: Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:165
 msgid "Take this, you slimy invader!"
 msgstr "Ochutnej toto, slizký červe!"
 
+#. message: role=bowman_advisor
 #: Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:181
-msgid "Beware!  Night is falling - that's when the orcs tend to attack!"
+#, fuzzy
+msgid "Beware! Night is falling - that's when the orcs tend to attack!"
 msgstr "Pozor! Padá noc - v tento čas začnou skřeti útočit!"
 
+#. message: role=bowman_advisor
 #: Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:197
 msgid ""
 "Thank you, Delfador, for helping to rid our land of those nasty orcs. We are "
@@ -418,12 +526,14 @@ msgstr ""
 "Děkuji Ti, Delfadore, že jsi nám pomohl očistit naši zemi od nečistých "
 "skřetů. Jsme Ti velmi zavázáni."
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:202
 msgid "I just wonder what orcs were doing inside the borders of Wesnoth..."
 msgstr ""
 "Mne by jenom zajímalo, co dělají skřeti tak hluboko v našem krásném "
 "Wesnothu..."
 
+#. message: role=bowman_advisor
 #: Delfadors_Memoirs/scenarios/03_road_to_weldyn.cfg:207
 msgid ""
 "Perhaps some of us had better go with you as far as Weldyn. These lands are "
@@ -434,33 +544,41 @@ msgstr ""
 "Tyto kraje již nejsou bezpečné pro samotného poutníka a my se možná dovíme, "
 "co přivedlo skřety až tak daleko na jih."
 
+#. side: type=Arch Mage
+#. scenario
+#. unit: type=Arch Mage
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:3
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:51
 #: Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:58
 msgid "Leollyn"
 msgstr "Leollyn"
 
+#. side: type=Orcish Slayer
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:27
 #, fuzzy
 msgid "Hagha-Tan"
 msgstr "Poraz Hagha-Tana"
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:81
 msgid ""
 "Leollyn is slain! This is terrible... I had best give up and return home."
 msgstr ""
 "Leollyn byl zavražděn! To je strašné... Nejlepší bude, když se vrátím domů."
 
+#. objective: condition=win
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:93
 msgid "Defeat Hagha-Tan"
 msgstr "Poraz Hagha-Tana"
 
+#. objective: condition=lose
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:101
 #: Delfadors_Memoirs/scenarios/07_swamp_fortress.cfg:100
 #: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:114
 msgid "Death of Leollyn"
 msgstr "Leollyn zemře"
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:125
 msgid ""
 "Methor told me that I could find Leollyn in his tower in the Royal Forest "
@@ -469,14 +587,17 @@ msgstr ""
 "Methor mi říkal, že bych měl najít Leollyna v jeho věži, v Královském Lese "
 "poblíž města. Tady někde by to mělo být..."
 
+#. message: speaker=Hagha-Tan
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:129
 msgid "Ah, another human is approaching... yes... more meat for my war-band..."
 msgstr "Hele, další lidský červ se objevil... paráda, další maso pro tlupu."
 
+#. message: speaker=Leollyn
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:133
 msgid "Here, my young friend, to the west! Hurry, we are besieged!"
 msgstr "Tudy, můj mladý příteli, na západ! Pospěšme si, jsme obklíčeni!"
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:137
 msgid ""
 "Don't worry, Leollyn, my friends and I will deal with this barbarian for "
@@ -486,6 +607,7 @@ msgstr ""
 "Neboj se, Leollyne, mí přátelé a já se postaráme o ty barbary. Jsou to naši "
 "staří známí, nečekám nějaké velké potíže."
 
+#. message: speaker=Leollyn
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:141
 msgid ""
 "Then you have not heard... but there will be time enough for talking. If you "
@@ -494,30 +616,37 @@ msgstr ""
 "Tak ty jsi neslyšel... ale není čas na dlouhé povídání. Pokud dokážeš "
 "odlákat ty stvůry, připravím protiútok."
 
+#. message: speaker=Hagha-Tan
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:158
 msgid "Yes... yes... slay them, my assassins!"
 msgstr "Áno.. výborně... mučte je, zabte je, vy moji vrahouškové, drahouškové."
 
+#. message: speaker=second_unit
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:162
 msgid "Uh oh... I don't like the look of this..."
 msgstr "Tfuj... to je hnus, jeho pohled se mi vůbec nelíbí..."
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:176
 msgid "I've told you, I can't see any reason not to go after them!"
 msgstr "Říkal jsem ti, že nevidím žádný problém v tom je porazit!"
 
+#. message: speaker=Leollyn
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:180
 msgid "You are a brave man, young friend."
 msgstr "Skvělé... Jste opravdu udatní, mladý příteli."
 
+#. message: speaker=Leollyn
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:194
 msgid "I've told you, all of you have to be extra carefull!"
 msgstr "Upozorňoval jsem vás, abyste byli velmi opatrní!"
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:198
 msgid "Kill them all! For our murdered friend."
 msgstr "Pobijte je všechny! Za našeho zavražděného přítele!"
 
+#. message: speaker=Leollyn
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:209
 msgid ""
 "Well now, you certainly showed up in the nick of time. A fellow mage, too, I "
@@ -526,6 +655,7 @@ msgstr ""
 "Dobře, tak, objevili ses v pravý čas. A kolega mág, též. Promiň, ale jak že "
 "jsi říkal, že se jmenuješ?"
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:219
 msgid ""
 "Delfador, sir. Actually, I was looking for you - you see, I am a student of "
@@ -534,6 +664,7 @@ msgstr ""
 "Delfador, pane. Víte, hledal jsem vás. Jsem Methorův student. Řekl mi, že "
 "bych si měl najít nějaké uplatnění ve Weldynu."
 
+#. message: speaker=Leollyn
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:223
 msgid ""
 "Ah, one of Methor's, eh? Good, good... Well, old Garard certainly needs all "
@@ -543,10 +674,12 @@ msgstr ""
 "Garard potřebuje každé ruce, které jsou k mání. A hlavně ty, které ovládají "
 "magii!"
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:229
 msgid "Delfador, sir. But I bring you bad news... Methor, my teacher, is dead."
 msgstr "Delfador, pane. Ale nesu zlé zprávy... Methor, můj učitel, je mrtev."
 
+#. message: speaker=Leollyn
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:233
 msgid ""
 "That is grave indeed... these are dark times. I think you had best return "
@@ -556,10 +689,12 @@ msgstr ""
 "se se mnou vrátíš do Weldynu. Také starý Garard si musí vyslechnout tuto "
 "temnou novinu."
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:239
 msgid "Is that Garard, King of Wesnoth, you refer to?!"
 msgstr "Myslíš Gararda, Krále Wesnothu?"
 
+#. message: speaker=Leollyn
 #: Delfadors_Memoirs/scenarios/04_leollyn.cfg:243
 msgid ""
 "Of course - do you know any other kings of that name? I am one of his "
@@ -568,14 +703,22 @@ msgstr ""
 "Samozřejmě, koho jiného. Jsem jedním z jeho rádců. Ale myslím, že se stejně, "
 "bohužel, nedrží příliš mých rad."
 
+#. scenario
 #: Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:3
 msgid "Council in Weldyn"
 msgstr "Porada ve Weldynu"
 
+#. side: type=King of Wesnoth
+#: Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:26
+msgid "Garard"
+msgstr ""
+
+#. unit: type=Cavalryman
 #: Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:66
 msgid "Gurcyn"
 msgstr ""
 
+#. message: speaker=narrator
 #: Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:74
 msgid ""
 "Delfador and Leollyn met no more opposition in returning to Weldyn. As they "
@@ -591,10 +734,12 @@ msgstr ""
 "Garard byl (alespoň to tak vypadalo), velmi znepokojen ze zpráv, které "
 "přišly ze severních krajů Wesnothu."
 
+#. unit: type=Lieutenant
 #: Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:93
 msgid "Lionel"
 msgstr ""
 
+#. message: speaker=Garard
 #: Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:101
 msgid ""
 "Ah, now the last of my council is here. Lionel, what tidings from the north?"
@@ -602,6 +747,7 @@ msgstr ""
 "Tak, konečně je má rada kompletní. Mluv, Lioneli, jaká poselství přinášíš ze "
 "Severu?"
 
+#. message: speaker=Lionel
 #: Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:105
 msgid ""
 "Bad news, my liege. The orcs mass in great numbers on the north shore of the "
@@ -618,6 +764,7 @@ msgstr ""
 "Byli jsme několirát napadeni bandity, a co horšího, dokonce i démony, kteří "
 "chodí nocí oděni do lidské podoby."
 
+#. message: speaker=Leollyn
 #: Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:110
 msgid ""
 "Worse news - the orcs are already here, Garard. I myself was set upon within "
@@ -626,6 +773,7 @@ msgstr ""
 "Je to ještě horší, Gararde, než si myslíš. Skřeti jsou již zde. Já sám jsem "
 "byl napaden v Královském Lese. Kdyby nebylo tady toho mladíka..."
 
+#. message: speaker=Garard
 #: Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:115
 msgid ""
 "Then there is no time to be lost! I shall ride to the Abez with an army. As "
@@ -642,6 +790,7 @@ msgstr ""
 "prastarý mír stojí na ramenou našich zbraní! Gurcyne, tys byl na západě. "
 "Pošlou nám Elfové ku pomoci své lučištníky?"
 
+#. message: speaker=Gurcyn
 #: Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:120
 msgid ""
 "The elves will not fight; they hate the orcs, but spoke darkly of human "
@@ -653,6 +802,7 @@ msgstr ""
 "Udělalo to na mne dojem, že buď něco vědí, nebo se nečeho neznámeho bojí. "
 "Leč nic z toho mi ani nenaznačili."
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:125
 msgid ""
 "Your majesty... may I join your army? I mean, I came to Weldyn to seek your "
@@ -662,6 +812,7 @@ msgstr ""
 "Weldynu, abych se nechal najmout do Vašich služeb. Pokud je zapotřebí "
 "lučištníků, nemohl by pomoci i mág?"
 
+#. message: speaker=Garard
 #: Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:130
 msgid ""
 "Ah, young Delfador... you speak well, and Leollyn has already told me of "
@@ -676,6 +827,7 @@ msgstr ""
 "při spravování Weldynu, dokud se nevrátím. Řiď se jeho příkazy jako by byly "
 "mými."
 
+#. message: speaker=Leollyn
 #: Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:162
 msgid ""
 "Delfador, I may have a task for you... Lionel's talk of evil night creatures "
@@ -695,6 +847,7 @@ msgstr ""
 "mohli by nám říci proč. Chtěl jsem podniknout tuto cestu osobně, ale musím "
 "zůstat zde ve Weldynu. Mohl bys jít místo mne?"
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:167
 msgid ""
 "I'm honoured that you would entrust me with such a task... but I too stay in "
@@ -703,6 +856,7 @@ msgstr ""
 "Jsem podstěn, že bys mi svěřil takový úkol, ale... musím na rozkaz Krále "
 "také zůstat ve Weldynu."
 
+#. message: speaker=Leollyn
 #: Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:172
 msgid ""
 "Hmmm... Garard placed you under my command, and I may command you to travel "
@@ -718,10 +872,12 @@ msgstr ""
 "mysli je povoleno se vrátit, kdežto tělu nikoli a nebylo by tedy pro Tebe "
 "cesty zpět."
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:177
 msgid "If that is how I may best serve, I will do it right willingly."
 msgstr ""
 
+#. message: speaker=Leollyn
 #: Delfadors_Memoirs/scenarios/05_council_in_weldyn.cfg:182
 msgid ""
 "Then you shall! Lionel and his men will accompany you, for you will need "
@@ -730,19 +886,24 @@ msgstr ""
 "Jdi tedy! Lionel a jeho muži Tě budou doprovázet, protože cestou budeš "
 "potřebovat ke své ochraně víc než jen magii."
 
+#. scenario
 #: Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:3
 msgid "The Swamps of Illuven"
 msgstr "Bažiny Illuvenu"
 
+#. side: type=Rogue
 #: Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:29
 msgid "Garrath"
 msgstr ""
 
+#. event
+#. side: type=Bandit
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:330
 #: Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:45
 msgid "Harold"
 msgstr "Harold"
 
+#. message: speaker=unit
 #: Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:90
 msgid ""
 "This chest contains all the money that rogue has taken from unwary "
@@ -751,14 +912,17 @@ msgstr ""
 "V té truhle jsou všechny poklady, které lupiči ukradli bezbranným "
 "cestovatelům."
 
+#. objective: condition=win
 #: Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:106
 msgid "Move Delfador to the signpost in the northeast"
 msgstr "Dojdi s Delfadorem ke směrovníku na severovýchodě"
 
+#. objective: condition=lose
 #: Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:114
 msgid "Death of Lionel"
 msgstr "Lionel zemře"
 
+#. message: speaker=Lionel
 #: Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:133
 msgid ""
 "Here the Great North Road turns west to avoid the swamps of Illuven. Our way "
@@ -769,6 +933,7 @@ msgstr ""
 "cíl leží na východě, na druhé straně bažin, a pak dál přes divočinu až na "
 "pobřeží."
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:137
 msgid ""
 "This place looks wild enough for me. Who made those villages in the swamps? "
@@ -776,11 +941,13 @@ msgid ""
 msgstr ""
 "Toto místo mi připadá divoce až až. Kdo si postavil osady v bažinách? Skřeti?"
 
+#. message: speaker=Lionel
 #: Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:141
 msgid "No, men of Wesnoth... but those who live here are a lawless lot."
 msgstr ""
 "Nikoli. Lidé z Wesnothu... ale ponejvíce běženci, kteří utekli před zákonem."
 
+#. message: speaker=Garrath
 #: Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:151
 msgid ""
 "Greetings, strangers! This swamp is dangerous... You wanna cross it, you'll "
@@ -789,42 +956,52 @@ msgstr ""
 "Vítejte, cizinci! Tyto bažiny jsou nebezpečné... esli chcete přejít, "
 "potřebujete ochranu - pro vás levně, $fee zlatých!"
 
+#. option: speaker=Garrath
 #: Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:153
 msgid "Thanks very much. Here's the gold..."
 msgstr "Z celého srdce děkuji. Tady je zlato..."
 
+#. message: speaker=Garrath
 #: Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:166
 msgid "It's been a pleasure doing business with you... Bye!"
 msgstr "Bylo mi potěšením s tebou obchodovat... Loučím se!"
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:183
 msgid "Where did he go?"
 msgstr "Kam šel?"
 
+#. message: speaker=Harold
 #: Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:187
 msgid "Haw haw haw! Suckers!"
 msgstr "Hahaha! Cucáci!"
 
+#. message: speaker=Lionel
 #: Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:191
 msgid "Well, at least we only have to deal with one of them now..."
 msgstr "Taky dobře. Alespoň je o jednoho méně."
 
+#. option: speaker=Garrath
 #: Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:201
 msgid "No thanks - we'll manage by ourselves..."
 msgstr "Ne, děkuji. Myslím, že to zvládneme sami..."
 
+#. message: speaker=Garrath
 #: Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:209
 msgid "You'll regret it!"
 msgstr "Tak za tohle šeredně zaplatíte!"
 
+#. message: speaker=Harold
 #: Delfadors_Memoirs/scenarios/06_swamps_of_illuven.cfg:213
 msgid "They certainly will! Haw haw haw!"
 msgstr "To teda zaplatí! Hahahá!"
 
+#. scenario
 #: Delfadors_Memoirs/scenarios/07_swamp_fortress.cfg:3
 msgid "Night in the Swamp"
 msgstr "Noc v bažině"
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/07_swamp_fortress.cfg:76
 msgid ""
 "I think that's all of them! Let's move on - the less time we spend in this "
@@ -833,14 +1010,17 @@ msgstr ""
 "Myslím, že už je po všem! Vyrazme tedy. Čím méně času strávíme v močálu tím "
 "lépe."
 
+#. objective: condition=win
 #: Delfadors_Memoirs/scenarios/07_swamp_fortress.cfg:92
 msgid "Survive 12 turns"
 msgstr "Přečkej 12 kol."
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/07_swamp_fortress.cfg:112
 msgid "These swamps seem to go on forever!"
 msgstr "Ty bažiny snad nemají konce!"
 
+#. message: speaker=Lionel
 #: Delfadors_Memoirs/scenarios/07_swamp_fortress.cfg:117
 msgid ""
 "One more day's travel, I think. We should camp for the night now - we should "
@@ -849,10 +1029,12 @@ msgstr ""
 "Myslím, že ještě jeden den cesty. Tady bychom se měli utábořit na noc. Zítra "
 "navečer bychom měli být z toho venku."
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/07_swamp_fortress.cfg:126
 msgid "Those standing stones - they summon evil creatures!"
 msgstr "To ty menhyry - to ony přivolávají ty pekelné stvůry!"
 
+#. message: speaker=Lionel
 #: Delfadors_Memoirs/scenarios/07_swamp_fortress.cfg:131
 msgid ""
 "I saw this kind of thing in the north... These abominations are not affected "
@@ -862,6 +1044,7 @@ msgstr ""
 "Už jsem ty věci viděl na severu... Mečem se nedají zahubit, ale bojí se "
 "slunečního jasu. Musíme si je držet od těla co nejdéle to půjde."
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/07_swamp_fortress.cfg:136
 msgid ""
 "Hmmm... if I could get nearer to the stones, I could perhaps break their "
@@ -870,18 +1053,22 @@ msgstr ""
 "Hmmmm... myslím, že pokud bych se dostal blíž k těm kamenům, mohl bych "
 "zlomit jejich moc."
 
+#. message: speaker=unit
 #: Delfadors_Memoirs/scenarios/07_swamp_fortress.cfg:152
 msgid "This'll splinter your bones, you vile monstrosity!"
 msgstr "Toto ti rozláme kosti, ty ohavné stvoření!"
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/07_swamp_fortress.cfg:166
 msgid "At least, morning is here... And the skeletons are disappearing!"
 msgstr "Konečně svítá! A kostlivci zmizeli!"
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/07_swamp_fortress.cfg:178
 msgid "At last, morning is here!"
 msgstr "Konečně, ráno je zase tady!"
 
+#. message: speaker=Lionel
 #: Delfadors_Memoirs/scenarios/07_swamp_fortress.cfg:185
 msgid ""
 "I hope I never see another night like that! Let's leave this evil place as "
@@ -890,20 +1077,23 @@ msgstr ""
 "Doufám, že již nikdy neprožiji takovou příšernou noc! Pojďme zḿtohoto zlého "
 "místa no nejrychleji pryč. Chci být z Illuvenu pryč ještě před setměním."
 
+#. scenario
 #: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:3
 msgid "Ur-thorodor"
 msgstr "Ur-thorodor"
 
+#. side: type=Ancient Wose
 #: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:30
-#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:140
 #, fuzzy
 msgid "Ur-Thorodor"
 msgstr "Ur-thorodor"
 
+#. side: type=Orcish Warrior
 #: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:48
 msgid "Tan-Garthak"
 msgstr ""
 
+#. message: speaker=Lionel
 #: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:70
 msgid ""
 "We have arrived. And there is the island Leollyn spoke of. But what are "
@@ -912,6 +1102,7 @@ msgstr ""
 "Tak jsme tady. A toto je ten ostrov, o kterém hovořil Leollyn. Ale co je to "
 "za divné stíny, které se pohybují mezi stromy?"
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:75
 msgid ""
 "I believe that they are woses - tree guardians. I have heard of them, but "
@@ -923,6 +1114,7 @@ msgstr ""
 "nebudou rádi, že jsme přišli. Musíme být opravdu hodně opatrní. Mají "
 "ukrutnou sílu."
 
+#. message: speaker=Ur-Thorodor
 #: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:80
 msgid ""
 "I am Ur-Thorodor, eldest of the forest. Who are you human-creatures? You may "
@@ -931,6 +1123,7 @@ msgstr ""
 "Jsem Ur-thorodor, nejstarší lesa. Kdo jste, lidská chásko? Přechod přes náš "
 "krásný ostrov je vám uzavřen!"
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:85
 msgid ""
 "Ur-Thorodor, please let us pass! We are on a vital mission for King Garard, "
@@ -939,6 +1132,7 @@ msgstr ""
 "Ur-thorodore, prosím, nech nás projít! Jsme na životně důležité misi Krále "
 "Gararda a v zájmu všeho živého, co obývá kraje Wesnothu."
 
+#. message: speaker=Ur-Thorodor
 #: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:90
 msgid ""
 "We care nothing for your kings, human-creatures. It is centuries since your "
@@ -949,6 +1143,7 @@ msgstr ""
 "tvého druhu a nyní kořeny a větve ničí poslední zbytky vašich prašivých "
 "kamenných staveb. Odejděte, nebo okusíte náš hněv. Domluvil jsem."
 
+#. message: speaker=Lionel
 #: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:95
 msgid ""
 "This Ur-Thorodor should not speak of King Garard that way! 'Suffer our "
@@ -957,6 +1152,7 @@ msgstr ""
 "Ten Ur-thorodor nebude takto mluvit o našem Králi! 'Okusíte náš hněv'! "
 "Zajisté. JÁ jim ukážu hněv!"
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:100
 msgid ""
 "It seems there is no alternative - we must get onto that island! Perhaps if "
@@ -966,19 +1162,24 @@ msgstr ""
 "Vypadá to, že nemáme jinou možnost - musíme na ostrov a do lesů. Doufám, že "
 "když se dostaneme Ur-thorodorovi blíž, a znovu s ním promluvím, pochopí nás-"
 
+#. objective: condition=win
 #: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:106
 msgid "Move Delfador to Ur-Thorodor's castle"
 msgstr "Dojdi s Delfadorem do hradu Ur-thorodora."
 
+#. objective: condition=lose
 #: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:118
 msgid "Death of Ur-Thorodor"
 msgstr "Ur-thorodor zemře"
 
-#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:141
-msgid "Hruuuarrgh!  The vile human-creatures hew at me..."
+#. message: speaker=Ur-Thorodor
+#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:140
+#, fuzzy
+msgid "Hruuuarrgh! The vile human-creatures hew at me..."
 msgstr "Hruuuarrgh!  Odporné lidské zrůdy se prosekaly až ke mně..."
 
-#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:146
+#. message: speaker=Delfador
+#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:145
 msgid ""
 "Ur-Thorodor, you must listen to us! A great evil power threatens all living "
 "things in Wesnoth - we must fight against it together, or all life here will "
@@ -987,11 +1188,13 @@ msgstr ""
 "Ur-thorodore, musíš nás vyslechnout! Velká zlá moc povstala proti všemu "
 "živému ve Wesnothu - my všichni se musíme proti ní spojit, jinak zahyneme."
 
-#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:151
+#. message: speaker=Ur-Thorodor
+#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:150
 msgid "I trust no humans! Drive them out, my children!"
 msgstr "Lidem se nedá věřit! Odstraňte je, mí rodní!"
 
-#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:163
+#. message: speaker=unit
+#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:162
 msgid ""
 "I am defeated... My children: hear my last words! Destroy the humans, and "
 "never let them set foot on our island again!"
@@ -999,7 +1202,8 @@ msgstr ""
 "Byl jsem poražen... Mí rodní: slyšte má poslední slova! Zničte tu lidskou "
 "chásku a již nikdy jim nedovolte vstoupit na náš ostrov!"
 
-#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:168
+#. message: speaker=Delfador
+#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:167
 msgid ""
 "This is hopeless! If carrying out my mission means killing these noble "
 "creatures, then I cannot continue."
@@ -1007,7 +1211,8 @@ msgstr ""
 "Je to beznadějné! Pokud bych měl splnit svoji mise jenom za cenu zabíjení "
 "těchto skvělých tvorů, tak ji tedy odmítám splnit!"
 
-#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:186
+#. message: speaker=Delfador
+#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:185
 msgid ""
 "Ur-Thorodor, listen to me! We are not here to take your island. If you will "
 "let just me remain here, then I promise you, on behalf of King Garard, that "
@@ -1020,11 +1225,13 @@ msgstr ""
 "Ty vydal svolení. Jako projev dobré vůle přikážu, aby se celá moje armáda "
 "vrátila zpět na pevninu."
 
-#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:191
+#. message: speaker=Lionel
+#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:190
 msgid "Are you sure that's wise?"
 msgstr "A jsi si jist, že je to moudré?"
 
-#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:196
+#. message: speaker=Delfador
+#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:195
 msgid ""
 "It's the only way! Lionel, lead our soldiers back to the mainland. I will "
 "rejoin you when I have carried out my mission, and determined what is amiss "
@@ -1033,7 +1240,8 @@ msgstr ""
 "Je to jediná cesta! Lioneli, odveď mé vojáky na pevninu. Připojím se k vám, "
 "až dokončím svou misi a zjistím, co je shnilého v Zemi Mrtvých."
 
-#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:211
+#. message: speaker=Ur-Thorodor
+#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:210
 msgid ""
 "I see I had misjudged you, human. You are not like those who came before. I "
 "accept your offer!"
@@ -1041,7 +1249,8 @@ msgstr ""
 "Překvapil jsi mne, člověče. Nejsi jako ti, kteří tu byli před Tebou. "
 "Přijímám Tvůj návrh!"
 
-#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:217
+#. message: speaker=narrator
+#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:216
 msgid ""
 "As the Wesnothians withdrew from the island, the woses melted away into the "
 "trees. Delfador began the meditation that would place him in contact with "
@@ -1053,60 +1262,75 @@ msgstr ""
 "spirituálním světem. Ale Entové nebyli jedinými tvory, kteří žili na tomto "
 "ostrově..."
 
-#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:228
+#. message: speaker=Delfador
+#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:227
 msgid "Ommmmmmm...."
 msgstr "Ommmmmmm...."
 
-#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:271
+#. message: speaker=Pruark
+#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:270
 msgid "A human mage... is it dead?"
 msgstr "Člověk... mág... je to mrtvé?"
 
-#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:277
+#. message: speaker=Gurbash
+#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:276
 msgid "Easy to find out... thump it and see if it wakes up!"
 msgstr ""
 "To se dá jednoduše zjistit... prašti to a uvidíme, jestli se to zvedne!"
 
-#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:282
+#. message: speaker=narrator
+#: Delfadors_Memoirs/scenarios/08_ur_thorodor.cfg:281
 msgid "THUMP!"
 msgstr "PRÁSK!"
 
+#. message: speaker={NAME}
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:55
 msgid "Do you serve Ihiah-Malal, living man?"
 msgstr "Sloužíš Ihiah-Malalovi, smrtelníče?"
 
+#. option: speaker={NAME}
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:57
 msgid "Yes, I serve him."
 msgstr "Ano, sloužím."
 
+#. message: speaker={NAME}
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:61
 msgid "Then you will not mind if we kill you! Hahahahah!"
 msgstr "Poté Ti nebude vadit, když Te zabiji! Hahahahaha!"
 
+#. option: speaker={NAME}
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:66
 msgid "No, I do not."
 msgstr "Ne, nesloužím."
 
+#. message: speaker={NAME}
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:70
 msgid "Then you will die forever!"
 msgstr "Tak zemřeš jednou provždy!"
 
+#. message: speaker={NAME}
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:101
 msgid "Ihiah-Malal commands your death!"
 msgstr "Ihiah-Malal nařídil tvou smrt!"
 
+#. message: speaker=Arakar
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:128
 msgid "Destroy the intruder, my minions!"
 msgstr "Zničte narušitele, mí věrní!"
 
+#. scenario
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:134
 msgid "Into the Land of the Dead"
 msgstr "Cesta do Země Mrtvých"
 
+#. unit: type=Ghost
+#. event
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:200
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:325
 msgid "Roland"
 msgstr "Roland"
 
+#. part
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:210
 #, fuzzy
 msgid ""
@@ -1123,20 +1347,24 @@ msgstr ""
 "ovládli celý Wesnoth a po mnoho věků by mu spokojeně vládli. Ale on pouze "
 "slezl ze svého vlka a praštil ho."
 
+#. part
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:213
 msgid ""
 "The blow interrupted Delfador's meditation. He beagan to fall to the earth, "
 "but before touching down vanished as though he had never been there at all."
 msgstr ""
 
+#. objective: condition=win
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:224
 msgid "Move Delfador to the signpost"
 msgstr "Dojdi s Delfadorem ke směrovníku"
 
+#. message
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:246
 msgid "Delfador opened his eyes and he recognize: he is ALONE in the DARK."
 msgstr ""
 
+#. message: speaker=Penny
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:264
 msgid ""
 "Do not fear me, Delfador. It is my doom to appear as you see me. I was a "
@@ -1149,6 +1377,7 @@ msgstr ""
 "mohl válčit v mnoha válkách... pak přišly povodně... a my umírali hlady. "
 "Ten, kdo chtěl přežít, musel jíst maso těch, kteří zemřeli."
 
+#. message: speaker=Roderick
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:275
 msgid ""
 "Have you encountered the skeletons? Their castle lies north of here. It is "
@@ -1159,10 +1388,12 @@ msgstr ""
 "tam dostat, ale vede tam tajná stezka. Vstup je v údolí blízko místa, kde "
 "bydlí Sydney."
 
+#. message: speaker=Nameless
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:282
 msgid "I died a long time ago. I have forgotten my name."
 msgstr "Zemřel jsem před mnoha lety. Už jsem zapomněl všechno, i své jméno."
 
+#. message: speaker=Melina
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:289
 msgid ""
 "Ihiah-Malal says that he can open a portal to the world of the living. Those "
@@ -1171,6 +1402,7 @@ msgstr ""
 "Ihiah-Malal říkal, že dokáže otevřít portál do světa živých. A ti, kteří jej "
 "budou následovat, se budou moci procházet po zemi, tak jako dřív."
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:293
 msgid ""
 "Why are the dead so restless? This should be a place of rest and peace for "
@@ -1179,6 +1411,7 @@ msgstr ""
 "Proč jste vy mrtví tak neklidní? Toto by mělo být místo jako stvořené pro "
 "váš klidný odpočinek."
 
+#. message: speaker=Melina
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:297
 msgid ""
 "Once, I was happy here, but Ihiah-Malal made me see this land as the eyes of "
@@ -1187,6 +1420,7 @@ msgstr ""
 "Kdysi jsem zde byla šťastná, ale Ihiah-Malal mi ukázal tuto zemi očima, "
 "jakými ji vidí živí... nic než kameny a písek."
 
+#. message: speaker=Sydney
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:304
 msgid ""
 "I was once a great lord... I commanded armies! Ihiah-Malal promised I would "
@@ -1195,6 +1429,7 @@ msgstr ""
 "Kdysi jsem byl velkým rytířem... Já velel celým armádám! Ihiah-Malal mi "
 "slíbil, že znovu budu velet."
 
+#. message: speaker=Harold
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:311
 msgid ""
 "Beware the skeletons! They are not the spirits of dead men, but the "
@@ -1203,10 +1438,12 @@ msgstr ""
 "Dej si pozor na kostlivce! To nejsou duše mrtvých, ale zrůdy stvořené "
 "ďábelskou magií!"
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:315
 msgid "What else do you know of the skeletons?"
 msgstr "Co ještě víš o kostlivcích?"
 
+#. message: speaker=Harold
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:319
 msgid ""
 "It is said that they guard a powerful magical artifact. Roderick knows more "
@@ -1215,26 +1452,32 @@ msgstr ""
 "Říká se, že stráží mocný magický artefakt. Roderick ví víc než já. Žije na "
 "západ odtud."
 
+#. event
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:326
 msgid "Penny"
 msgstr "Pěťák"
 
+#. event
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:327
 msgid "Roderick"
 msgstr "Roderik"
 
+#. event
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:328
 msgid "Nameless"
 msgstr "Někdo"
 
+#. event
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:329
 msgid "Sydney"
 msgstr "Sydney"
 
+#. event
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:331
 msgid "Melina"
 msgstr "Melina"
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:353
 msgid ""
 "This is surely the land of the dead... and it seems I am still alive. But "
@@ -1244,29 +1487,35 @@ msgstr ""
 "Ale, jak mne varoval Leollyn, není odtud návratu! Ale doufám, že se přeci "
 "jen nějaká cesta najde, až to tu důkladně prohledám."
 
+#. message: speaker=Roland
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:364
 msgid "A living man... so it is as Ihiah-Malal says..."
 msgstr "Živý muž... tak jak Ihiah-Malal předpovídal..."
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:368
 msgid "Speak again, spirit! Tell me of yourself. Who is this Ihiah-Malal?"
 msgstr ""
 "Duchu, promluv ještě jednou! Řekni mi něco o sobě. A kdo je ten Ihiah Malal?"
 
+#. message: speaker=Roland
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:372
+#, fuzzy
 msgid ""
 "My name is Roland. I died long ago, in a great battle... I have almost "
 "forgotten... Ihiah-Malal is a living man, like you, who walks among the "
-"dead.  He promises life to all those who follow him."
+"dead. He promises life to all those who follow him."
 msgstr ""
 "Mé jméno je Roland. Zemřel jsem před ... dávno, ve velké bitvé. Skoro "
 "všechno jsem už zapomněl... Ihiah Malal je také živý muž, jako ty, který "
 "chodí mezi mrtvými. Nám všem, kdo jej budeme následovat, slíbil nový život!"
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:376
 msgid "I would very much like to meet Ihiah-Malal. Where can I find him?"
 msgstr "Hrozně rád bych se setkal s tím Ihiah Malalem. Kde bych jej našel?"
 
+#. message: speaker=Roland
 #: Delfadors_Memoirs/scenarios/09_land_of_the_dead_intro.cfg:380
 msgid ""
 "Follow the dry river, then the road to the signpost in the north. I will "
@@ -1276,21 +1525,27 @@ msgstr ""
 "Běž po suché řece, pak stezkou ke směrovníku na severu. Povedu Tě. Cestou "
 "vstup do všech domů mrtvých, možná tam najdeš další pomoc."
 
+#. scenario
+#. time
+#. illuminated_time
 #: Delfadors_Memoirs/scenarios/10_land_of_the_dead.cfg:3
 #: Delfadors_Memoirs/utils/schedules.cfg:5
 #: Delfadors_Memoirs/utils/schedules.cfg:13
 msgid "Land of the Dead"
 msgstr "Země Mrtvých"
 
+#. side: type=Necromancer
 #: Delfadors_Memoirs/scenarios/10_land_of_the_dead.cfg:30
 #, fuzzy
 msgid "Ihiah-Malal"
 msgstr "Poraz Ihiah-Malala"
 
+#. objective: condition=win
 #: Delfadors_Memoirs/scenarios/10_land_of_the_dead.cfg:60
 msgid "Defeat Ihiah-Malal"
 msgstr "Poraz Ihiah-Malala"
 
+#. message: speaker=Ihiah-Malal
 #: Delfadors_Memoirs/scenarios/10_land_of_the_dead.cfg:95
 msgid ""
 "So, this is the one my minions told me of... the living man who walks here "
@@ -1300,16 +1555,19 @@ msgstr ""
 "To je ten, o kterém mi říkali mí poddaní... živý muž kráčející mezi mrtvými. "
 "Přišel jsi právě včas, abys uviděl můj největší čin- konec smrti samotné! "
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/10_land_of_the_dead.cfg:100
 msgid "That's impossible! You must be insane!"
 msgstr "Co je to za blud? Ty jsi zešílel!"
 
+#. message: speaker=Ihiah-Malal
 #: Delfadors_Memoirs/scenarios/10_land_of_the_dead.cfg:105
 msgid ""
 "Have not you yourself travelled between the realms of life and death? Behold!"
 msgstr ""
 "Cožpak tys sám necestoval mezi oběma světy, světem živých a mrtvých? Zři!"
 
+#. message: role=dead_sidekick
 #: Delfadors_Memoirs/scenarios/10_land_of_the_dead.cfg:154
 msgid ""
 "Ihiah-Malal has created a portal to the land of the living! How I long to go "
@@ -1318,6 +1576,7 @@ msgstr ""
 "Ihiah-Malal otevřel portál do světa živých! Kdybych jím tak mohl projít, "
 "zase bych mohl procházet po zemi, tak jako dřív."
 
+#. message: speaker=Ihiah-Malal
 #: Delfadors_Memoirs/scenarios/10_land_of_the_dead.cfg:159
 msgid ""
 "Now, my living followers, I summon you! See that death is nothing, and fear "
@@ -1326,6 +1585,7 @@ msgstr ""
 "Nyní, mí věrní smrtelníci, přijďte! Přivolávám Vás. Vězte, že smrt je pouhé "
 "nic! Přijďte a bojujte za mne!"
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/10_land_of_the_dead.cfg:198
 msgid ""
 "This is a great evil. The dead will not find peace by passing through your "
@@ -1336,6 +1596,7 @@ msgstr ""
 "Malale, protože ty jim nejsi schopen znovu vrátit život! Tím nepřivodíš "
 "konec smrti jako takové, ale zahubíš život!"
 
+#. message: speaker=Ihiah-Malal
 #: Delfadors_Memoirs/scenarios/10_land_of_the_dead.cfg:203
 msgid ""
 "You will see things differently at the point of a sword, my friend. Minions! "
@@ -1344,14 +1605,17 @@ msgstr ""
 "Myslím, že při pohledu na meč uvidíš věci jinak, příteli. Mí věrní! Zabte "
 "toho nevěřícího... aby se k nám mohl přidat!"
 
+#. message: speaker=narrator
 #: Delfadors_Memoirs/scenarios/10_land_of_the_dead.cfg:218
 msgid "Ihiah-Malal's body lay still for a moment, then stirred!"
 msgstr "Tělo Ihiah-Malala leželo jen malý okamžik, pak zmizelo!"
 
+#. message: speaker=unit
 #: Delfadors_Memoirs/scenarios/10_land_of_the_dead.cfg:224
 msgid "Follow me if you dare..."
 msgstr "Následuj mne, troufáš-li si..."
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/10_land_of_the_dead.cfg:242
 msgid ""
 "This portal Ihiah-Malal has created is a great and terrible work of magic. I "
@@ -1360,35 +1624,42 @@ msgstr ""
 "Portál, který Ihiah-Malal vytvořil, je velkým a hrůzným činem magie. Musím "
 "jít, polapit jej a nějak přinutit, aby jej zavřel."
 
+#. scenario
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:3
 msgid "Wasteland"
 msgstr "Pustina"
 
+#. side: type=Orcish Warlord
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:30
 msgid "Tish Golub"
 msgstr ""
 
+#. side: type=Elvish Druid
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:44
 msgid "Chantal"
 msgstr ""
 
+#. objective: condition=lose
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:79
 msgid "Death of allied leader"
 msgstr "Smrt spojeneckého vůdce"
 
+#. message: speaker=narrator
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:119
+#, fuzzy
 msgid ""
 "As Delfador followed Ihiah-Malal into the portal, a freezing wind sprung up "
 "and the air became thick with ghosts pouring through into the land of the "
-"living.  The ground became icy underfoot, and soon Delfador was following "
-"the necromancer's footsteps in a thick layer of snow.  Eventually, even "
-"these became indistinct."
+"living. The ground became icy underfoot, and soon Delfador was following the "
+"necromancer's footsteps in a thick layer of snow. Eventually, even these "
+"became indistinct."
 msgstr ""
 "Jak Delfador následoval Ihiah-Malala k portálu, zvedl se mrazivý vítr a "
 "vzduch zhoustl duchy valícími se do světa živých. Zem pod nohama zmrzla, "
 "brzy se Delfador brodil v závějích sněhu. Jen chvíli mohl jít v "
 "nekromancerových šlépějích. Záhy se staly nezřetelnými..."
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:125
 msgid ""
 "It's hopeless, I've lost all track of Ihiah-Malal... and I shall freeze "
@@ -1397,11 +1668,13 @@ msgstr ""
 "Je to beznadějné. Ztratil jsem jeho stopu... a pokud brzy nenajdu úkryt, "
 "zmrznu na kost. Snad v těch lesích na severu..."
 
+#. message: speaker=unit
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:140
 #, fuzzy
 msgid "Greetings, stranger! What are you doing in our forests?"
 msgstr "Haló, cizinče, co pohledáváš v našich lesích?"
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:144
 msgid ""
 "It's a long story... but I wonder whether I might first ask for your "
@@ -1410,6 +1683,7 @@ msgstr ""
 "To je dlouhý příběh... ale velmi rád bych vás nejdřív požádal o vaši "
 "pohostinnost. Ztratil jsem se a jsem k smrti prokřehlý."
 
+#. message: speaker=unit
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:148
 msgid ""
 "Well, I don't see any harm in it... Our border post is to the northeast; you "
@@ -1420,14 +1694,17 @@ msgstr ""
 "možná úkryt najdeš. Ale nemeškej! Jsou mnohem smrtelnější nepřátelé než "
 "počasí."
 
+#. message: speaker=Chantal
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:164
 msgid "Welcome, Delfador!"
 msgstr "Vítej, Delfadore!"
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:168
 msgid "Er, hello... you know my name, then...?"
 msgstr "Ehm, dobrý den... ty znáš mé jméno?"
 
+#. message: speaker=Chantal
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:172
 msgid ""
 "Yes. I am Chantal, and I know many things. I know you come from the great "
@@ -1441,6 +1718,7 @@ msgstr ""
 "navštívil jsi místa, odkud je jen malá naděje na návrat, a odkud se nikdo "
 "nevrátil nezměněn. Osud Ti kráčí v patách. Jsi hoden naší pomoci."
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:176
 msgid ""
 "Oh... well... very nice of you, but I don't feel very fated. In fact, I've "
@@ -1453,6 +1731,7 @@ msgstr ""
 "domov před skřety a poté najít prapůvod aktivity nemrtvých... a v obojím "
 "jsem totálně selhal!"
 
+#. message: speaker=Chantal
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:180
 msgid ""
 "But you have not failed. The southlands have not yet fallen to the orcish "
@@ -1466,14 +1745,17 @@ msgstr ""
 "všeho bojí ten, kdo podvedl mrtvé v jejich důvěře, že mohou znovu žít, kdo "
 "je zaslepil v jejich klidu a míru v jejich vlastním světě."
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:184
 msgid "You mean Ihiah-Malal?"
 msgstr "Máš na mysli Ihiah-Malala?"
 
+#. message: speaker=Chantal
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:188
 msgid "Yes, that is who I mean."
 msgstr "Ano, to byl muž v mé mysli."
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:192
 msgid ""
 "If I might ask, where am I? And what of Lionel, and King Garard? What has "
@@ -1482,6 +1764,7 @@ msgstr ""
 "Mohu-li se zeptat, kde tedy jsem? A co se stalo s Lionelem a Králem "
 "Garardem? Co je postihlo?"
 
+#. message: speaker=Chantal
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:196
 msgid ""
 "You are among the North Elves. Our arts hold back the winter cold within "
@@ -1494,6 +1777,7 @@ msgstr ""
 "Velká Řeka, kterou nazýváte Abez, a za ní Tvůj domov. Ale o tvých přátelích "
 "nevím nic."
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:200
 msgid ""
 "I am deeply grateful for your aid, Chantal. I see now what I must do... I "
@@ -1504,6 +1788,7 @@ msgstr ""
 "Stratil jsem Ihiah-Malala, ale musím se pokusit podat zprávu Krali Garardovi "
 "nebo Leollynovi. Vyrazím tedy na jih."
 
+#. message: speaker=Chantal
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:204
 msgid ""
 "It will not be easy. The orcish army lies between here and your destination. "
@@ -1513,6 +1798,7 @@ msgstr ""
 "To nebude tak snadné. Armády skřetů leží mezi Tebou a místem, kam míříš. I "
 "tady pociťujeme nájezdy skřetích band utábořených v horách na jihozápadě."
 
+#. message: speaker=Delfador
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:208
 msgid ""
 "Attacked by orcs? Then I might perhaps help you to defeat them, and repay "
@@ -1521,24 +1807,29 @@ msgstr ""
 "Napadeni skřety? Rád bych Vám splatil Vaši pohostinnost a laskavost svojí "
 "pomocí!"
 
+#. message: speaker=Chantal
 #: Delfadors_Memoirs/scenarios/11_wasteland.cfg:220
+#, fuzzy
 msgid ""
 "With your help, Delfador, we have overrun the orcish warlord of this area, "
-"and our forests are secure.  Secure enough that I can even join you in your "
+"and our forests are secure. Secure enough that I can even join you in your "
 "journey south... at least as far as the Great River."
 msgstr ""
 "S Tvou pomocí, Delfadore, jsme rozdrtili skřetí nájezdníky v těchto "
 "končinách a v našich lesích je zase bezpečno. natolik bezpečno, že Tě mohu "
 "doprovodit při Tvé cestě na jih... nejméně k Velké Řece."
 
+#. scenario
 #: Delfadors_Memoirs/scenarios/13_epilogue.cfg:3
 msgid "Epilogue"
 msgstr "Epilog"
 
+#. part
 #: Delfadors_Memoirs/scenarios/13_epilogue.cfg:13
 msgid " This is the end of the story also known as Legend of Young Delfador."
 msgstr " Toto je konec příběhu, známého též jako Legenda o mladém Delfadorovi."
 
+#. part
 #: Delfadors_Memoirs/scenarios/13_epilogue.cfg:30
 msgid ""
 "\n"
@@ -1579,6 +1870,7 @@ msgstr ""
 "Mnohý dík patří Toranganovi za jeho trpělivost a za vysvětlení, jak wescamp "
 "pracuje; také všem ostatním z diskusního fóra na wesnoth.org.\n"
 
+#. part
 #: Delfadors_Memoirs/scenarios/13_epilogue.cfg:41
 msgid ""
 "\n"
@@ -1599,6 +1891,7 @@ msgstr ""
 "nikita: překlad do ruštiny\n"
 "Stefan Bergström (tephlon): překlad do švédštiny\n"
 
+#. part
 #: Delfadors_Memoirs/scenarios/13_epilogue.cfg:44
 msgid ""
 " If you liked the campaign, please post your feedback at wesnoth forum "
@@ -1611,6 +1904,7 @@ msgstr ""
 "času a na oplátku bychom tuze rádi znali názor lidí, kteří tažení dohráli do "
 "konce."
 
+#. part
 #: Delfadors_Memoirs/scenarios/13_epilogue.cfg:48
 msgid ""
 " CAMPAIGN MAINTAINER: The campaign is not finalized yet. Delfador should "
@@ -1624,10 +1918,12 @@ msgstr ""
 "mnoho nápadů a v budoucnu budou použity. Pokud mi chcete pomoci s dokončením "
 "tažení, ozvěte se mi na Wesnotím fóru. Tapik"
 
+#. unit_type
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:7
 msgid "Journeyman Mage"
 msgstr "Potulný mág"
 
+#. unit_type
 #: Delfadors_Memoirs/units/Journeyman_Mage.cfg:12
 msgid ""
 "A mage who has just finished his or her apprenticeship is known as a "
@@ -1638,10 +1934,12 @@ msgstr ""
 "místo, se nazývají Potulní mágové - putují daleko ve svém hledání zaměstnání "
 "a zkušeností."
 
+#. unit_type: race=human
 #: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:4
 msgid "King of Wesnoth"
 msgstr "Král Wesnothu"
 
+#. unit_type: race=human
 #: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:19
 msgid ""
 "Under the feudal system, all authority ultimately rested with the sovereign. "
@@ -1654,18 +1952,22 @@ msgstr ""
 "povinována odvody. Na oplátku je to král, kdo se stará o obranu jejich území "
 "před nájezdníky a přerozděluje v době nouze."
 
+#. attack: type=blade
 #: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:25
 msgid "sword"
 msgstr "meč"
 
+#. attack: type=pierce
 #: Delfadors_Memoirs/units/King_of_Wesnoth.cfg:33
 msgid "bow"
 msgstr "luk"
 
+#. unit_type
 #: Delfadors_Memoirs/units/Mage_Commander.cfg:7
 msgid "Mage Commander"
 msgstr "Mág velitel"
 
+#. unit_type
 #: Delfadors_Memoirs/units/Mage_Commander.cfg:16
 msgid ""
 "This mage has gained much experience leading others into battle. As a "
@@ -1676,16 +1978,19 @@ msgstr ""
 "pak schopnost jednotek první a druhé úrovně bojovat mnohem efektivněji, je-"
 "li někde poblíž. Navíc získal sílu léčit raněné během boje."
 
+#. attack: type=impact
 #: Delfadors_Memoirs/units/Mage_Magister.cfg:23
 #: Delfadors_Memoirs/units/Mage_Leader.cfg:18
 #: Delfadors_Memoirs/units/Mage_Commander.cfg:20
 msgid "staff"
 msgstr "hůl"
 
+#. unit_type
 #: Delfadors_Memoirs/units/Mage_Leader.cfg:7
 msgid "Mage Leader"
 msgstr "Mág vůdce"
 
+#. unit_type
 #: Delfadors_Memoirs/units/Mage_Leader.cfg:15
 msgid ""
 "This mage has gained some experience leading others into battle. As a "
@@ -1694,11 +1999,13 @@ msgstr ""
 "Tento mág získal nějaké zkušeností při vedení druhých v boji. Výsledkem je "
 "pak schopnost jednotek první úrovně bojovat efektivněji, je-li někde poblíž."
 
+#. unit_type
 #: Delfadors_Memoirs/units/Mage_Magister.cfg:7
 #, fuzzy
 msgid "Mage Magister"
 msgstr "Mág vůdce"
 
+#. unit_type
 #: Delfadors_Memoirs/units/Mage_Magister.cfg:19
 msgid ""
 "A Mage Magister, though equivalent in degree to a Great Mage, has special "
@@ -1706,10 +2013,12 @@ msgid ""
 "battle."
 msgstr ""
 
+#. unit_type: race=wose
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:4
 msgid "Wose Shaman"
 msgstr "Entí šaman"
 
+#. unit_type: race=wose
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:22
 msgid ""
 "These woses are able to command forest plants such as vines and creepers to "
@@ -1718,55 +2027,67 @@ msgstr ""
 "Tito Entové jsou schopni přimět popínavé rostliny, jako třeba vinnou révu či "
 "liány, zpomalit nepřítele."
 
+#. attack: type=impact
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:25
 msgid "crush"
 msgstr "rozdrcení"
 
+#. attack: type=impact
 #: Delfadors_Memoirs/units/Wose_Shaman.cfg:33
 msgid "entangle"
 msgstr "zamotání"
 
-#: Delfadors_Memoirs/utils/deaths.cfg:12
+#. message: speaker=Delfador
+#: Delfadors_Memoirs/utils/deaths.cfg:13
 msgid "No! So young..."
 msgstr "Ne! Tak mlád..."
 
-#: Delfadors_Memoirs/utils/deaths.cfg:26
+#. message: speaker=Delfador
+#: Delfadors_Memoirs/utils/deaths.cfg:27
 msgid "No! Without Lionel's help, I am as good as defeated!"
 msgstr "Ne! Bez Lionelovy pomoci jsem mrtev."
 
-#: Delfadors_Memoirs/utils/deaths.cfg:39
+#. message: speaker=Delfador
+#: Delfadors_Memoirs/utils/deaths.cfg:40
 msgid ""
 "Chantal! No - you can't be dead! I have no hope of returning to Wesnoth "
 "now..."
 msgstr ""
 "Chantal, ne! Ty nemůžeš zemřít! ... Ztratil jsem naději vrátit se zpět domů."
 
+#. message: speaker=unit
 #: Delfadors_Memoirs/utils/generators.cfg:21
 msgid "I call upon all that is holy to break the power of this evil stone!"
 msgstr ""
 "Vyzývám vše svaté na tomto světě, nechť moc těchto nečistých kamenů je "
 "zlomena!"
 
+#. message: speaker=unit
 #: Delfadors_Memoirs/utils/generators.cfg:66
 msgid "Evil emanates from this stone, but I have not the power to destroy it."
 msgstr "Zlo se šíří z těchto kamenů a já nemám sílu to zastavit..."
 
+#. message: speaker=unit
 #: Delfadors_Memoirs/utils/generators.cfg:146
 msgid "Evil spirits, begone from this place!"
 msgstr "Zlý duchové, odejděte z tohoto místa!"
 
+#. message: speaker=unit
 #: Delfadors_Memoirs/utils/generators.cfg:190
 msgid "It would take powerful magic to drive the evil from this place."
 msgstr "To bude chtít opravdu silnou magii zbavit toto místo všeho zlého."
 
+#. message: speaker=unit
 #: Delfadors_Memoirs/utils/items.cfg:17
 msgid "Ahh... I can slake my thirst at this well.  Glug, glug glug..."
 msgstr "Ách... Konečně mohu uhasit svou žízeň... glo, glo, glo ..."
 
+#. object
 #: Delfadors_Memoirs/utils/items.cfg:42
 msgid "Staff of Lightning"
 msgstr "Hůl blesků"
 
+#. object
 #: Delfadors_Memoirs/utils/items.cfg:45
 msgid ""
 "A wizard's staff of power. This allows the bearer to summon powerful "
@@ -1775,19 +2096,24 @@ msgstr ""
 "Čarodějova Hůl Moci. Umožňuje majiteli sesílat mocné blesky, které zasáhnou "
 "nepřítele jak zblízka tak z dálky."
 
+#. object
 #: Delfadors_Memoirs/utils/items.cfg:46
 msgid "Only a powerful mage can wield this."
 msgstr "Pouze mocný mág ji může nosit."
 
+#. effect: type=fire
+#. attack_filter
 #: Delfadors_Memoirs/utils/items.cfg:49 Delfadors_Memoirs/utils/items.cfg:65
 #: Delfadors_Memoirs/utils/items.cfg:98
 msgid "lightning"
 msgstr "blesk"
 
+#. effect: type=fire
 #: Delfadors_Memoirs/utils/items.cfg:84
 msgid "Staff of Power"
 msgstr "Hůl Moci"
 
+#. message: speaker=unit
 #: Delfadors_Memoirs/utils/misc.cfg:37
 msgid "A secret passage... I wonder where it leads..."
 msgstr "Tajná stezka... Zajímalo by mne, kam vede."
